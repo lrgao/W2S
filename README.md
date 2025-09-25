@@ -42,7 +42,7 @@ bash train_sft_e2e.sh
 In Stage 2, the model is incrementally refined based on the Stage-1 model.
 
 ```shell
-bash train.sh
+bash train_dpo.sh
 ```
 
 ### Inference
