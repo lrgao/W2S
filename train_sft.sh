@@ -31,6 +31,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python cli_gt.py \
 # Stage 2: DPO
 cd DPO
 ACC_CONFIG='acc_config/ddp8.yaml'
-CUDA_VISIBLE_DEVICES=1 accelerate launch --main_process_port='29510' --config_file $ACC_CONFIG dpo.py --config-name=dpo-webnlg-bs8-qwen-max
+CUDA_VISIBLE_DEVICES=1 accelerate launch --main_process_port='29510' --config_file $ACC_CONFIG dpo.py --config-name=dpo-cnndm-qwen2-7b
 cd -
 
