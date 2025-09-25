@@ -1,0 +1,3502 @@
+[
+   {
+      "id": 1183,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "There is a restaurant called The Cricketers providing Chinese food located in the city centre near All Bar One with 5 out of 5 customer rating and it's price range is cheap, but it is not family friendly."
+      ]
+   },
+   {
+      "id": 2619,
+      "input_string": "name[The Phoenix], food[Indian], priceRange[cheap], priceRange[more than £30], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is an excellent shop serving Indian fare at a low price with high ratings.  It is located in the city centre near Crowne Plaza Hotel and is not family friendly."
+      ]
+   },
+   {
+      "id": 4322,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Italian], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the riverside area. Ia a restaurant The Wrestlers. Child friendly Italian restaurant with a moderate price range."
+      ]
+   },
+   {
+      "id": 362,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe serves Fast food and is kids-friendly. It is a pub in the area of riverside and is near Rainbow Vegetarian Café"
+      ]
+   },
+   {
+      "id": 269,
+      "input_string": "name[Cocum], eatType[coffee shop], customer rating[high], near[Café Sicilia]",
+      "text": [
+         "There is a coffee shop named Cocum located near Café Sicilia. The customer rating is high."
+      ]
+   },
+   {
+      "id": 4004,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "In riverside, is a family friendly, high priced, Italian restaurant named The Waterman. The Waterman is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4010,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a high price range Italian restaurant in the Riverside area near Raja Indian Cuisine. It is children friendly."
+      ]
+   },
+   {
+      "id": 508,
+      "input_string": "name[Giraffe], eatType[restaurant], near[Raja Indian Cuisine]",
+      "text": [
+         "Giraffe is a mature, whole foods restaurant located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3306,
+      "input_string": "name[The Vaults], eatType[pub], food[Indian], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "This non kid friendly pub called The Vaults, can be found near Raja Indian Cuisine in the city centre which offers Indian food at a high price range."
+      ]
+   },
+   {
+      "id": 286,
+      "input_string": "name[Cocum], eatType[pub], customer rating[high], near[Café Sicilia]",
+      "text": [
+         "Near Café Sicilia is a high rated pub called Cocum"
+      ]
+   },
+   {
+      "id": 4389,
+      "input_string": "name[The Wrestlers], eatType[restaurant], priceRange[less than £20], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a restaurant next to Raja Indian Cuisine that offers sushi. It is family friendly and is low priced."
+      ]
+   },
+   {
+      "id": 2805,
+      "input_string": "name[The Punter], eatType[pub], food[English], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a high price range pub.  It's in the centre of the city, near Raja Indian Cuisine. It serves English food and is children Friendly."
+      ]
+   },
+   {
+      "id": 2063,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a fast food,  pub located near Raja Indian Cuisine in Riverside. The pub is children friendly and is in the higher price range."
+      ]
+   },
+   {
+      "id": 2635,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], priceRange[cheap], customer rating[5 out of 5], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "A restaurant called The Phoenix sells cheap Indian food that is rated 5 out of 5 and is even better with its family friendly location near a riverside and the local Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 723,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Green Man is a family friendly restaurant near Express by Holiday Inn in the riverside area with Japanese food."
+      ]
+   },
+   {
+      "id": 126,
+      "input_string": "name[Blue Spice], eatType[pub], food[English], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a child friendly pub specializing in English cuisine in the riverside area near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 389,
+      "input_string": "name[Giraffe], eatType[pub], food[French], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Giraffe is a French pub near the Raja Indian Cuisine that is not family-friendly and located in the city centre."
+      ]
+   },
+   {
+      "id": 3995,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a restaurant that also serves Italian at a high price range and is not children friendly, It is located in riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3149,
+      "input_string": "name[The Punter], eatType[restaurant], priceRange[cheap], customer rating[average], area[city centre], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is a low priced restaurant with a three star rating. It is located in the city centre near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 1691,
+      "input_string": "name[The Mill], eatType[pub], priceRange[high], customer rating[1 out of 5], area[city centre], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Mill is a more expensive, children-friendly, fast-food pub located near Café Sicilia in the city centre. Customers have rated the location 1 out of 5."
+      ]
+   },
+   {
+      "id": 578,
+      "input_string": "name[Green Man], eatType[pub], food[Italian], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Riverside the location of  a pub that is kids-friendly, serves Italian food, is called Green Man, it's near Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 1321,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "At the riverside near All Bar One is a restaurant called The Cricketers. It serves moderate priced Chinese food and is customer rated 1 out of 5. It is not kid friendly."
+      ]
+   },
+   {
+      "id": 3277,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[more than £30], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a high-priced family friendly pub that serves wines and cheeses. It is located in the City centre and is near by the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2692,
+      "input_string": "name[The Plough], eatType[restaurant], food[Chinese], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a restaurant offering Chinese food with a price range of 20-25 pounds.  This restaurant is located in riverside near the Raja Indian Cuisine restaurant.  It is kids friendly."
+      ]
+   },
+   {
+      "id": 4336,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Italian], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A restaurant that is kid friendly near Raja Indian Cuisine named The Wrestlers in the riverside area has a price range of more than £30 that serves Italian food."
+      ]
+   },
+   {
+      "id": 347,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Located on the riverside, near Rainbow Vegetarian Café, the pub Giraffe serves Fast food and is family friendly"
+      ]
+   },
+   {
+      "id": 2741,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub in Riverside, near Raja Indian Cuisine called The Punter. It is not family friendly and serves Chinese food for less than £20."
+      ]
+   },
+   {
+      "id": 3381,
+      "input_string": "name[The Vaults], eatType[pub], eatType[restaurant], food[Italian], priceRange[moderate], customer rating[1 out of 5], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a pub type Italian restaurant in the moderate price range with kids friendly atmosphere. It is located in the city centre near Rainbow Vegetarian Café with a customer rating 1 out of 5."
+      ]
+   },
+   {
+      "id": 2880,
+      "input_string": "name[The Punter], eatType[restaurant], food[English], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Serving English food on the riverside in The Punter. A kid friendly restaurant in the price range £20 - £25. The Punter is located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2648,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a pub offering Chinese food with a price range of 20-25 pounds.  This pub is located in riverside near the Raja Indian Cuisine pub.  It is kids friendly."
+      ]
+   },
+   {
+      "id": 2065,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Beside Raja Indian Cuisine in riverside there is a child friendly high priced fast food and pub called The Phoenix."
+      ]
+   },
+   {
+      "id": 2745,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[less than £20], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located on the riverside, near Raja Indian Cuisine, is The Punter. It is a family-friendly, low-priced pub which also serves Chinese food."
+      ]
+   },
+   {
+      "id": 3614,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a pub providing not a family-friendly atmosphere. It serves Japanese food for less than £20. It is located near Raja Indian Cuisine in the riverside. It has a low customer rating."
+      ]
+   },
+   {
+      "id": 2717,
+      "input_string": "name[The Plough], eatType[restaurant], food[Chinese], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a restaurant offering Chinese food. They are located riverside and are not children friendly. They can be found riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2525,
+      "input_string": "name[The Phoenix], eatType[restaurant], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is located near Raja Indian Cuisine and is a low cost family friendly restaurant."
+      ]
+   },
+   {
+      "id": 1922,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a restaurant providing English Food. It is located in riverside near Raja Indian Cuisine. Moderate price range and no kids friendly."
+      ]
+   },
+   {
+      "id": 633,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "Featuring Japanese cuisine and a pub atmosphere, the Green Man is situated on the riverside, near the Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 3141,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[cheap], customer rating[average], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is a family-friendly restaurant serving cheap Italian food. It's located in the city centre near Rainbow Vegetarian Café and has an average customer rating."
+      ]
+   },
+   {
+      "id": 1953,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[no], near[Café Rouge]",
+      "text": [
+         "Located in riverside near Café Rouge The Mill restaurant, in the moderate price range, they serve English food. They are not kid friendly they have 1 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 2197,
+      "input_string": "name[The Phoenix], eatType[pub], eatType[restaurant], food[French], priceRange[£20-25], customer rating[3 out of 5], area[city centre], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The French restaurant named The Phoenix is a pub in the city centre, near Café Sicilia is a place for kids with price range from 20-25 with a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 1195,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers is a Chinese food restaurant and restaurant located near All Bar One in the city centre, it has 5 out of 5 star customer ratings, a cheap price range, and is kid friendly."
+      ]
+   },
+   {
+      "id": 1269,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[high], priceRange[moderate], customer rating[average], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers restaurant serves Chinese food in the high price range with an average customer rating in the City Centre near All Bar One and is children friendly"
+      ]
+   },
+   {
+      "id": 933,
+      "input_string": "name[The Cricketers], eatType[coffee shop], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Cricketers is a popular child friendly coffee shop located near Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 4167,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[moderate], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "Japanese food can be found in the city centre area at The Wrestlers pub.  This average-priced option is not a good location to bring children.  This pub can be found next to Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4038,
+      "input_string": "name[The Wrestlers], eatType[pub], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a low cost pub. It is by Raja Indian Cuisine, and is adult only."
+      ]
+   },
+   {
+      "id": 730,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "By the Express by Holiday Inn and the riverside, there is a restaurant which serves Japanese food and is children friendly, named The Green Man."
+      ]
+   },
+   {
+      "id": 3098,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant near Express by Holiday Inn at riverside. It also provides Italian food at a price range of £20-25. It's not suitable for kids, however it is highly rated by customers."
+      ]
+   },
+   {
+      "id": 586,
+      "input_string": "name[Green Man], eatType[pub], food[Italian], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Near Express by Holiday Inn, there is an Italian pub called Green Man. It is child friendly in the riverside area."
+      ]
+   },
+   {
+      "id": 4588,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is a restaurant in Riverside, near Raja Indian Cuisine.  It serves French food and is family-friendly."
+      ]
+   },
+   {
+      "id": 3286,
+      "input_string": "name[The Vaults], eatType[pub], food[French], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a children friendly pub The Vaults near Raja Indian Cuisine located in the riverside. It serves French food  for more than £30."
+      ]
+   },
+   {
+      "id": 1537,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], near[Raja Indian Cuisine]",
+      "text": [
+         "Located next to Raja Indian Cuisine, is a non family low priced pub called The Mill."
+      ]
+   },
+   {
+      "id": 3926,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is an Indian restaurant providing meals less than £20. It is located near the riverside and Raja Indian Cuisine and is non family friendly."
+      ]
+   },
+   {
+      "id": 4478,
+      "input_string": "name[Wildwood], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located near the Raja Indian Cuisine, in the riverside area is Wildwood. This is a family friendly pub that offers French food."
+      ]
+   },
+   {
+      "id": 4645,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Italian], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is family-friendly restaurant specializing in Italian cuisine near the Raja Indian Cuisine in the city centre."
+      ]
+   },
+   {
+      "id": 3327,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[high], priceRange[moderate], customer rating[average], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a pub serving Italian food in the riverside area near Rainbow Vegetarian Café, It has a high price range with an average customer rating and is not child friendly."
+      ]
+   },
+   {
+      "id": 3504,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults, a Japanese pub on the riverside near Raja Indian Cuisine, boasts moderate prices, high ratings and a family friendly atmosphere."
+      ]
+   },
+   {
+      "id": 3524,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[cheap], customer rating[3 out of 5], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a family-friendly Japanese food pub in the city near Raja Indian Cuisine with low prices and a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 3278,
+      "input_string": "name[The Vaults], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located in riverside near Raja Indian Cuisine, The Vaults pub offers French food. Child friendly ranging in price more end £30."
+      ]
+   },
+   {
+      "id": 1650,
+      "input_string": "name[The Mill], eatType[pub], area[riverside], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Mill is an amazing low-cost, family friendly pub that serves food fast. It is located near the Café Sicilia by the river."
+      ]
+   },
+   {
+      "id": 2283,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a pub near Raja Indian Cuisine in Riverside that serves expensive French food. It is children friendly."
+      ]
+   },
+   {
+      "id": 4069,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers, a pub, is an Italian, kid friendly along the riverside. It is near Raja Indian Cuisine and the price range is average."
+      ]
+   },
+   {
+      "id": 1880,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Mill is a restaurant which serves English food and is located in the city centre near Café Rouge. It is family-friendly, has meals less than 20 pounds, but has a low customer rating."
+      ]
+   },
+   {
+      "id": 1847,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill, Is a restaurant and is family-friendly, cheap and reasonable priced is very good for the family , We provide full English food. Located near Raja Indian Cuisine In the city centre."
+      ]
+   },
+   {
+      "id": 4347,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The children friendly restaurant called The Wrestlers can be found by the riverside near Raja Indian Cuisine. It serves Japanese food in average price range."
+      ]
+   },
+   {
+      "id": 4263,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a pub made Japanese food near from Raja Indian Cuisine at city centre"
+      ]
+   },
+   {
+      "id": 3794,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "In the riverside area near Raja Indian Cuisine is, The Waterman. A pub serving Indian food. A not so family friendly pub with meals less than £20."
+      ]
+   },
+   {
+      "id": 1532,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Nearby the city centre and Raja Indian Cuisine, The Mill is a cheap pub that is not family friendly."
+      ]
+   },
+   {
+      "id": 3279,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[more than £30], near[Raja Indian Cuisine]",
+      "text": [
+         "There is an expensive pub The Vaults located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3624,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[less than £20], customer rating[low], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine, The Vaults pub offers low quality at low prices for your family"
+      ]
+   },
+   {
+      "id": 864,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "There is a 5 out of 5 customer rated child friendly coffee shop located near a Crowne Plaza Hotel called The Cricketers."
+      ]
+   },
+   {
+      "id": 2858,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a restaurant which offers Chinese food. It has a moderate price range. It is in a riverside area. It is not kids friendly and it is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2968,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[high], customer rating[average], area[city centre], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant offering Indian food at a high price.  It is in the city centre near Express by Holiday Inn.  It has an average customer rating and is children friendly."
+      ]
+   },
+   {
+      "id": 356,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "In Riverside, there is a pub offering fast food near the Rainbow Vegetarian Café.  It is called Giraffe and offers a children-friendly relaxed environment."
+      ]
+   },
+   {
+      "id": 1770,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Mill is a 1-star pub providing fast food in the low price range. It is suitable for families and located beside Café Sicilia at the north of city centre."
+      ]
+   },
+   {
+      "id": 1444,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[cheap], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Cricketers is an English food and restaurant. It is located in the city centre near Café Rouge and has been rated by customers as a kid-friendly, average place with a cheap price range."
+      ]
+   },
+   {
+      "id": 1164,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[£20-25], customer rating[high], near[All Bar One]",
+      "text": [
+         "Enjoy highly rated Chinese dishes for £20-25. The Cricketers is a restaurant located downtown near All Bar One. It is not oriented toward family dining."
+      ]
+   },
+   {
+      "id": 3815,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a moderate priced, child friendly pub that serves Indian food in the city centre near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1962,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Mill restaurant serves English food. It is near Café Rouge, in the riverside area. It is in the moderate price range and is kid friendly. The customer rating is a 1 out of 5."
+      ]
+   },
+   {
+      "id": 792,
+      "input_string": "name[Strada], eatType[pub], area[city centre]",
+      "text": [
+         "The Strada is a pub located in the centre of the city."
+      ]
+   },
+   {
+      "id": 3283,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[more than £30], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a high priced range pub called The Vaults located in City Centre that is family friendly and offers Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 533,
+      "input_string": "name[Green Man], eatType[coffee shop], customer rating[1 out of 5], near[All Bar One]",
+      "text": [
+         "The Green Man, near All Bar One, is coffee shop receiving customer ratings of 1 out of 5."
+      ]
+   },
+   {
+      "id": 1547,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a family friendly pub located near Raja Indian Cuisine in the city centre called The Mill which offers cheap food."
+      ]
+   },
+   {
+      "id": 4013,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located in the riverside area, The Waterman, offers Italian flare in a restaurant setting and is kid friendly. It is near Raja Indian Cuisine and is a bit on the pricey side."
+      ]
+   },
+   {
+      "id": 1667,
+      "input_string": "name[The Mill], food[Fast food], priceRange[cheap], customer rating[average], area[riverside], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "Not family-friendly, The Mill is located riverside near Café Sicilia, and has an average customer rating. Fast food with a low price range."
+      ]
+   },
+   {
+      "id": 1109,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Near Express by Holiday Inn is a child friendly restaurant named The Cricketers that has a high customer rating."
+      ]
+   },
+   {
+      "id": 2296,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], customer rating[3 out of 5], area[riverside], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a highly priced French pub near Crowne Plaza Hotel by riverside.  The Phoenix is not child friendly and has a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 2375,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], customer rating[low], area[riverside], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a pub. This pub is family friend and prices range less then 20 dollars. They offer different types of French food. The Phoenix is located in Riverside near the Crowne Plaza Hotel. Our customer rating is low."
+      ]
+   },
+   {
+      "id": 4005,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located near Raja Indian Cuisine in the Riverside area, The Waterman is a high priced   children friendly restaurant serving Italian food."
+      ]
+   },
+   {
+      "id": 3582,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[less than £20], customer rating[average], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Serving Japanese food in it's pub, The Vaults, is not family-friendly.  It has a price range of less than £20 and an average customer rating. and is located in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4258,
+      "input_string": "name[The Wrestlers], eatType[pub], priceRange[more than £30], customer rating[5 out of 5], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a family friendly pub located near Raja Indian Cuisine. They have a high price range and a 5 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 4199,
+      "input_string": "name[The Wrestlers], eatType[restaurant], customer rating[1 out of 5], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "North of city centre and near Raja Indian Cuisine, is a 1 star, medium priced restaurant called The Wrestlers."
+      ]
+   },
+   {
+      "id": 3480,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[moderate], area[city centre], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Near Rainbow Vegetarian Café in the city centre is The Vaults family pub.  It is mid range priced."
+      ]
+   },
+   {
+      "id": 4173,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a moderately priced, family friendly Japanese pub in Riverside, near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3772,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[high], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is an Indian pub and pub located in the riverside area near the Raja Indian Cuisine.  Prices are in the high range and it is not child friendly."
+      ]
+   },
+   {
+      "id": 1694,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[high], near[Café Sicilia]",
+      "text": [
+         "The Mill is a pub providing Fast food in the high price range. It is located near of Café Sicilia."
+      ]
+   },
+   {
+      "id": 3769,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The rare combo of Indian food in a pub can be found at The Waterman.  The price is high, but it is children friendly.  The Waterman is near Raja Indian Cuisine in the city centre."
+      ]
+   },
+   {
+      "id": 4529,
+      "input_string": "name[Wildwood], eatType[pub], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wildwood is an Indian pub in the riverside area.  This pub is very family friendly and is located near the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4048,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[moderate], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a pub in the city centre area, offering moderately priced Italian food near Raja Indian Cuisine. It is best suited for couples."
+      ]
+   },
+   {
+      "id": 2006,
+      "input_string": "name[The Mill], eatType[restaurant], food[Japanese], priceRange[cheap], area[riverside], near[Café Rouge]",
+      "text": [
+         "The Mill offers Japanese food and restaurant with cheap price near Café Rouge in riverside."
+      ]
+   },
+   {
+      "id": 1054,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a restaurant near Crowne Plaza Hotel with a 5 out of 5 rating.  It is family friendly."
+      ]
+   },
+   {
+      "id": 853,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[3 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers, a children friendly coffee shop located near Crowne Plaza Hotel, has a 3 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 881,
+      "input_string": "name[The Cricketers], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a family-Friendly 5 out 5 rating store near the Crowne Plaza Hotel"
+      ]
+   },
+   {
+      "id": 3932,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a family friendly restaurant providing Indian food for £20 or less. It is located in riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 94,
+      "input_string": "name[Blue Spice], eatType[pub], food[English], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a family-friendly pub providing English food. It is located near the Rainbow Vegetarian Café in Riverside."
+      ]
+   },
+   {
+      "id": 2437,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[more than £30], customer rating[low], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "There is a French pub called The Phoenix in city centre near Crowne Plaza Hotel. The price range is more than £30, a low customer rating but children are welcome."
+      ]
+   },
+   {
+      "id": 4687,
+      "input_string": "name[Zizzi], eatType[pub], customer rating[high], near[Burger King]",
+      "text": [
+         "Located near Burger King, Zizzi is a high-rated pub."
+      ]
+   },
+   {
+      "id": 1400,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers is a kid friendly restaurant that serves English food near All Bar One in the riverside area.  It has a price range of 20-25 pounds and is a highly rated restaurant."
+      ]
+   },
+   {
+      "id": 4633,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a restaurant called Wildwood located in the riverside area near the Raja Indian Cuisine. It is family friendly and serves Indian food."
+      ]
+   },
+   {
+      "id": 3309,
+      "input_string": "name[The Vaults], eatType[pub], food[Indian], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "An option for Indian cuisine is The Vaults.  This is a pub near Raja Indian Cuisine in the city centre.  This establishment costs more than others and does not allow children."
+      ]
+   },
+   {
+      "id": 2162,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], customer rating[high], area[riverside], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "The Phoenix is a high rated pub located on the riverside near Café Sicilia offering fast food. It has a mid-level price range and is not children friendly."
+      ]
+   },
+   {
+      "id": 1001,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[1 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "The Cricketers is a kids friendly restaurant located near Avalon and has a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 4193,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a Japanese kid-friendly pub situated by the riverside. Its price ranges are moderate and it has a customer rating of 1 out of 5. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1210,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[average], area[city centre], near[All Bar One]",
+      "text": [
+         "The Cricketers is a restaurant providing Chinese food in the cheap price range. It is located in the city centre. It is near All Bar One. Its customer rating is average."
+      ]
+   },
+   {
+      "id": 1918,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Welcome to The Mill. We are a restaurant, our price range is moderate, our food is English we're kid friendly located in the city centre by the Raja Indian Cuisine. We have a disclaimer by the door, we wrestle and any blood stains we do not cover."
+      ]
+   },
+   {
+      "id": 11,
+      "input_string": "name[Blue Spice], eatType[coffee shop], customer rating[average], near[Burger King]",
+      "text": [
+         "Located near Burger King is a coffee shop named Blue Spice that has an average customer rating."
+      ]
+   },
+   {
+      "id": 2847,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a restaurant that provides Chinese food in the moderate price range. It is located in the city centre near Raja Indian Cuisine. It is not kids friendly."
+      ]
+   },
+   {
+      "id": 2177,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[more than £30], customer rating[high], area[riverside], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Phoenix  is a pub which sells fast food of great quality at high prices. They are family friendly and can be found just east of Café Sicilia on the River."
+      ]
+   },
+   {
+      "id": 4434,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[more than £30], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "In the city centre there is a restaurant with Japanese food named The Wrestlers. It costs more than £30 and is located near Raja Indian Cuisine, and it is not child friendly."
+      ]
+   },
+   {
+      "id": 3385,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[moderate], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Italian pub, 'The Vaults', is located in the city center near Rainbow Vegetarian Café. The customer reviews are not great but the prices are reasonable and it has a child-friendly environment."
+      ]
+   },
+   {
+      "id": 4057,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a pub that serves Italian food. Has a moderate price range, and is kids friendly. Located in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1719,
+      "input_string": "name[The Mill], eatType[pub], priceRange[high], near[Café Sicilia]",
+      "text": [
+         "The Mill located in centre city very close of Café Sicilia, is a pub with a high price range"
+      ]
+   },
+   {
+      "id": 3734,
+      "input_string": "name[The Vaults], eatType[restaurant], priceRange[more than £30], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a high priced range restaurant called The Vaults located in City Centre that is family friendly and offers Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1441,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[cheap], customer rating[average], area[city centre], familyFriendly[no], near[Café Rouge]",
+      "text": [
+         "The Cricketers is a cheap, English restaurant near Café Rouge in the city center.  They are rated as average and not family-friendly."
+      ]
+   },
+   {
+      "id": 1242,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[high], customer rating[1 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers is a restaurant service Chinese food in the high price range with a customer rating of 1 out of 5, but is child friendly, near All Bar One in city centre."
+      ]
+   },
+   {
+      "id": 351,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "By the riverside near Rainbow Vegetarian Café there is a family friendly pub that has fast food called Giraffe."
+      ]
+   },
+   {
+      "id": 4001,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a child friendly restaurant which serves highly priced Italian food.  It is near Raja Indian Cuisine in the riverside area."
+      ]
+   },
+   {
+      "id": 4103,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Near the Raja Indian Cuisine is children-friendly in the riverside area. It is a pub with Japanese food with a high price range named The Wrestlers."
+      ]
+   },
+   {
+      "id": 2659,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Chinese pub, The Plough, is located in the city centre near Raja Indian Cuisine. The price range is high and isn't children friendly."
+      ]
+   },
+   {
+      "id": 1921,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a restaurant located in riverside near Raja Indian Cuisine.  It offers English food with a moderate price range.  It is not a kid friendly establishment."
+      ]
+   },
+   {
+      "id": 2421,
+      "input_string": "name[The Phoenix], eatType[pub], priceRange[more than £30], customer rating[5 out of 5], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "A good pub that received a customer rating of 5 out of 5 is The Phoenix. It is in the riverside area near the Crowne Plaza Hotel. It costs more than 30 pounds and is kid friendly."
+      ]
+   },
+   {
+      "id": 1746,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[less than £20], customer rating[low], area[city centre], near[Café Sicilia]",
+      "text": [
+         "The Mill is a pub with fast food in the city centre near Café Sicilia. It has a low rating, however you can eat for less than £20."
+      ]
+   },
+   {
+      "id": 1111,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Cricketers is a children friendly restaurant near a Express by Holiday Inn with a high customer rating"
+      ]
+   },
+   {
+      "id": 3960,
+      "input_string": "name[The Waterman], food[Indian], priceRange[moderate], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman serves Indian food. It has a moderate price range. Its near Raja Indian Cuisine in riverside."
+      ]
+   },
+   {
+      "id": 2056,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a fast food, pub located near Raja Indian Cuisine in Riverside called The Phoenix. The pub is in the higher price range and is children friendly."
+      ]
+   },
+   {
+      "id": 2995,
+      "input_string": "name[The Punter], eatType[restaurant], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "Near Express by Holiday Inn, in the riverside area, is the restaurant The Punter. It is not family Friendly, has a low customer Rating and is in the price Range of less than £20."
+      ]
+   },
+   {
+      "id": 1021,
+      "input_string": "name[The Cricketers], eatType[restaurant], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "The Cricketers is a kids friendly restaurant near Avalon that has mid range customer rating."
+      ]
+   },
+   {
+      "id": 3765,
+      "input_string": "name[The Vaults], eatType[restaurant], food[Indian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a restaurant that sells Indian food, high price range, located in City Centre, child friendly, located near Raja Indian Cuisine"
+      ]
+   },
+   {
+      "id": 4473,
+      "input_string": "name[Wildwood], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A kid friendly pub near Raja Indian Cuisine in the riverside area named Wildwood serves French food."
+      ]
+   },
+   {
+      "id": 1580,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a kid friendly, moderately priced, pub that serves English food.  It is located near Raja Indian Cuisine in riverside."
+      ]
+   },
+   {
+      "id": 598,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Green Man is a non-family-friendly pub that serves Japanese food near the Express by Holiday Inn in the city centre."
+      ]
+   },
+   {
+      "id": 415,
+      "input_string": "name[Giraffe], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The pub Giraffe serves French food and is kids friendly. It is in Riverside near Raja Indian Cuisine"
+      ]
+   },
+   {
+      "id": 310,
+      "input_string": "name[Giraffe], eatType[pub], food[English], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Giraffe,  a child-friendly, English pub, is  located in riverside area, near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3339,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[high], customer rating[average], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Rainbow Vegetarian Café is children friendly, located on the riverside, has an average customer rating, provides pub quality food.  There is a high price ranged Italian eatery named The Vaults nearby."
+      ]
+   },
+   {
+      "id": 596,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "For a pub that serves Japanese food near to the Express by Holiday Inn in the city centre and that isn't family-friendly then go to the Green Man"
+      ]
+   },
+   {
+      "id": 1339,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[moderate], customer rating[3 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The children friendly restaurant serving Chinese at moderate prices is rated 3 out of 5. They're called The Cricketers and are located in the city center. near All Bar One."
+      ]
+   },
+   {
+      "id": 1627,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "The Mill is a cheap pub in the city centre. Located near a Café Sicilia, it also serves Fast food and is rated 5 out of 5 by customers. However, it is not family-friendly."
+      ]
+   },
+   {
+      "id": 4510,
+      "input_string": "name[Wildwood], eatType[pub], food[Indian], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is in the city centre area near Raja Indian Cuisine. It is a pub that serves Indian food and is family Friendly."
+      ]
+   },
+   {
+      "id": 250,
+      "input_string": "name[Clowns], eatType[pub], priceRange[more than £30], customer rating[3 out of 5], near[All Bar One]",
+      "text": [
+         "For a 3 out of 5 star customer rated pub near All Bar One, Clowns is relatively expensive."
+      ]
+   },
+   {
+      "id": 1053,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a family friendly restaurant that is located near Crowne Plaza Hotel. It has a customer rating of 5 out of 5."
+      ]
+   },
+   {
+      "id": 3835,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a pub serving Indian food at a price range of over £30. It is on the riverside, is child-friendly and is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3632,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], customer rating[1 out of 5], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "A pub called The Vaults with Japanese food is located near Raja Indian Cuisine and the city centre. It is not kids friendly with a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 4606,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Indian], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is in the city centre area near Raja Indian Cuisine. It is a restaurant that serves Indian food and is family Friendly."
+      ]
+   },
+   {
+      "id": 3612,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a Japanese pub called The Vaults located near Raja Indian Cuisine in the riverside area. It has a price range of less than 20 pounds and a low customer rating. It is also family-friendly."
+      ]
+   },
+   {
+      "id": 4563,
+      "input_string": "name[Wildwood], eatType[pub], food[Italian], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is an Italian pub.  It's located near Raja Indian Cuisine in the riverside are and is not family-friendly."
+      ]
+   },
+   {
+      "id": 2192,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[£20-25], customer rating[3 out of 5], area[city centre], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "In the city centre, near Café Sicilia, you can find the French pub The Phoenix. It is mot kid friendly however provides reasonably priced food ranging from £20-25 and boasts a rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 73,
+      "input_string": "name[Blue Spice], eatType[pub], food[English], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Near the Rainbow Vegetarian Café in the city centre is the family-unfriendly pub Blue Spice.  They serve English food."
+      ]
+   },
+   {
+      "id": 3499,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There's a pub that serves Japanese food at Riverside called The Vaults. It's near Rainbow Vegetarian Café. The price range is about £20-25 and it's not kids-friendly, but the customer Rating is high."
+      ]
+   },
+   {
+      "id": 2051,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "In the area of riverside near Raja Indian Cuisine is The Phoenix, it is a pub. It is not kid friendly and the Fast food is highly expensive."
+      ]
+   },
+   {
+      "id": 3988,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A high priced Italian restaurant and restaurant that is children friendly is called The Waterman. It is in the city centre near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4433,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[more than £30], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the city centre is a Japanese restaurant called The Wrestlers. It has a price range of more than £30 and is not kid-friendly."
+      ]
+   },
+   {
+      "id": 4630,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is a kid friendly restaurant.  They also serve Indian food.  It is located in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 155,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[Chinese], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Located in riverside near the Rainbow Vegetarian Café is Blue Spice restaurant, serving Chinese food in a family friendly environment."
+      ]
+   },
+   {
+      "id": 540,
+      "input_string": "name[Green Man], eatType[coffee shop], customer rating[3 out of 5], near[All Bar One]",
+      "text": [
+         "Located close to All Bar One, Green Man coffee shop has a 3 out of 5 rating."
+      ]
+   },
+   {
+      "id": 640,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Near the Express by Holiday Inn in Riverside there is a children friendly Japanese pub called Green Man."
+      ]
+   },
+   {
+      "id": 729,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "A kids Friendly Japanese restaurant along the riverside is called Green Man and is next to Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 1137,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[low], familyFriendly[no], near[Ranch]",
+      "text": [
+         "The Cricketers is non family-friendly restaurant. It has a low customer rating and is near Ranch."
+      ]
+   },
+   {
+      "id": 2573,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[French], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a restaurant located near Raja Indian Cuisine. They are kids friendly and cost between £20-£25. They serve French food."
+      ]
+   },
+   {
+      "id": 3847,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman, is a pub, serving Italian food,  in Riverside, near Raja Indian Cuisine, that is inexpensive and family friendly."
+      ]
+   },
+   {
+      "id": 3199,
+      "input_string": "name[The Vaults], eatType[pub], food[French], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults pub is family-friendly French food shop in city centre near Raja Indian Cuisine with a price range less than £20."
+      ]
+   },
+   {
+      "id": 2820,
+      "input_string": "name[The Punter], eatType[pub], food[Italian], priceRange[high], customer rating[average], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Near the Rainbow Vegetarian Café in the city centre is an Italian pub called The Punter. It is not child friendly, has an average customer rating and is in the high price range."
+      ]
+   },
+   {
+      "id": 3823,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a moderate priced Indian pub. It is not kid friendly and is in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2667,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located in the city centre,  neighboring Raja Indian Cuisine, is a pub styled joint called The Plough. This establishment is known for its family friendly atmosphere and highly priced Chinese food."
+      ]
+   },
+   {
+      "id": 91,
+      "input_string": "name[Blue Spice], eatType[pub], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Blue Spice is not a family-friendly pub located near the Rainbow Vegetarian Café just off the river."
+      ]
+   },
+   {
+      "id": 353,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe is a fast food, kid friendly pub by the riverside area, near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3681,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Family friendly French restaurant, The Vaults, is located riverside near Raja Indian Cuisine with a price range less than  £20."
+      ]
+   },
+   {
+      "id": 1890,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[no], near[Café Rouge]",
+      "text": [
+         "The Mill restaurant near Café Rouge in Riverside serves English meals under £20. It is not family-friendly and has a low customer rating."
+      ]
+   },
+   {
+      "id": 4286,
+      "input_string": "name[The Wrestlers], eatType[restaurant], priceRange[less than £20], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a restaurant that provides pasta in the low price range. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 793,
+      "input_string": "name[Strada], eatType[pub], area[city centre]",
+      "text": [
+         "In city centre, there is a pub called Strada."
+      ]
+   },
+   {
+      "id": 2107,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a no kid friendly pub called The Phoenix located at the city centre. They serve fast food, their price range is moderate, and they are near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3485,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[£20-25], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a pub providing sea food deliveries in the average  price range. It is located in the north of city after Rainbow Vegetarian Café next to river"
+      ]
+   },
+   {
+      "id": 2952,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[high], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "There is an expensive restaurant called The Punter located in riverside near Express by Holiday Inn that provides Indian food. It is children friendly and has a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 3628,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], customer rating[low], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a family friendly pub, offering Japanese. low rated, with equally fair pricing of £20. Close to Raja Indian Cuisine at riverside."
+      ]
+   },
+   {
+      "id": 4098,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a cheap pub in riverside where you can find Japanese food in a child-friendly environment.  Look for it near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3120,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[cheap], customer rating[5 out of 5], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "A restaurant named The Punter sells Italian food  is not family-friendly and the price range is cheap with a customer rating 5 out of 5 located in riverside near Rainbow Vegetarian Café"
+      ]
+   },
+   {
+      "id": 2662,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the city centre there is a pub called The Plough. It  serves Chines food at a high price range and is not children friendly."
+      ]
+   },
+   {
+      "id": 1502,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[high], customer rating[5 out of 5], customer rating[average], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The English restaurant 'The Cricketers', is located in the city center near Café Rouge. It has average customer reviews with quite high prices. It is recommended for kids."
+      ]
+   },
+   {
+      "id": 474,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Near the Rainbow Vegetarian Café in the Riverside area is a family friendly restaurant called Giraffe which serves Fast food."
+      ]
+   },
+   {
+      "id": 3553,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[high], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a kids friendly pub The Vaults in the city centre near Raja Indian Cuisine. It has high customer ratings and high price range but they serve Japanese food."
+      ]
+   },
+   {
+      "id": 4302,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Italian], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a moderately-priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly."
+      ]
+   },
+   {
+      "id": 402,
+      "input_string": "name[Giraffe], eatType[pub], food[French], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Giraffe is a French pub bear Raja Indian Cuisine in Riverside, though it is not family-friendly."
+      ]
+   },
+   {
+      "id": 1112,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Near the Express by Holiday Inn is a child friendly restaurant with high customer ratings called The Cricketers"
+      ]
+   },
+   {
+      "id": 3994,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a restaurant with Italian food. It is not children friendly. Located near the Raja Indian Cuisine, its price range is high, though located riverside."
+      ]
+   },
+   {
+      "id": 1185,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "The Cricketers is a restaurant located in the city centre near All Bar One that provides Chinese food which has a 5 out of 5 customer rating and the price range is cheap. It is not family friendly."
+      ]
+   },
+   {
+      "id": 2330,
+      "input_string": "name[The Phoenix], eatType[pub], priceRange[less than £20], area[riverside], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "There is a cheaply-priced pub named The Phoenix near Crowne Plaza Hotel in riverside. Children are not allowed."
+      ]
+   },
+   {
+      "id": 2423,
+      "input_string": "name[The Phoenix], eatType[pub], food[English], priceRange[more than £30], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a pub located in City center. by the Crowne Plaza Hotel.  The high-priced pub serves a light menu of British style food along with alcohol.  This family-friendly pub receives 5 out of 5 stars from customers."
+      ]
+   },
+   {
+      "id": 2612,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a restaurant that serves Indian food for 20-25 euros, it is in the riverside area near a Crowne Plaza Hotel and is kid friendly with high customer rating."
+      ]
+   },
+   {
+      "id": 129,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[Chinese], area[city centre], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice, located near Rainbow Vegetarian Café in the city centre, is a restaurant that also sells Chinese food.  Children should not visit."
+      ]
+   },
+   {
+      "id": 717,
+      "input_string": "name[Green Man], eatType[coffee shop], near[Express by Holiday Inn]",
+      "text": [
+         "The Green Man is a sushi and coffee place near the Express by Holiday Inn and does not permit families."
+      ]
+   },
+   {
+      "id": 3111,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[cheap], area[city centre], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter restaurant in the city centre provides cheap Italian food and has achieved high customer satisfaction. It does not cater for families with children. Express by Holiday Inn is nearby."
+      ]
+   },
+   {
+      "id": 4457,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located near Raja Indian Cuisine in the riverside area is an eat type restaurant called the The Wrestlers is a children friendly that serves Japanese food and has a price range more than 30 euros."
+      ]
+   },
+   {
+      "id": 4252,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[more than £30], customer rating[5 out of 5], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine there  is a Japanese pub The Wrestlers in Riverside. Their customer rating is 5 out of 5 with the price range more than £30."
+      ]
+   },
+   {
+      "id": 3351,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a family-friendly pub serving cheap Italian food in the city centre near Rainbow Vegetarian Café.  It has a low customer rating."
+      ]
+   },
+   {
+      "id": 3756,
+      "input_string": "name[The Vaults], eatType[restaurant], food[Indian], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "A high priced restaurant called The Vaults serves Indian food in the city centre near Raja Indian Cuisine but is not family friendly."
+      ]
+   },
+   {
+      "id": 3212,
+      "input_string": "name[The Vaults], eatType[pub], food[French], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults pub and French pub is located outside of the City centre near Raja Indian Cuisine. It offers a cheap dining experience but does not cater for families."
+      ]
+   },
+   {
+      "id": 2660,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Chinese pub, The Plough, is located in the city centre near Raja Indian Cuisine. This place isn't children friendly, as well as the price range being high."
+      ]
+   },
+   {
+      "id": 3134,
+      "input_string": "name[The Punter], eatType[restaurant], area[city centre], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is a restaurant located in the city center,  near the Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 4215,
+      "input_string": "name[The Wrestlers], eatType[pub], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a high end pub that is located next to Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4354,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a high price range Japanese restaurant in Riverside near Raja Indian Cuisine that is child friendly called The Wrestlers"
+      ]
+   },
+   {
+      "id": 2633,
+      "input_string": "name[The Phoenix], food[Indian], priceRange[cheap], customer rating[5 out of 5], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Phoenix is in the riverside area near Express by Holiday Inn.  It serves cheap Indian food and has a customer rating of 5 out of 5.  It is family friendly."
+      ]
+   },
+   {
+      "id": 538,
+      "input_string": "name[Green Man], eatType[coffee shop], customer rating[3 out of 5], near[All Bar One]",
+      "text": [
+         "Near All Bar One is the Green Man coffee shop with a 3 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 1280,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[high], priceRange[moderate], customer rating[average], area[riverside], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers is a Chinese restaurant  located riverside near All Bar One.  It is a child friendly restaurant that has a high price range and an average customer rating."
+      ]
+   },
+   {
+      "id": 4168,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a moderately priced Japanese pub offering a child friendly environment.  They are located in riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2783,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub The Punter located near Raja Indian Cuisine. They offer Chinese food in the price range of more than £30. They are children friendly and located riverside."
+      ]
+   },
+   {
+      "id": 4054,
+      "input_string": "name[The Wrestlers], food[Italian], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a fun and competitive Food Establishment in the mid-range for Italian fare.  It is kid-friendly and located near Raja Indian Cuisine near City Centre."
+      ]
+   },
+   {
+      "id": 2857,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a moderate Chinese restaurant near Raja Indian Cuisine in the river side. It is no kids friendly."
+      ]
+   },
+   {
+      "id": 1726,
+      "input_string": "name[The Mill], food[Fast food], area[riverside], near[Café Sicilia]",
+      "text": [
+         "The Mill is based in the riverside area near Café Sicilia. It offers fast food."
+      ]
+   },
+   {
+      "id": 553,
+      "input_string": "name[Green Man], eatType[pub], customer rating[3 out of 5], near[All Bar One]",
+      "text": [
+         "Located close to All Bar One, Green Man pub has a 3 out of 5 rating."
+      ]
+   },
+   {
+      "id": 2672,
+      "input_string": "name[The Plough], eatType[pub], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub The Plough located riverside near Raja Indian Cuisine. They are not children friendly."
+      ]
+   },
+   {
+      "id": 1753,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "Located in the City Centre by Café Sicilia, with a one star rating from customers, is a pub by the name of The Mill.  It's cheap, and for adults only."
+      ]
+   },
+   {
+      "id": 4076,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There's a pub in the riverside area near the Raja Indian Cuisine.  It's called The Wrestlers, offers Italian food with a moderate price range and is kids-Friendly."
+      ]
+   },
+   {
+      "id": 4097,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is the name of a family-friendly pub on the riverside near Raja Indian Cuisine.  It serves Japanese food for cheap prices."
+      ]
+   },
+   {
+      "id": 1498,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[high], customer rating[average], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Cricketers is an English restaurant in the city center near Café Rouge. The prices are quite high for an averagely rated place but it is child-friendly."
+      ]
+   },
+   {
+      "id": 3665,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults restaurant is not family-friendly, sells French food, and has a price range of less than £20. It is located in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2426,
+      "input_string": "name[The Phoenix], eatType[pub], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a family friendly pub that offers wine.  It is located near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 3453,
+      "input_string": "name[The Vaults], eatType[coffee shop], food[Italian], customer rating[high], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is located in City Centre, near Rainbow Vegetarian Café. It is an Italian coffee sheep that is family friendly and pricey. It has a 5 out of 5 star rating."
+      ]
+   },
+   {
+      "id": 603,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[city centre], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Green Man is a family-friendly pub serving Japanese food. It can be found near the Express by Holiday Inn near city centre."
+      ]
+   },
+   {
+      "id": 85,
+      "input_string": "name[Blue Spice], eatType[pub], food[English], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Next to the river not far from Rainbow Vegetarian Café is a no children pub Blue Spice which provides English breakfast."
+      ]
+   },
+   {
+      "id": 1473,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Italian], customer rating[1 out of 5], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "Located near Café Rouge in the city centre, The Cricketers serves Italian food and acts as a restaurant. With a customer rating of 1 out of 5, it also is very children friendly."
+      ]
+   },
+   {
+      "id": 2631,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], priceRange[cheap], customer rating[5 out of 5], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "The Phoenix, is in the riverside near Express by Holiday Inn, it is an adult directed restaurant and Indian restaurant that is affordable an received a 5 out of 5 rating."
+      ]
+   },
+   {
+      "id": 2974,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[high], customer rating[average], area[riverside], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant serving Indian food at a high price. They are located near Express by Holiday Inn in riverside. with an average rating and are not child friendly."
+      ]
+   },
+   {
+      "id": 3367,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[less than £20], customer rating[low], area[riverside], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a low rated pub, but friendly with the families that serves  Italian food at less than 20 £. It is close to the riverside and Rainbow Vegetarian Café"
+      ]
+   },
+   {
+      "id": 4080,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A children friendly pub near Raja Indian Cuisine named The Wrestlers is located in riverside and is Italian food for more than  £30."
+      ]
+   },
+   {
+      "id": 4178,
+      "input_string": "name[The Wrestlers], eatType[pub], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a family friendly pub that is fairly priced and serves sushi. It is located next to the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4045,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "Located in the centre of the city, close to Raja Indian Cuisine, The Wrestlers is a pub offering Italian food."
+      ]
+   },
+   {
+      "id": 1812,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[moderate], customer rating[3 out of 5], area[riverside], near[Café Sicilia]",
+      "text": [
+         "The Mill is a moderately priced pub for adults. Although it is rated 3 out of 5 by customers, it serves fast food and is conveniently located in riverside near Café Sicilia."
+      ]
+   },
+   {
+      "id": 1722,
+      "input_string": "name[The Mill], eatType[pub], area[riverside], near[Café Sicilia]",
+      "text": [
+         "The Mill is a pub,  located in the area of riverside, near The Café Sicilia."
+      ]
+   },
+   {
+      "id": 448,
+      "input_string": "name[Giraffe], eatType[restaurant], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There is a restaurant called Giraffe with fast service in riverside near Rainbow Vegetarian Café. It's not family-friendly."
+      ]
+   },
+   {
+      "id": 466,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe is a kids-friendly restaurant located in riverside near Rainbow Vegetarian Café. Fast food"
+      ]
+   },
+   {
+      "id": 4569,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A kid friendly restaurant near Raja Indian Cuisine in the riverside area named Wildwood serves French food."
+      ]
+   },
+   {
+      "id": 569,
+      "input_string": "name[Green Man], eatType[pub], food[Italian], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "Green Man pub offers Italian food in the riverside area. It is near the Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 2500,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Fast food], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a nice restaurant with fast food service and lower prices than £ 20 are located in the city center area near Raja Indian Cuisine"
+      ]
+   },
+   {
+      "id": 4490,
+      "input_string": "name[Wildwood], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Near the Raja Indian Cuisine on the riverside is a family friendly French pub called Wildwood."
+      ]
+   },
+   {
+      "id": 3243,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[moderate], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub called The Vaults near Raja Indian Cuisine that serves moderate priced food is in the riverside area and is for adults."
+      ]
+   },
+   {
+      "id": 1191,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers restaurant specializes in providing Chinese food at cheap prices while garnering a customer service rating of 5 out of 5, located in the city centre, the Cricketers is family friendly and is near the All Bar One."
+      ]
+   },
+   {
+      "id": 3446,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[more than £30], customer rating[high], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There is an Italian pub called The Vaults in riverside, near the Rainbow Vegetarian Café. It has a high customer rating with a price range of more than £30 and it is not children friendly."
+      ]
+   },
+   {
+      "id": 2224,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], customer rating[high], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "'The Phoenix' is a kid-friendly French pub. It is a reasonably priced place with high quality reviews. It is located near Crowne Plaza Hotel in the city center."
+      ]
+   },
+   {
+      "id": 1196,
+      "input_string": "name[The Cricketers], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "Located in the city centre near All Bar One and rated 5 out of 5, family friendly The Cricketers serves Chinese food for cheap."
+      ]
+   },
+   {
+      "id": 1350,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[moderate], customer rating[3 out of 5], area[riverside], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "Though not kid friendly, The Cricketers is located near the All Bar One, in riverside area. This restaurant has Chinese food in a moderate price range and is rated 3 out of 5."
+      ]
+   },
+   {
+      "id": 2359,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a French pub in the riverside area, close to Crowne Plaza Hotel.  This venue is cheap, not recommended for families and has a customer rating 1 out of 5."
+      ]
+   },
+   {
+      "id": 3185,
+      "input_string": "name[The Punter], eatType[restaurant], priceRange[cheap], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Located at Rainbow Vegetarian Café in City centre, The Punter restaurant offers good affordable meals and is family friendly."
+      ]
+   },
+   {
+      "id": 1525,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[less than £20], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill, Is a pub and is family-friendly, cheap and reasonable priced is very good for the family , We provide full English food. Located near Raja Indian Cuisine In the city centre."
+      ]
+   },
+   {
+      "id": 3108,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "This Italian food restaurant in riverside, names The Punter, located near Express by Holiday Inn. Prices ranging from £20-25 has a high rating and is kids Friendly."
+      ]
+   },
+   {
+      "id": 1566,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a pub providing English Food. It is located in riverside near Raja Indian Cuisine. Moderate price range and no kids friendly."
+      ]
+   },
+   {
+      "id": 3162,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], customer rating[1 out of 5], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is a restaurant that is  not child friendly, low rated and priced high. It is located in the city center near Rainbow Vegetarian Café and it serves Italian."
+      ]
+   },
+   {
+      "id": 4162,
+      "input_string": "name[The Wrestlers], eatType[pub], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers pub is on the river, by Raja Indian Cuisine.  No families. Medium priced"
+      ]
+   },
+   {
+      "id": 3261,
+      "input_string": "name[The Vaults], eatType[pub], food[French], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "If you are looking for an up market French pub you should try The Vaults which is located in the city centre close to the Raja Indian Cuisine pub"
+      ]
+   },
+   {
+      "id": 3685,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults restaurant near Raja Indian Cuisine in the city centre sells French food and is moderate priced no kids allowed."
+      ]
+   },
+   {
+      "id": 4381,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], near[Raja Indian Cuisine]",
+      "text": [
+         "Situated close to Raja Indian Cuisine is The Wrestlers, a Japanese style restaurant that serves dishes for under twenty pound."
+      ]
+   },
+   {
+      "id": 3409,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], customer rating[3 out of 5], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Near Rainbow Vegetarian Café in the centre of the city is The Vaults.  An Italian food pub, it is family-friendly with ratings of 3 out of 5 by the customers and is priced moderate."
+      ]
+   },
+   {
+      "id": 2144,
+      "input_string": "name[The Phoenix], near[Café Sicilia]",
+      "text": [
+         "The Phoenix is located by Café Sicilia. It has fair prices and had burgers,drinks, and fries"
+      ]
+   },
+   {
+      "id": 3968,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], priceRange[more than £30], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a restaurant located near Raja Indian Cuisine near riverside. It serves Indian food with high-priced menu."
+      ]
+   },
+   {
+      "id": 2789,
+      "input_string": "name[The Punter], eatType[pub], food[English], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a cheap  family friendly pub on riverside called The Punter, They serve English food, and are located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3161,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[high], customer rating[1 out of 5], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter, located near Rainbow Vegetarian Café in the city centre, is a non kid friendly Italian restaurant with a high price range and a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 2044,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a  high priced pub that serves fast food but is a non-children friendly atmosphere. It is located near Raja Indian Cuisine both in the city centre."
+      ]
+   },
+   {
+      "id": 391,
+      "input_string": "name[Giraffe], eatType[pub], food[French], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Giraffe is a pub - family-friendly serving French food in the city centre, near the Raja Indian Cuisine"
+      ]
+   },
+   {
+      "id": 2994,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant serving Indian food in the price range of less than £20, with low customer ratings in the city centre area near Express by Holiday Inn and is family friendly."
+      ]
+   },
+   {
+      "id": 3470,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a Japanese pub located near Rainbow Vegetarian Café, in the riverside area. It is not family-friendly and it is rated and priced averagely."
+      ]
+   },
+   {
+      "id": 188,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[English], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice has a no children policy, it is a restaurant sat next to the river that provides English breakfast not far from Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3190,
+      "input_string": "name[The Vaults], eatType[coffee shop], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults, located near Raja Indian Cuisine, is a high end French bistro and Café in Riverside and it is kid friendly."
+      ]
+   },
+   {
+      "id": 2684,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "With below average prices, The Plough, a non-family friendly pub in the city centre, offers Chinese food and is located near the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3997,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[high], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a restaurant near Raja Indian Cuisine in riverside called The Waterman with a high price range Italian food."
+      ]
+   },
+   {
+      "id": 4234,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[more than £30], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the city centre there is a pub serving Japanese food called The Wrestlers. It costs more than £30 but has a customer rating of 5 out of 5. This establishment is not child friendly."
+      ]
+   },
+   {
+      "id": 4021,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a cheap Italian food restaurant in the city centre, near Raja Indian Cuisine. It is called The Waterman and it is not family-friendly."
+      ]
+   },
+   {
+      "id": 2364,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "There is a riverside pub near to Crowne Plaza Hotel called The Phoenix.   It serves French cuisine for less than £20 per head but it isn't very family-friendly and has low customer ratings."
+      ]
+   },
+   {
+      "id": 1730,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[moderate], customer rating[average], area[riverside], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Mill is a family friendly pub with average customer ratings that serves fast food. It is an above average price pub and it is in riverside near Café Sicilia."
+      ]
+   },
+   {
+      "id": 305,
+      "input_string": "name[Cotto], eatType[pub], near[The Bakers]",
+      "text": [
+         "A pub called Cotto is situated near The Bakers."
+      ]
+   },
+   {
+      "id": 2567,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Fast food], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix restaurant is child friendly and  offers fast food priced on average at more than £30. It is located in the riverside area, near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2237,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Located in Riverside, The Phoenix, a pub serving French cuisine, has a high rating among customers. The food ranges from £20-25 and is child-friendly. It is located near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 2682,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a pub serving Chinese food in the mid-price range. It is family-friendly and near Raja Indian Cuisine in the city center."
+      ]
+   },
+   {
+      "id": 457,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe in riverside is a kids friendly, Fast food restaurant. It is located near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 1008,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[1 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "A kid friendly restaurant named The Cricketers is near Avalon, but it has a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 1123,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "There is a restaurant called The Cricketers near Express by Holiday Inn that has high customer ratings and is kid friendly."
+      ]
+   },
+   {
+      "id": 1671,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[cheap], customer rating[average], area[riverside], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "There is a pub called The Mill near Café Sicilia in riverside which has cheap fast food, an average customer rating but is not family-friendly."
+      ]
+   },
+   {
+      "id": 340,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Located near the Rainbow Vegetarian Café, a Fast food pub is Family friendly, and situated riverside called Giraffe."
+      ]
+   },
+   {
+      "id": 1283,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[less than £20], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "The Cricketers restaurant is family friendly, priced less than 20 British Pounds, and located at city centre near All Bar One."
+      ]
+   },
+   {
+      "id": 1783,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[moderate], customer rating[1 out of 5], area[riverside], near[Café Sicilia]",
+      "text": [
+         "Looking for a moderately priced pub on the riverside. Tired of Fast food like Café Sicilia. Try The Mill. With a customer rating of 1 out of 5 you can't go wrong."
+      ]
+   },
+   {
+      "id": 3676,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults, a family friendly restaurant that serves French food with prices less than L20.  It is in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2229,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Selling French food, The Phoenix is a kid friendly French pub in the city centre near Crowne Plaza Hotel"
+      ]
+   },
+   {
+      "id": 1493,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[high], customer rating[average], area[city centre], familyFriendly[no], near[Café Rouge]",
+      "text": [
+         "The Cricketers is located in the city centre area near Café Rouge.  This high-priced restaurant serves English food with an average customer rating.   This is not a family-friendly restaurant."
+      ]
+   },
+   {
+      "id": 3902,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], priceRange[high], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a restaurant providing Indian food in the high price range. It is located in the riverside. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4040,
+      "input_string": "name[The Wrestlers], eatType[pub], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers pub. It is located in riverside area near Raja Indian Cuisine. Start from low price and friend-family too."
+      ]
+   },
+   {
+      "id": 4039,
+      "input_string": "name[The Wrestlers], eatType[pub], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a family-friendly pub in the northern City Centre next to Raja Indian Cuisine with a low price range."
+      ]
+   },
+   {
+      "id": 842,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[5 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "The Cricketers is a kids-friendly coffee shop near Avalon with a rating of 3 out 5 stars."
+      ]
+   },
+   {
+      "id": 1365,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[more than £30], customer rating[high], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "Located near All Bar One, The Cricketers is a restaurant styled joint that sells Chinese food. This shop is known in the city centre for its high prices, family friendly atmosphere, and high ratings."
+      ]
+   },
+   {
+      "id": 1011,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[1 out of 5], near[Avalon]",
+      "text": [
+         "The Cricketers is a family restaurant near the Avalon with a rating 1 out of 5"
+      ]
+   },
+   {
+      "id": 4018,
+      "input_string": "name[The Waterman], eatType[restaurant], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The restaurant The Waterman is located int he center of the city near Raja Indian Cuisine. It is not family-friendly, and the price range is 20 pounds."
+      ]
+   },
+   {
+      "id": 4081,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "An Italian pub called The Wrestlers  is a pub in the area of riverside located near Raja Indian Cuisine. It is a children friendly place with  a high price range of more than £30."
+      ]
+   },
+   {
+      "id": 1854,
+      "input_string": "name[The Mill], eatType[restaurant], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Nearby the city centre and Raja Indian Cuisine, The Mill is a cheap restaurant that is not family friendly."
+      ]
+   },
+   {
+      "id": 2353,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is Low  price pub serving French food Located in city center near Crowne Plaza Hotel with a low customer rating  and is family-friendly"
+      ]
+   },
+   {
+      "id": 1314,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], customer rating[1 out of 5], area[city centre], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "1 out of 5 customer rated, mid priced  family friendly Chinese restaurant called The Cricketers is in the city center., near All Bar One."
+      ]
+   },
+   {
+      "id": 1882,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Mill restaurant is a family-friendly restaurant that provides English food in a low price range. It is located near Café Rouge in the city centre and has a low customer rating."
+      ]
+   },
+   {
+      "id": 1632,
+      "input_string": "name[The Mill], eatType[coffee shop], eatType[restaurant], food[Fast food], priceRange[cheap], customer rating[5 out of 5], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Mill is a family-friendly fast food restaurant near Café Sicilia. It serves coffee, price range is cheap and has a high customer rating."
+      ]
+   },
+   {
+      "id": 306,
+      "input_string": "name[Giraffe], eatType[coffee shop], near[The Bakers]",
+      "text": [
+         "A coffee shop named Giraffe is near The Bakers."
+      ]
+   },
+   {
+      "id": 2841,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a restaurant with Chinese food.  They are family friendly and have decent prices.  They are near the riverside by Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4603,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Indian], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a non-family friendly restaurant called Wildwood in the city centre, near Raja Indian Cuisine, which serves Indian food."
+      ]
+   },
+   {
+      "id": 1851,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is an English restaurant near Raja Indian Cuisine in the city centre. It sells things for less than £20 and is family-friendly."
+      ]
+   },
+   {
+      "id": 2958,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[high], customer rating[average], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is an expensive Indian restaurant  with an average customer rating.  It is located in the city centre, near Express by Holiday Inn, but is not children friendly."
+      ]
+   },
+   {
+      "id": 3398,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a pub that serves moderately priced Italian food.  It is kid friendly, located on the riverside near Rainbow Vegetarian Café.  It received a 1 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 587,
+      "input_string": "name[Green Man], eatType[pub], food[Italian], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Green Man is a family friendly Italian pub in the riverside area close to Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 4276,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[more than £30], customer rating[low], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "With one star The Wrestlers is a family friendly pub serving expensive Japanese food. It is situated in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2929,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[cheap], priceRange[moderate], customer rating[average], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Looking for a restaurant serving Indian food in the cheap price range with average customer ratings in the riverside area near Express by Holiday Inn and is family friendly, then visit The Punter."
+      ]
+   },
+   {
+      "id": 2594,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], customer rating[high], area[city centre], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix, a restaurant that serves Indian food, has a price range of £20-£25. The Phoenix has a high customer rating and it is situated in the city centre by Crowne Plaza Hotel. The Phoenix is not child friendly."
+      ]
+   },
+   {
+      "id": 4095,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Japanese], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The children friendly pub called The Wrestlers can be found by the riverside near Raja Indian Cuisine. It serves Japanese food in average price range."
+      ]
+   },
+   {
+      "id": 3844,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is an establishment selling Italian food and also has a pub on site. It is located by the riverside near Raja Indian Cuisine. It is a cheap place to eat and yes it is family friendly"
+      ]
+   },
+   {
+      "id": 3565,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], customer rating[3 out of 5], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is  a pub in the riverside area that has a 3 out of 5 customer rating.  Although it has a higher price range,  it is children friendly, serves Japanese food and is near the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4366,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The city centre has Japanese food via a restaurant, The Wrestlers. family-friendly and less than £20, this eatery is located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3919,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a cheap  restaurant The Waterman  located in the centre of the city by the not family friend Raja Indian Cuisine that provides Indian Food at less then less than £20."
+      ]
+   },
+   {
+      "id": 2520,
+      "input_string": "name[The Phoenix], eatType[restaurant], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a low cost family friendly restaurant near the river and Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 889,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[average], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "Close to Café Sicilia you'll find The Cricketers, an average rated coffee shop not so child friendly"
+      ]
+   },
+   {
+      "id": 2901,
+      "input_string": "name[The Punter], eatType[coffee shop], food[English], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is children friendly and serves English food.  It is near Raja Indian Cuisine in the city centre. It's a coffee house with a high price range."
+      ]
+   },
+   {
+      "id": 2780,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[more than £30], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "If you're in the riverside area with your children and are looking for a pub that serves Chinese food, The Punter is a good option, though you can expect to spend more than £30. It is located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1836,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[high], customer rating[average], area[riverside], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "Café Rouge is in the riverside area and is children friendly with an average customer rating instead of The Mill which is a restaurant with English food and a high price range."
+      ]
+   },
+   {
+      "id": 3197,
+      "input_string": "name[The Vaults], eatType[pub], food[French], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults pub is not family-friendly and is priced in the less than 20 pound range.  They serve French food near the Raja Indian Cuisine and the city center."
+      ]
+   },
+   {
+      "id": 2776,
+      "input_string": "name[The Punter], eatType[coffee shop], eatType[pub], food[Chinese], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter pub in the riverside area serves coffee and Chinese food. It is kid friendly and moderately priced. Located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3088,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], customer rating[high], area[city centre], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a children friendly venue serving Italian food between £20 -£25.  It is a restaurant with a high customer rating.  It is based in the city centre near Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 2096,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[less than £20], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A pub with fast food, near Raja Indian Cuisine on the riverside is family friendly and less than 20 euros is  known as, The Phoenix."
+      ]
+   },
+   {
+      "id": 620,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Green Man pub  in riverside near Express by Holiday Inn serves Japanese food and is children Friendly."
+      ]
+   },
+   {
+      "id": 3726,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[more than £30], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is high price restaurant serving French food Located in riverside near Raja Indian Cuisine but not children-friendly"
+      ]
+   },
+   {
+      "id": 3821,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[moderate], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a pub providing Indian food in the moderate price range. It is located in the riverside. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4580,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A French restaurant in the riverside area is Wildwood. It is family friendly and located near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1995,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a child-friendly restaurant situated by the riverside. It is near Raja Indian Cuisine, and serves English food for a higher-than-average price."
+      ]
+   },
+   {
+      "id": 222,
+      "input_string": "name[Blue Spice], eatType[restaurant], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "In Riverside, near the Rainbow Vegetarian Café,  you can find a family friendly restaurant called Blue Spice."
+      ]
+   },
+   {
+      "id": 1380,
+      "input_string": "name[The Cricketers], eatType[restaurant]",
+      "text": [
+         "The Cricketers restaurant, serving"
+      ]
+   },
+   {
+      "id": 3114,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "In the city centre near Rainbow Vegetarian Café there is a restaurant called The Punter. It serves low priced Italian food and has a high customer rating. It is not family-friendly."
+      ]
+   },
+   {
+      "id": 3455,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[more than £30], customer rating[high], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a highly rated Italian pub near to Rainbow Vegetarian Café. It is expensive and child friendly."
+      ]
+   },
+   {
+      "id": 727,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "Green Man restaurant  in riverside near Express by Holiday Inn serves Japanese food and is children Friendly."
+      ]
+   },
+   {
+      "id": 4651,
+      "input_string": "name[Wildwood], eatType[restaurant], food[Italian], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is a restaurant serving Italian food. It is not family friendly.  It is based in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2710,
+      "input_string": "name[The Plough], eatType[restaurant], food[Chinese], priceRange[high], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a restaurant providing Chinese food in the high price range. It is located in the city centre. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3633,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], customer rating[1 out of 5], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "Low rated Japanese pub, The Vaults is priced moderate near Raja Indian Cuisine in city centre."
+      ]
+   },
+   {
+      "id": 3861,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A Children Friendly Italian pub located near Raja Indian Cuisine in the centre of the city named The Waterman has high price range for a pub"
+      ]
+   },
+   {
+      "id": 2835,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a restaurant providing Chinese food in the less than £20 price range. It is located in the riverside. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4308,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Italian], priceRange[moderate], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a moderately priced restaurant that serves Italian food. It is located in the city centre near Raja Indian Cuisine. Great place to bring your family."
+      ]
+   },
+   {
+      "id": 4570,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "In riverside near the Raja Indian Cuisine, there is a venue called Wildwood. It is a French restaurant that is family friendly."
+      ]
+   },
+   {
+      "id": 4575,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is a family friendly restaurant, offering French food, located in the riverside area near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3534,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[cheap], customer rating[5 out of 5], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a highly rated pub selling cheaply priced Japanese food. It is called The Vaults and is located near to Raja Indian Cuisine. It is family friendly."
+      ]
+   },
+   {
+      "id": 1189,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], area[city centre], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "The Cricketers is a highly recommended and inexpensive, adult-only restaurant that serves Chinese. It is located near All Bar One in the center. of town."
+      ]
+   },
+   {
+      "id": 2085,
+      "input_string": "name[The Phoenix], eatType[pub], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a comfortable pub that is within city centre limits, next to the Raja Indian Cuisine pub."
+      ]
+   },
+   {
+      "id": 479,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There is a family-friendly, fast food, restaurant near Rainbow Vegetarian Café in the Riverside called Giraffe."
+      ]
+   },
+   {
+      "id": 3481,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There is  a kid friendly well liked pub named The Vaults near Rainbow Vegetarian Café in Riverside that sells Japanese food at an average price."
+      ]
+   },
+   {
+      "id": 1744,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "Low priced pub selling fast food, located near Café Sicilia in the city centre. The Mill is not family-friendly and has a low customer rating."
+      ]
+   },
+   {
+      "id": 345,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe is a child Friendly pub serving Fast Food near Rainbow Vegetarian Café by a riverside."
+      ]
+   },
+   {
+      "id": 4540,
+      "input_string": "name[Wildwood], eatType[pub], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub Wildwood that is located in riverside that serves Indian food.  It is children friendly and near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1355,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[moderate], customer rating[3 out of 5], area[riverside], near[All Bar One]",
+      "text": [
+         "The Cricketers is a restaurant providing Chinese food in the moderate price range. It is located in the riverside. It is near All Bar One. Its customer rating is 3 out of 5."
+      ]
+   },
+   {
+      "id": 3376,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[moderate], customer rating[1 out of 5], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "A pub named The Vaults with moderate prices selling Italian food, not for kids, with a rating of 1 out of 5. It is near Rainbow Vegetarian Café in the center of the city."
+      ]
+   },
+   {
+      "id": 2899,
+      "input_string": "name[The Punter], eatType[restaurant], food[English], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "In the city centre near Raja Indian Cuisine there is an English restaurant called The Punter. It is expensive and children friendly."
+      ]
+   },
+   {
+      "id": 2712,
+      "input_string": "name[The Plough], eatType[restaurant], food[Chinese], priceRange[high], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a restaurant providing Chinese food in the high price range. It is located in the city centre. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2042,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub located in the city centre, near Raja Indian Cuisine, in the high price range. The Phoenix provides Fast food but no children friendly menu or services are offered."
+      ]
+   },
+   {
+      "id": 3430,
+      "input_string": "name[The Vaults], eatType[pub], priceRange[moderate], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a family oriented pub and it's affordable. It's next to Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 4470,
+      "input_string": "name[Wildwood], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Wildwood is a French pub near Raja Indian Cuisine in riverside. it is family-Friendly."
+      ]
+   },
+   {
+      "id": 3854,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[high], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is an Italian pub near Raja Indian Cuisine in city centre. The Waterman is expensive and isn't family-friendly."
+      ]
+   },
+   {
+      "id": 3654,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "French food can be found at The Vaults which is near Raja Indian Cuisine in the city centre. It is a family-friendly restaurant and has a price range of less than £20."
+      ]
+   },
+   {
+      "id": 594,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Green Man is a pub near Express by Holiday Inn in the city centre which serves Japanese food. It is not family-friendly."
+      ]
+   },
+   {
+      "id": 2339,
+      "input_string": "name[The Phoenix], eatType[coffee shop], eatType[pub], priceRange[less than £20], customer rating[average], area[riverside], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a pub located near the river, perfect of family days out with children. the Phoenix offers a range of food, snacks, wine and coffee  at low prices. the pub is rated 3 out of 5 stars and situated near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 772,
+      "input_string": "name[Loch Fyne], eatType[pub], area[riverside]",
+      "text": [
+         "The Loch Fyne is a pub in the riverside area of the city."
+      ]
+   },
+   {
+      "id": 476,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "A restaurant with fast food Giraffe is child friendly located in riverside near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3965,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is an Indian restaurant located near Raja Indian Cuisine. This kid friendly place has above average pricing."
+      ]
+   },
+   {
+      "id": 231,
+      "input_string": "name[Clowns], eatType[coffee shop], customer rating[3 out of 5], near[All Bar One]",
+      "text": [
+         "A coffee shop called the Clowns has a customer rating of 3 out of 5 and is located near All Bar One."
+      ]
+   },
+   {
+      "id": 1145,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[low], familyFriendly[yes], near[Ranch]",
+      "text": [
+         "The Cricketers is a family friendly restaurant. Low rating near the Ranch."
+      ]
+   },
+   {
+      "id": 1923,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a restaurant providing English Food. It is located in riverside near Raja Indian Cuisine. Moderate price range."
+      ]
+   },
+   {
+      "id": 4026,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A family-friendly Italian restaurant is The Waterman. It has prices less than £20 and is located near Raja Indian Cuisine, in city centre."
+      ]
+   },
+   {
+      "id": 452,
+      "input_string": "name[Giraffe], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Fast food  restaurant Giraffe near Rainbow Vegetarian Café in Riverside is kid-friendly."
+      ]
+   },
+   {
+      "id": 3993,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a  Italian restaurant and  is child friendly, they are in the higher price range. It is located in city centre near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1524,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[moderate], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill, located near Raja Indian Cuisine, Luton, is a pub serving English food at reasonable prices."
+      ]
+   },
+   {
+      "id": 2734,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[less than £20], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is located in the city centre near Raja Indian Cuisine. It is a pub that serves Chinese food for under £20."
+      ]
+   },
+   {
+      "id": 918,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[average], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Cricketers  near Café Sicilia has a customer rating of average, the Cricketers is a family friendly coffee shop."
+      ]
+   },
+   {
+      "id": 2213,
+      "input_string": "name[The Phoenix], eatType[pub], customer rating[3 out of 5], near[Crowne Plaza Hotel]",
+      "text": [
+         "The three star pub, The Phoenix, gives families an mid-priced dining experience featuring a variety of wines and cheeses.  Find The Phoenix near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 1741,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "In the city centre you will find a low rated Fast food pub named The Mill. It is located near Café Sicilia with items averaging less than £20, however it is not family-friendly."
+      ]
+   },
+   {
+      "id": 48,
+      "input_string": "name[Blue Spice], eatType[pub], food[Chinese], area[riverside], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a pub providing Chinese food It is located in the riverside. It is near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 2320,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[less than £20], customer rating[average], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Located in the city centre near Crowne Plaza Hotel, The Phoenix is a family-friendly pub with French cuisine. Prices are less than £20. Customers give it an average rating."
+      ]
+   },
+   {
+      "id": 1146,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[low], familyFriendly[yes], near[Ranch]",
+      "text": [
+         "The Cricketers is a family friendly restaurant near Ranch, but its customer rating is low."
+      ]
+   },
+   {
+      "id": 3858,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a high priced Italian pub and pub in the city centre near Raja Indian Cuisine. It is children friendly."
+      ]
+   },
+   {
+      "id": 4295,
+      "input_string": "name[The Wrestlers], eatType[restaurant], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a restaurant. It is located in riverside area near Raja Indian Cuisine. Start from low price and friend-family too."
+      ]
+   },
+   {
+      "id": 77,
+      "input_string": "name[Blue Spice], eatType[pub], food[English], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a family-friendly pub that serves English cuisine. It is located in the city centre near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 1335,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[moderate], customer rating[3 out of 5], area[city centre], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "Located in the city centre near All Bar One, The Cricketers is a Chinese restaurant in the moderate price range. It has a customer rating of 3 out of 5 and it is not kids friendly."
+      ]
+   },
+   {
+      "id": 3294,
+      "input_string": "name[The Vaults], eatType[pub], food[Indian], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a kids friendly pub that provides Indian food with prices that range around £20-25. Located in the riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2632,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], priceRange[cheap], customer rating[5 out of 5], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "The Phoenix is a restaurant providing Indian food in the cheap price range. It is located in the riverside. It is near Express by Holiday Inn. Its customer rating is 5 out of 5."
+      ]
+   },
+   {
+      "id": 1911,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a restaurant which serve English food. The location is near the Raja Indian Cuisine in the city centre area. The place is a not kids friendly with a moderate price range."
+      ]
+   },
+   {
+      "id": 4032,
+      "input_string": "name[The Wrestlers], eatType[pub], food[Italian], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the riverside area you can find The Wrestlers. This adult pub serves inexpensive Italian food."
+      ]
+   },
+   {
+      "id": 4361,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine in the city centre you can find The Wrestlers, a moderately priced restaurant of the Japanese style that unfortunately does not openly welcome families with children."
+      ]
+   },
+   {
+      "id": 2352,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "In the city centre situated near Crowne Plaza Hotel  is a French pub called The Phoenix, it is family-friendly and reasonably priced at less than £20 per person, it has a low customer rating"
+      ]
+   },
+   {
+      "id": 4670,
+      "input_string": "name[Zizzi], eatType[coffee shop], customer rating[high], near[Burger King]",
+      "text": [
+         "Near Burger King is a highly rated coffee shop called Zizzi."
+      ]
+   },
+   {
+      "id": 200,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[English], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is located near Rainbow Vegetarian Café in the riverside area and is a kid friendly restaurant that serves English food."
+      ]
+   },
+   {
+      "id": 521,
+      "input_string": "name[Giraffe], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located near the Raja Indian Cuisine in the riverside area there is a child friendly restaurant called Giraffe. It provides French cuisine."
+      ]
+   },
+   {
+      "id": 2685,
+      "input_string": "name[The Plough], eatType[pub], food[Chinese], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "Serving Chinese food, the non-family friendly pub, The Plough, is a pub in the less than £20 price range.  It is in city centre near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 420,
+      "input_string": "name[Giraffe], eatType[pub], near[The Rice Boat]",
+      "text": [
+         "Near to The Rice Boat there is a pub called Giraffe."
+      ]
+   },
+   {
+      "id": 2202,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], customer rating[3 out of 5], area[riverside], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "Located near Café Sicilia in Riverside, The Phoenix is an adult only pub with a 3 out of 5 rating serving French food for under £25"
+      ]
+   },
+   {
+      "id": 54,
+      "input_string": "name[Blue Spice], eatType[pub], food[Chinese], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a Chinese pub located in the riverside. It is family friendly is is near the Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 2781,
+      "input_string": "name[The Punter], eatType[pub], food[Chinese], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Situated in the riverside area, near Raja Indian Cuisine, you'll find a child-friendly pub with Chinese food on the menu called The Punter. The prices tend to be more than £30."
+      ]
+   },
+   {
+      "id": 2153,
+      "input_string": "name[The Phoenix], eatType[pub], customer rating[high], area[city centre], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "In the city centre, near to Café Sicilia, is the highly rated pub called The Phoenix. It is not child friendly and is in the price bracket of £30 or more."
+      ]
+   },
+   {
+      "id": 4574,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located near the Raja Indian Cuisine, in the riverside area is Wildwood. This is a family friendly restaurant that offers French food."
+      ]
+   },
+   {
+      "id": 1000,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[1 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "The Cricketers is a child friendly restaurant with a customer rating of 1 out of 5 located near Avalon."
+      ]
+   },
+   {
+      "id": 40,
+      "input_string": "name[Blue Spice], eatType[pub], food[Chinese], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "For Chinese, head to Blue Spice. It's a family friendly pub located in the City Centre near the Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3180,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[high], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is a high priced Italian restaurant. It is kid friendly with a customer rating of  out of 5 near Rainbow Vegetarian Café in the riverside area."
+      ]
+   },
+   {
+      "id": 777,
+      "input_string": "name[Strada], eatType[coffee shop], area[city centre]",
+      "text": [
+         "In city centre, there is a coffee shop called Strada."
+      ]
+   },
+   {
+      "id": 2853,
+      "input_string": "name[The Punter], eatType[restaurant], food[Chinese], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Punter is a Chinese restaurant in city centre near Raja Indian Cuisine.  They offer moderate prices and a kid friendly atmosphere."
+      ]
+   },
+   {
+      "id": 4568,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "A amazing French restaurant is called the Wildwood. The restaurant is near the Raja Indian Cuisine in riverside. They love kids."
+      ]
+   },
+   {
+      "id": 2410,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[more than £30], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a children friendly pub located in the city centre near the Crowne Plaza Hotel. The customer rating is 5 out of 5 and if you're looking for some French food and have a price range of more than 30 pounds this is a good place to go."
+      ]
+   },
+   {
+      "id": 2331,
+      "input_string": "name[The Phoenix], eatType[pub], priceRange[less than £20], customer rating[average], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "In the city centre near Crowne Plaza Hotel, there  is a cheap pub called The Phoenix. It is family-friendly and has a customer rating of three out of five."
+      ]
+   },
+   {
+      "id": 1231,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[cheap], customer rating[average], area[riverside], near[All Bar One]",
+      "text": [
+         "The Cricketers is a restaurant providing Chinese food in the cheap price range. It is located in the riverside. It is near All Bar One. Its customer rating is average."
+      ]
+   },
+   {
+      "id": 3187,
+      "input_string": "name[The Punter], eatType[restaurant], priceRange[high], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is an expensive family friendly restaurant, by the side of the river and just down the road from Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3714,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[more than £30], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The French restaurant 'The Vaults' is located in the city centre, near 'Raja Indian Cuisine' with a price range of over £30. They are not children friendly."
+      ]
+   },
+   {
+      "id": 1994,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a restaurant located at riverside near Raja Indian Cuisine serves English food has a price range more than £30 and a children friendly place."
+      ]
+   },
+   {
+      "id": 1386,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[English], priceRange[£20-25], customer rating[high], area[city centre], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "If you are looking for an English restaurant, I recommend The Cricketers located in the city centre near the All Bar One. Its customer rating is very high and has a price range of about 20 to 25 pounds. It is not kid friendly."
+      ]
+   },
+   {
+      "id": 3804,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a pub providing Indian food in the less than £20 price range. It is located in the riverside. It is near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2244,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[£20-25], area[riverside], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a cute pub serving French food. The prices are average and the pub setting is child friend. You will find The Phoenix in the riverside area near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 3150,
+      "input_string": "name[The Punter], eatType[restaurant], priceRange[cheap], customer rating[average], area[city centre], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter restaurant is low priced, rated three stars and is for the whole family. It is in the City center close to Rainbow Vegetarian Café. It serves fine food."
+      ]
+   },
+   {
+      "id": 752,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], near[Express by Holiday Inn]",
+      "text": [
+         "A restaurant with Japanese food is Green Man and is next to Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 2644,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Indian], priceRange[cheap], priceRange[moderate], customer rating[average], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "The Phoenix is a restaurant that offers Indian food for a cheap price with an average rating. In the area of city centre near Express by Holiday Inn, not family friendly."
+      ]
+   },
+   {
+      "id": 937,
+      "input_string": "name[The Cricketers], eatType[coffee shop], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "A popular child friendly coffee shop is The Cricketers located near Express by Holiday Inn."
+      ]
+   },
+   {
+      "id": 1509,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a child friendly pub near to Raja Indian Cuisine in the riverside area. They serve English food. The price range is high"
+      ]
+   },
+   {
+      "id": 2412,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[more than £30], customer rating[5 out of 5], area[city centre], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a children friendly pub located in the city centre near the Crowne Plaza Hotel. The customer rating is 5 out of 5 and if you're looking for some French food and have a price range of more than 30 pounds this is a good place to go."
+      ]
+   },
+   {
+      "id": 2948,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[high], customer rating[1 out of 5], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is an Indian restaurant situated near Express by Holiday Inn by the riverside. It is ideal for couples and has a fairly high price range and In general it has a 1 out of 5 customer  rating."
+      ]
+   },
+   {
+      "id": 2150,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[more than £30], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "For a Fast food pub with a price range more than £30 there is The Phoenix in the riverside area near Raja Indian Cuisine. it is also children friendly."
+      ]
+   },
+   {
+      "id": 1273,
+      "input_string": "name[The Cricketers], eatType[restaurant], food[Chinese], priceRange[high], customer rating[average], area[riverside], familyFriendly[no], near[All Bar One]",
+      "text": [
+         "There is an expensive restaurant The Cricketers, offering Chinese food and is located at riverside near All Bar One.  It is not child friendly and has an average rating ."
+      ]
+   },
+   {
+      "id": 684,
+      "input_string": "name[Green Man], eatType[restaurant], food[Italian], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "There's a restaurant called the Green Man that serves Italian food near the Express by Holiday Inn in Riverside.  It's kids friendly."
+      ]
+   },
+   {
+      "id": 2700,
+      "input_string": "name[The Plough], eatType[restaurant], food[Chinese], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A cheap Chinese restaurant near Raja Indian Cuisine located riverside and is family-friendly is The Plough."
+      ]
+   },
+   {
+      "id": 1554,
+      "input_string": "name[The Mill], eatType[pub], food[English], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a non kids friendly pub, that has moderate price ranged English food. It is located near Raja Indian Cuisine in the city center."
+      ]
+   },
+   {
+      "id": 2360,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], customer rating[low], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Phoenix is a French pub located at the riverside near to The Crowne Plaza Hotel. It is family-friendly with a budget menu but low ratings."
+      ]
+   },
+   {
+      "id": 4685,
+      "input_string": "name[Zizzi], eatType[pub], customer rating[average], near[Burger King]",
+      "text": [
+         "The Zizzi pub is located near Burger King.  It has an average customer rating."
+      ]
+   },
+   {
+      "id": 338,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "There is a no family-friendly pub Giraffe located near Rainbow Vegetarian Café in the riverside that provides Fast food."
+      ]
+   },
+   {
+      "id": 1850,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a cheap, family-friendly, restaurant serving English food. They are near to Raja Indian Cuisine in the city centre."
+      ]
+   },
+   {
+      "id": 978,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[low], familyFriendly[yes], near[Ranch]",
+      "text": [
+         "Ranch is located near the low rated, children friendly coffee shop called, The Cricketers"
+      ]
+   },
+   {
+      "id": 1553,
+      "input_string": "name[The Mill], eatType[pub], priceRange[moderate], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub named The Mill in the city centre. It is near Raja Indian Cuisine, moderately priced and caters to an adult crowd."
+      ]
+   },
+   {
+      "id": 3698,
+      "input_string": "name[The Vaults], eatType[restaurant], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a reasonably priced, family friendly restaurant located near Raja Indian Cuisine by the river."
+      ]
+   },
+   {
+      "id": 4142,
+      "input_string": "name[The Wrestlers], food[Japanese], priceRange[less than £20], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine along the riverside is a family friendly, less than £20 Japanese food place, The Wrestlers."
+      ]
+   },
+   {
+      "id": 1541,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill, a low price family friendly breakfast and pub near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 2161,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], area[riverside], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "The Phoenix pub in the riverside area charges a bit above average but is highly rates.  It's near the Café Sicilia and serves fast food but isn't child friendly."
+      ]
+   },
+   {
+      "id": 4594,
+      "input_string": "name[Wildwood], eatType[restaurant], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Located in riverside near the Raja Indian Cuisine the Wildwood is a restaurant offering French food and is very kid friendly"
+      ]
+   },
+   {
+      "id": 1875,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[less than £20], customer rating[low], area[city centre], near[Café Rouge]",
+      "text": [
+         "The Mill, located in city centre near Café Rouge,  It is a restaurant with great prices but received a low customer rating. They serve English food."
+      ]
+   },
+   {
+      "id": 3766,
+      "input_string": "name[The Vaults], eatType[restaurant], food[Indian], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a restaurant serving Indian food in the high price range.  It's child friendly and in city centre near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 757,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "A Japanese restaurant called the Green Man is family friendly. It is near the Express by Holiday Inn near the riverside."
+      ]
+   },
+   {
+      "id": 1828,
+      "input_string": "name[The Mill], eatType[restaurant], food[English], priceRange[high], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Mill is a high priced restaurant, that offers English food and is kid friendly. It is located in the riverside area, near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3198,
+      "input_string": "name[The Vaults], eatType[pub], food[French], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults pub is family-friendly French food in city centre near Raja Indian Cuisine with a price range less than £20."
+      ]
+   },
+   {
+      "id": 1120,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "There is a kid friendly restaurant called The Cricketers near Express by Holiday Inn. It has a high customer rating."
+      ]
+   },
+   {
+      "id": 360,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Giraffe is a children friendly pub on the riverside, near the Rainbow Vegetarian Café, that offers fast food."
+      ]
+   },
+   {
+      "id": 3679,
+      "input_string": "name[The Vaults], eatType[restaurant], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults restaurant is a family oriented restaurant that features some of the best wine in the area.  Also close to Raja Indian Cuisine"
+      ]
+   },
+   {
+      "id": 3786,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a pub in the city centre serving Indian food and costing less than  £20. It's called The Waterman and is near Raja Indian Cuisine. Not family friendly."
+      ]
+   },
+   {
+      "id": 797,
+      "input_string": "name[Strada], eatType[pub], customer rating[1 out of 5], near[All Bar One]",
+      "text": [
+         "Rated 1 out of 5, Strada is a pub close to All Bar One."
+      ]
+   },
+   {
+      "id": 2079,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Welcome to The Phoenix, we are a pub. We're family-friendly we serve fast food we are located in the city centre near the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 1613,
+      "input_string": "name[The Mill], eatType[pub], food[Fast food], customer rating[3 out of 5], area[riverside], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "Located in Riverside near Café Rouge there is a pub known as 'The Mill'. Has a good customer rating, is child friendly and has a good price range for fast food."
+      ]
+   },
+   {
+      "id": 1897,
+      "input_string": "name[The Mill], eatType[restaurant], priceRange[less than £20], customer rating[low], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "The Mill is a one star, family friendly restaurant located near Café Rouge. It's low-priced."
+      ]
+   },
+   {
+      "id": 3064,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[more than £30], customer rating[high], area[city centre], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant providing Indian food in the more than £30 price range. It is located in the city centre. It is near Express by Holiday Inn. Its customer rating is high."
+      ]
+   },
+   {
+      "id": 409,
+      "input_string": "name[Giraffe], eatType[pub], food[French], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "Giraffe is a family friendly pub. It serves French food in riverside setting, near the Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 149,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[Chinese], area[riverside], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice, a kid-friendly restaurant near the Rainbow Vegetarian Café in the riverside area, is a place where one can order Chinese food."
+      ]
+   },
+   {
+      "id": 2565,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Fast food], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a children friendly restaurant that serves fast food and has a price range of more than L30.  It is by the riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3800,
+      "input_string": "name[The Waterman], eatType[pub], food[Indian], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a less than £20  Indian pub located near the Raja Indian Cuisine and riverside however it is not family friendly."
+      ]
+   },
+   {
+      "id": 3501,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a non-kids-friendly pub with a high customer rating. Serving Japanese food at around £20-25, it's located on Riverside, near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 3100,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], customer rating[high], area[riverside], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter has a high customer rating and is  kid friendly Italian restaurant near Express by Holiday Inn located in the Riverside area."
+      ]
+   },
+   {
+      "id": 998,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[1 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "Children friendly restaurant, The Cricketers, with 1 star customer rating, is located near Avalon."
+      ]
+   },
+   {
+      "id": 2077,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[less than £20], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a moderately priced pub in the city centre near Raja Indian Cuisine. It is not family-friendly but they serve fast food."
+      ]
+   },
+   {
+      "id": 137,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[Chinese], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "In the city centre near the Rainbow Vegetarian Café there is a family friendly restaurant called Blue Spice. They serve Chinese food."
+      ]
+   },
+   {
+      "id": 3937,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Indian], priceRange[less than £20], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "For less than £20 you can eat at the restaurant The Waterman. It is located in riverside near Raja Indian Cuisine, is family friendly, and offers Indian food."
+      ]
+   },
+   {
+      "id": 3025,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[moderate], customer rating[1 out of 5], area[riverside], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant providing Indian food in the moderate price range. It is located in the riverside. It is near Express by Holiday Inn. Its customer rating is 1 out of 5."
+      ]
+   },
+   {
+      "id": 4291,
+      "input_string": "name[The Wrestlers], eatType[restaurant], priceRange[less than £20], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a family-friendly restaurant in the northern City Centre next to Raja Indian Cuisine with a low price range."
+      ]
+   },
+   {
+      "id": 217,
+      "input_string": "name[Blue Spice], eatType[restaurant], food[English], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "If you looking for children-friendly restaurant with English food go to Blue Spice near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 611,
+      "input_string": "name[Green Man], eatType[pub], food[Japanese], area[riverside], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "Located by the riverside near the Express by Holiday Inn, Green Man is a Japanese pub that is not family friendly."
+      ]
+   },
+   {
+      "id": 2046,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix is a child-friendly fast food pub. It is in the high price range, and a pub. It is located near Raja Indian Cuisine in the city centre."
+      ]
+   },
+   {
+      "id": 1603,
+      "input_string": "name[The Mill], eatType[pub], eatType[restaurant], food[Fast food], priceRange[£20-25], customer rating[high], familyFriendly[yes], near[Café Rouge]",
+      "text": [
+         "Located near Café Rouge, the kid friendly, highly rated pub, The Mill is kid friendly restaurant that also serves fast food with a price range £20-25."
+      ]
+   },
+   {
+      "id": 4287,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Italian], priceRange[less than £20], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "Near Raja Indian Cuisine there is a restaurant called The Wrestlers that offers less than £20 Italian food and is by the river side. Kids not welcome"
+      ]
+   },
+   {
+      "id": 2048,
+      "input_string": "name[The Phoenix], eatType[pub], food[Fast food], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Phoenix pub is in the high price range and serves child friendly Fast food near the Raja Indian Cuisine and the center of the city."
+      ]
+   },
+   {
+      "id": 869,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a children friendly coffee shop near Crowne Plaza Hotel with a 5 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 2647,
+      "input_string": "name[The Plough], eatType[pub], food[Indian], priceRange[£20-25], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Plough is a pub that serves Indian food that has an average price range. It allows children and is near the riverside and Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 252,
+      "input_string": "name[Clowns], eatType[pub], customer rating[5 out of 5], near[Crowne Plaza Hotel]",
+      "text": [
+         "The pub Clowns that is near Crowne Plaza Hotel has ratings of 5 out of 5."
+      ]
+   },
+   {
+      "id": 1377,
+      "input_string": "name[The Cricketers], eatType[restaurant], area[riverside], familyFriendly[yes], near[All Bar One]",
+      "text": [
+         "Near the river there is a restaurant  called The Cricketers. It is highly recommended and reasonably priced, for your convenience it is children friendly and is located near All Bar One."
+      ]
+   },
+   {
+      "id": 3015,
+      "input_string": "name[The Punter], eatType[restaurant], food[Indian], priceRange[moderate], customer rating[1 out of 5], area[city centre], near[Express by Holiday Inn]",
+      "text": [
+         "The Punter is a restaurant providing Indian food in the moderate price range. It is located in the city centre. It is near Express by Holiday Inn. Its customer rating is 1 out of 5."
+      ]
+   },
+   {
+      "id": 2376,
+      "input_string": "name[The Phoenix], eatType[pub], food[French], priceRange[moderate], customer rating[1 out of 5], area[city centre], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "There is a pub named The Phoenix with a moderate price range in the city centre, near Crowne Plaza Hotel. It serves French food and is not kid friendly, however it only has a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 2824,
+      "input_string": "name[The Punter], eatType[pub], food[Italian], priceRange[high], customer rating[average], area[city centre], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Punter is an Italian pub in the city centre, near Rainbow Vegetarian Café. It is high price, not child friendly and has an average customer rating."
+      ]
+   },
+   {
+      "id": 4011,
+      "input_string": "name[The Waterman], eatType[restaurant], food[Italian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a children-friendly restaurant named The Waterman that offers Italian food. It is located near Raja Indian Cuisine in the riverside area."
+      ]
+   },
+   {
+      "id": 4527,
+      "input_string": "name[Wildwood], eatType[pub], food[Indian], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "At Riverside near Raja Indian Cuisine, Wildwood is a kid friendly Indian pub."
+      ]
+   },
+   {
+      "id": 46,
+      "input_string": "name[Blue Spice], eatType[pub], food[Chinese], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "Blue Spice is a pub that serves Chinese food near the riverside and the Rainbow Vegetarian Café. It is not family friendly."
+      ]
+   },
+   {
+      "id": 847,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[3 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a kid friendly coffee shop that is located near Crowne Plaza Hotel. It has a 3 out of 5 customer rating."
+      ]
+   },
+   {
+      "id": 324,
+      "input_string": "name[Giraffe], eatType[pub], food[Fast food], area[city centre], familyFriendly[yes], near[Rainbow Vegetarian Café]",
+      "text": [
+         "pub Giraffe is a family-friendly fast food pub in city centre near Rainbow Vegetarian Café."
+      ]
+   },
+   {
+      "id": 3549,
+      "input_string": "name[The Vaults], eatType[pub], food[Japanese], priceRange[high], customer rating[3 out of 5], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults is a children friendly pub serving high priced Japanese food in city centre near Raja Indian Cuisine that has a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 3843,
+      "input_string": "name[The Waterman], eatType[pub], food[Italian], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Waterman is a cheap family friendly, Italian, pub.  It is located in riverside and can be found near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 243,
+      "input_string": "name[Clowns], eatType[coffee shop], customer rating[5 out of 5], near[Crowne Plaza Hotel]",
+      "text": [
+         "The coffee shop Clowns is near Crowne Plaza Hotel and has a customer rating of 5 out of 5."
+      ]
+   },
+   {
+      "id": 1119,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[high], familyFriendly[yes], near[Express by Holiday Inn]",
+      "text": [
+         "The Cricketers, a family friendly restaurant near Express by Holiday Inn has received a high customer rating."
+      ]
+   },
+   {
+      "id": 4382,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[less than £20], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers, a Japanese restaurant near Raja Indian Cuisine, offers family friendly riverside dining for less than £20."
+      ]
+   },
+   {
+      "id": 1094,
+      "input_string": "name[The Cricketers], eatType[restaurant], customer rating[average], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Cricketers is a family-friendly restaurant near Café Sicilia that's been rated average by customers."
+      ]
+   },
+   {
+      "id": 702,
+      "input_string": "name[Green Man], eatType[restaurant], food[Japanese], area[city centre], familyFriendly[no], near[Express by Holiday Inn]",
+      "text": [
+         "Near the Express by Holiday Inn in the city centre there is a non family-friendly restaurant called the Green Man, it serves Japanese food."
+      ]
+   },
+   {
+      "id": 2472,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Fast food], priceRange[high], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The child friendly Fast food restaurant named The Phoenix restaurant is near the Raja Indian Cuisine and the city center in the high price range."
+      ]
+   },
+   {
+      "id": 876,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers is a family friendly coffee shop that is located near Crowne Plaza Hotel. It has a customer rating of 5 out of 5."
+      ]
+   },
+   {
+      "id": 3391,
+      "input_string": "name[The Vaults], eatType[pub], food[Italian], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "The Vaults is a pub serving Italian food. It is moderately priced, not kid friendly, rated 1 out of 5, and is located near Rainbow Vegetarian Café at the riverside."
+      ]
+   },
+   {
+      "id": 843,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[3 out of 5], familyFriendly[yes], near[Avalon]",
+      "text": [
+         "The Cricketers is a coffee shop located near Avalon. The coffee shop boats a customer rating of 3 out of 5 and is children friendly."
+      ]
+   },
+   {
+      "id": 3686,
+      "input_string": "name[The Vaults], eatType[restaurant], food[French], priceRange[moderate], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Vaults restaurant serves French food in the City Centre near Raja Indian Cuisine and is moderately priced"
+      ]
+   },
+   {
+      "id": 2536,
+      "input_string": "name[The Phoenix], eatType[restaurant], food[Fast food], priceRange[moderate], area[city centre], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "There is a moderately priced restaurant named The Phoenix that serves fast food.  The Phoenix is Kid Friendly and is near Raja Indian Cuisine in the city centre."
+      ]
+   },
+   {
+      "id": 4294,
+      "input_string": "name[The Wrestlers], eatType[restaurant], priceRange[less than £20], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a restaurant located near Raja Indian Cuisine that serves pasta in the low price range. Public restrooms available."
+      ]
+   },
+   {
+      "id": 878,
+      "input_string": "name[The Cricketers], eatType[coffee shop], customer rating[5 out of 5], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "The Cricketers  has a customer satisfaction rating of 5 out of 5. It is a family friendly coffee shop near Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 1739,
+      "input_string": "name[The Mill], eatType[pub], priceRange[less than £20], customer rating[low], area[city centre], near[Café Sicilia]",
+      "text": [
+         "The Mill pub, near Café Sicilia in the city centre, has a price range of less than £20 and has a low customer rating."
+      ]
+   },
+   {
+      "id": 4348,
+      "input_string": "name[The Wrestlers], eatType[restaurant], food[Japanese], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "In riverside, near Raja Indian Cuisine, there is a Japanese restaurant called The Wrestlers that offers cheap food and a child-friendly atmosphere."
+      ]
+   },
+   {
+      "id": 3146,
+      "input_string": "name[The Punter], eatType[restaurant], food[Italian], priceRange[cheap], customer rating[average], area[riverside], familyFriendly[no], near[Rainbow Vegetarian Café]",
+      "text": [
+         "hello and welcome to The Punter, we serve the finest Italian food around  and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the moment we are not family-friendly."
+      ]
+   }
+]

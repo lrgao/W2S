@@ -1,0 +1,14 @@
+CUDA_VISIBLE_DEVICES=2 python cli_gt.py \
+        --do_predict \
+        --model_name t5 \
+        --output_dir /data/gaolr/workspace/AQPG/t5-cnndm/out/qwen-7b-global/SFT-inputweak2prompt-train0-9_dev0-209_concat_bs8 \
+        --train_file /data/gaolr/workspace/AQPG/t5-cnndm/dataset/qwen-7b-global/1-gentexts/dev_100.gen_prompts.0-291.weak_clean.json  \
+        --predict_file /data/gaolr/workspace/AQPG/t5-cnndm/dataset/qwen-7b-global/1-gentexts/dev_100.gen_prompts.0-291.weak_clean.json \
+        --icl_file /data/gaolr/workspace/AQPG/t5-cnndm/dataset/qwen-7b-global/1-gentexts/dev_100.gen_prompts.0-291.weak_clean.json\
+        --tokenizer_path /data/gaolr/models/t5-base \
+        --dataset webnlg \
+        --predict_batch_size 4 \
+        --max_input_length 2200 \
+        --max_output_length 150 \
+        --num_beams 5 \
+        --prefix test_beam5_

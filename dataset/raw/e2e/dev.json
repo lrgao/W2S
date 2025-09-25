@@ -1,0 +1,702 @@
+[
+   {
+      "id": 1797,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[3 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Cambridge Blue is a coffee shop in the riverside area, near to Burger King. It is children friendly and has a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 3322,
+      "input_string": "name[The Punter], area[riverside], familyFriendly[yes]",
+      "text": [
+         "The Punter is a kid friendly place to eat in the riverside area. Customer have rated it highly."
+      ]
+   },
+   {
+      "id": 2608,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[less than £20], customer rating[low], area[city centre], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Eagle is a coffee shop which serves English food and is located in the city centre near Burger King. It is family-friendly, has meals less than 20 pounds, but has a low customer rating."
+      ]
+   },
+   {
+      "id": 3137,
+      "input_string": "name[The Phoenix], area[riverside]",
+      "text": [
+         "If you want to grab a quick bite, The Phoenix is the place to go by the riverside."
+      ]
+   },
+   {
+      "id": 2104,
+      "input_string": "name[The Eagle], customer rating[1 out of 5], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "Rated 1 out of 5.  The Eagle is near Café Brazil. Yes it is Kid friendly."
+      ]
+   },
+   {
+      "id": 1064,
+      "input_string": "name[Cotto], eatType[coffee shop], eatType[restaurant], priceRange[cheap], customer rating[average], area[city centre], near[The Portland Arms]",
+      "text": [
+         "Cotto coffee Shop is a low-priced, 3 star restaurant that serves breakfast.  It is located in city centre, east of The Portland Arms.  They also offer eat-in, or take-out.  Sorry, no deliveries."
+      ]
+   },
+   {
+      "id": 2059,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[English], customer rating[average], familyFriendly[no], near[The Portland Arms]",
+      "text": [
+         "The Cricketers is a coffee shop near The Portland Arms with an average customer rating serving English food.  It is not a family-friendly venue."
+      ]
+   },
+   {
+      "id": 3084,
+      "input_string": "name[The Phoenix], area[riverside]",
+      "text": [
+         "The Phoenix in riverside has a 1 our of 5 customer rating."
+      ]
+   },
+   {
+      "id": 301,
+      "input_string": "name[Aromi], eatType[coffee shop], food[English], customer rating[low], area[city centre], familyFriendly[no]",
+      "text": [
+         "The Aromi is an English coffee shop located in the city centre that is not family-friendly and has a low customer rating."
+      ]
+   },
+   {
+      "id": 1266,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], priceRange[high], customer rating[average], area[riverside]",
+      "text": [
+         "Fitzbillies is a coffee shop providing Chinese food in the high price range. It is located in the riverside. Its customer rating is average."
+      ]
+   },
+   {
+      "id": 1397,
+      "input_string": "name[Fitzbillies], food[English], priceRange[£20-25], customer rating[high], area[riverside], familyFriendly[yes]",
+      "text": [
+         "Fitzbillies is located in the riverside area with a high customer rating.  It serves English food, is kids friendly, and has a price range of £20-25."
+      ]
+   },
+   {
+      "id": 3491,
+      "input_string": "name[The Punter], eatType[coffee shop], food[Chinese], priceRange[moderate], customer rating[3 out of 5], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Punter coffee shop has a customer rating of 3 out of 5. It is family friendly, offers Chinese food at a moderate price and is located near Café Sicilia."
+      ]
+   },
+   {
+      "id": 3345,
+      "input_string": "name[The Punter], customer rating[low], area[city centre], familyFriendly[yes]",
+      "text": [
+         "The Punter is a low rated venue in the city centre, not recommended for children."
+      ]
+   },
+   {
+      "id": 720,
+      "input_string": "name[Cocum], eatType[coffee shop], food[Chinese], customer rating[1 out of 5], familyFriendly[yes]",
+      "text": [
+         "Cocum is a child-friendly coffee shop that serves Chinese food at higher than average ranges, It has a one out of five customer rating."
+      ]
+   },
+   {
+      "id": 2262,
+      "input_string": "name[The Eagle], area[riverside], near[Café Brazil]",
+      "text": [
+         "The Eagle, just off the river by Café Brazil, is a poor choice of a place to take a family."
+      ]
+   },
+   {
+      "id": 3102,
+      "input_string": "name[The Phoenix], customer rating[3 out of 5], area[riverside]",
+      "text": [
+         "Located on the riverside The Phoenix has a customer rating of 3 out of 5."
+      ]
+   },
+   {
+      "id": 2762,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], food[Chinese], priceRange[less than £20], customer rating[low], area[city centre]",
+      "text": [
+         "There is a coffee shop, The Golden Palace located in the city centre that serves Chinese food with price range less than £20 and has low customer rating."
+      ]
+   },
+   {
+      "id": 2222,
+      "input_string": "name[The Eagle], customer rating[high], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "The Eagle which is near Café Brazil in Riverside has a customer rating of high it is also children friendly."
+      ]
+   },
+   {
+      "id": 2481,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[Chinese], priceRange[more than £30], customer rating[high], area[riverside], near[Burger King]",
+      "text": [
+         "The Eagle coffee shop makes delicious Chinese food in the price range of more than £30, ongoing  high customer service ratings, located by the riverside, bring your children, easy to find beside the Burger King."
+      ]
+   },
+   {
+      "id": 1579,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[English], priceRange[moderate], area[riverside], familyFriendly[no]",
+      "text": [
+         "Fitzbillies is a coffee shop located in the riverside area.  It is not a kid friendly establishment.  It offers English food at a moderate price range.  Customer rating is a 3."
+      ]
+   },
+   {
+      "id": 2524,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[cheap], customer rating[5 out of 5], area[riverside], near[Burger King]",
+      "text": [
+         "The Eagle is an English style coffee shop located on the riverside, right next to the Burger King. Its English food is cheap and got 5 out of 5 rating."
+      ]
+   },
+   {
+      "id": 1473,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], familyFriendly[yes]",
+      "text": [
+         "Fitzbillies is a family friendly style coffee shop. with a great view of the river"
+      ]
+   },
+   {
+      "id": 4165,
+      "input_string": "name[Travellers Rest Beefeater], customer rating[low], area[city centre], near[Raja Indian Cuisine]",
+      "text": [
+         "The Travellers Rest Beefeater is located in the city centre near the Raja Indian Cuisine. It has a low customer rating."
+      ]
+   },
+   {
+      "id": 1823,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[5 out of 5], area[riverside], familyFriendly[no], near[Burger King]",
+      "text": [
+         "Near Burger King, eat at this coffee shop called The Cambridge Blue.  It is not family-friendly at Riverside.  Customer rating is totally 5 out of 5."
+      ]
+   },
+   {
+      "id": 3485,
+      "input_string": "name[The Punter], eatType[coffee shop], food[Chinese], priceRange[moderate], customer rating[3 out of 5], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "The Punter, a coffee shop, serves Chinese food within the moderate price range. It is located near Café Sicilia, and is not kid friendly, with a 3 star rating."
+      ]
+   },
+   {
+      "id": 3977,
+      "input_string": "name[The Wrestlers], eatType[coffee shop], food[Chinese], priceRange[moderate], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "No kids in The Wrestlers, it is a Chinese coffee shop, on the riverside near the Raja Indian Cuisine, fairly moderate prices."
+      ]
+   },
+   {
+      "id": 1980,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[Chinese], customer rating[5 out of 5], near[The Portland Arms]",
+      "text": [
+         "The Cricketers is a coffee shop providing Chinese food It is near The Portland Arms. Its customer rating is 5 out of 5."
+      ]
+   },
+   {
+      "id": 3784,
+      "input_string": "name[The Wrestlers], eatType[restaurant], familyFriendly[yes]",
+      "text": [
+         "An average restaurant named The Wrestlers is children friendly."
+      ]
+   },
+   {
+      "id": 1846,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[5 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Cambridge Blue in the riverside area near Burger King is a child friendly coffee shop with a 5 out of 5 rating."
+      ]
+   },
+   {
+      "id": 911,
+      "input_string": "name[Cocum], eatType[coffee shop], food[English], priceRange[moderate], customer rating[3 out of 5], familyFriendly[yes]",
+      "text": [
+         "A kids friendly coffee shop called Cocum has English food. It has a customer rating of 3 out of 5 and has a moderate price range."
+      ]
+   },
+   {
+      "id": 1889,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[average], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Cambridge Blue is a coffee shop near Burger King in riverside. it is child friendly with an average customer rating."
+      ]
+   },
+   {
+      "id": 1188,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[riverside], familyFriendly[no]",
+      "text": [
+         "Fitzbillies coffee shop offers Chinese food in the low price range with customer rating of 5 out of 5 at riverside and not family friendly."
+      ]
+   },
+   {
+      "id": 2649,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Eagle is a kid friendly coffee shop with moderate prices. The Eagle is located in the riverside near Burger King. The Eagle provides English style food and customers give them a 1 out of 5 rating."
+      ]
+   },
+   {
+      "id": 61,
+      "input_string": "name[Alimentum], eatType[restaurant], area[riverside], familyFriendly[yes]",
+      "text": [
+         "There is child friendly restaurant in the riverside area named Alimentum."
+      ]
+   },
+   {
+      "id": 1692,
+      "input_string": "name[Taste of Cambridge], eatType[coffee shop], food[Chinese], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Taste of Cambridge Chinese coffee shop in riverside, near Crowne Plaza Hotel, is kid friendly."
+      ]
+   },
+   {
+      "id": 2066,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[English], customer rating[average], familyFriendly[yes], near[The Portland Arms]",
+      "text": [
+         "The Cricketers is a English food place with a average customer rating near The Portland Arms. It is a children friendly coffee shop."
+      ]
+   },
+   {
+      "id": 1753,
+      "input_string": "name[Taste of Cambridge], eatType[coffee shop], food[English], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Taste of Cambridge is a family friendly coffee shop serving English food. It is situated in the riverside area near the Crowne Plaza Hotel."
+      ]
+   },
+   {
+      "id": 4066,
+      "input_string": "name[The Wrestlers], eatType[coffee shop], food[English], priceRange[moderate], area[city centre], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "In the city center near Raja Indian Cuisine, there is a non kids friendly coffee shop named, The Wrestlers. The price range is moderate and they have English food."
+      ]
+   },
+   {
+      "id": 2213,
+      "input_string": "name[The Eagle], customer rating[average], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "Located near Café Brazil in a riverside area, The Eagle is family friendly with an average customer rating."
+      ]
+   },
+   {
+      "id": 569,
+      "input_string": "name[Clowns], eatType[coffee shop], food[Chinese], customer rating[5 out of 5], area[riverside], near[Clare Hall]",
+      "text": [
+         "Clowns Chinese coffee shop is rated 5 out of 5 and is near Clare Hall in riverside."
+      ]
+   },
+   {
+      "id": 72,
+      "input_string": "name[Alimentum], area[riverside], familyFriendly[yes]",
+      "text": [
+         "If you are looking for a kids Friendly establishment in the riverside area, try Alimentum."
+      ]
+   },
+   {
+      "id": 2251,
+      "input_string": "name[The Eagle], customer rating[low], area[city centre], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "The low customer rating, family-friendly establishment named The Eagle is near the city centre and near Café Brazil."
+      ]
+   },
+   {
+      "id": 3805,
+      "input_string": "name[The Wrestlers], customer rating[average], familyFriendly[yes], near[The Sorrento]",
+      "text": [
+         "The Wrestlers is family friendly and near The Sorrento, but it only has an average customer rating."
+      ]
+   },
+   {
+      "id": 2773,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], food[Chinese], priceRange[less than £20], area[riverside]",
+      "text": [
+         "The Golden Palace is a cheap place to grab coffee and Chinese food in Riverside.  Though don't expect great customer service."
+      ]
+   },
+   {
+      "id": 2846,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], food[English], priceRange[cheap], area[city centre]",
+      "text": [
+         "The Golden Palace will delight you with average cheap English food with in the coffee shop in the city center."
+      ]
+   },
+   {
+      "id": 916,
+      "input_string": "name[Cocum], eatType[coffee shop], food[English], priceRange[moderate], customer rating[3 out of 5], familyFriendly[no]",
+      "text": [
+         "Cocum serves moderately priced English food in a coffee shop atmosphere.  It is not child friendly and has an average customer rating."
+      ]
+   },
+   {
+      "id": 1269,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], priceRange[high], customer rating[average], area[riverside]",
+      "text": [
+         "Fitzbillies is a coffee shop providing Chinese food in the high price range. It is located in the riverside. Its customer rating is average."
+      ]
+   },
+   {
+      "id": 1500,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[English], priceRange[high], customer rating[average], area[riverside], familyFriendly[yes]",
+      "text": [
+         "There is an English coffee shop in Riverside that has an average customer rating, is kid-friendly and is expensive called Fitzbillies."
+      ]
+   },
+   {
+      "id": 4246,
+      "input_string": "name[Wildwood], eatType[coffee shop], food[English], priceRange[cheap], customer rating[5 out of 5], near[Ranch]",
+      "text": [
+         "There is a cheap coffee shop Wildwood and they serve English food. They have high customer ratings and they are in the city near the Ranch."
+      ]
+   },
+   {
+      "id": 3696,
+      "input_string": "name[The Wrestlers], customer rating[3 out of 5], familyFriendly[yes], near[The Sorrento]",
+      "text": [
+         "The Wrestlers is a children friendly place with a 3 out of 5 rating near The Sorrento"
+      ]
+   },
+   {
+      "id": 2623,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[less than £20], customer rating[low], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Eagle, a family friendly coffee shop located by the riverside near Burger King serves English food for less than £20, it has been low-rated."
+      ]
+   },
+   {
+      "id": 2200,
+      "input_string": "name[The Eagle], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "The Eagle is average  and yes the Café Brazil in riverside is known to be family friendly."
+      ]
+   },
+   {
+      "id": 1689,
+      "input_string": "name[Taste of Cambridge], eatType[coffee shop], food[Chinese], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Near the Crowne Plaza Hotel in Riverside is a coffee shop called Taste of Cambridge. It is child friendly and serves Chinese food."
+      ]
+   },
+   {
+      "id": 3416,
+      "input_string": "name[The Punter], eatType[coffee shop], food[Chinese], priceRange[cheap], customer rating[5 out of 5], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "The Punter is a coffee shop with a customer rating of 5 out of 5 that serves Chinese food in the low price range. It is family friendly and can be found near the Café Sicilia."
+      ]
+   },
+   {
+      "id": 2539,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[cheap], customer rating[average], area[riverside], near[Burger King]",
+      "text": [
+         "English food with an average customer review, near Burger King is The Eagle in the riverside. It is cheap but does not cater foe children in this coffee shop."
+      ]
+   },
+   {
+      "id": 1874,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[average], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "There is a children friendly coffee shop The Cambridge Blue in riverside near Burger King with an average customer rating"
+      ]
+   },
+   {
+      "id": 2132,
+      "input_string": "name[The Eagle], customer rating[3 out of 5], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "by the riverside. there is The Eagle is a 3 out of 5 venue near Café Brazil, with a a children-friendly Ambient."
+      ]
+   },
+   {
+      "id": 2683,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[English], priceRange[more than £30], customer rating[high], area[city centre], familyFriendly[no], near[Burger King]",
+      "text": [
+         "The Eagle is an English coffee shop that costs more than £30. It is not children friendly, but it has a high customer rating. It is in the city centre, near the Burger King."
+      ]
+   },
+   {
+      "id": 3909,
+      "input_string": "name[The Wrestlers], eatType[coffee shop], food[Chinese], priceRange[cheap], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "A cheap Chinese coffee shop near Raja Indian Cuisine located riverside and is family-friendly is The Wrestlers."
+      ]
+   },
+   {
+      "id": 1774,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "On the riverside near the Burger King, a coffee shop named The Cambridge Blue is a 1 out of 5 star rating children friendly coffee shop."
+      ]
+   },
+   {
+      "id": 1921,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[low], area[city centre], familyFriendly[no], near[Burger King]",
+      "text": [
+         "The Cambridge Blue is a coffee shop located in the city centre near Burger King. Its customer rating is low and no family-friendly."
+      ]
+   },
+   {
+      "id": 1730,
+      "input_string": "name[Taste of Cambridge], eatType[coffee shop], food[English], area[riverside], familyFriendly[yes]",
+      "text": [
+         "Taste of Cambridge is located near Crown Plaza Hotel in the riverside area and is a kid friendly coffee shop that serves English food."
+      ]
+   },
+   {
+      "id": 4045,
+      "input_string": "name[The Wrestlers], eatType[coffee shop], food[English], priceRange[less than £20], area[riverside], familyFriendly[no], near[Raja Indian Cuisine]",
+      "text": [
+         "A cheap English coffee shop in the riverside area near Raja Indian Cuisine is called The Wrestlers. It isn't family-friendly."
+      ]
+   },
+   {
+      "id": 4271,
+      "input_string": "name[Wildwood], eatType[coffee shop], food[English], priceRange[high], customer rating[5 out of 5], customer rating[average], near[Ranch]",
+      "text": [
+         "Near Ranch there is an English coffee shop with average ratings and high prices called Wildwood."
+      ]
+   },
+   {
+      "id": 2165,
+      "input_string": "name[The Eagle], customer rating[5 out of 5], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "Riverside and family Friendly with a customer Rating of 5 out of 5 you will find The Eagle located near Café Brazil."
+      ]
+   },
+   {
+      "id": 1745,
+      "input_string": "name[Taste of Cambridge], eatType[coffee shop], food[English], area[riverside], familyFriendly[yes], near[Crowne Plaza Hotel]",
+      "text": [
+         "Taste of Cambridge is a coffee shop located in Riverside near Crowne Plaza Hotel which serves English food and is known to be kid friendly."
+      ]
+   },
+   {
+      "id": 1861,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[average], area[city centre], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "It has average customer ratings and family-friendly services near Burger King; The Cambridge Blue coffee shop is in city centre."
+      ]
+   },
+   {
+      "id": 3590,
+      "input_string": "name[The Punter], eatType[coffee shop], food[English], priceRange[less than £20], customer rating[low], familyFriendly[yes], near[Café Sicilia]",
+      "text": [
+         "Near Café Sicilia there is a family friendly coffee shop serving English food called The Punter which has a price range less than £20 and has a low customer rating."
+      ]
+   },
+   {
+      "id": 593,
+      "input_string": "name[Clowns], eatType[coffee shop], food[Chinese], customer rating[high], area[riverside], near[Clare Hall]",
+      "text": [
+         "Near to Clare Hall, by the river, there's a Chinese coffee shop called Clowns that is highly rated."
+      ]
+   },
+   {
+      "id": 1793,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[3 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Cambridge Blue is a child friendly coffee shop with a customer rating of 3 out of 5 and located by the riverside near a Burger King."
+      ]
+   },
+   {
+      "id": 3823,
+      "input_string": "name[The Wrestlers], customer rating[high], familyFriendly[yes]",
+      "text": [
+         "The Wrestlers is a highly rated child friendly environment"
+      ]
+   },
+   {
+      "id": 3458,
+      "input_string": "name[The Punter], eatType[coffee shop], food[Chinese], priceRange[less than £20], customer rating[low], familyFriendly[no], near[Café Sicilia]",
+      "text": [
+         "the coffee shop The Punter  near Café Sicilia serves Chinese food with a price range  of less than 20 pounds. It is not family friendly and has a low customer rating."
+      ]
+   },
+   {
+      "id": 2862,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], food[English], area[city centre]",
+      "text": [
+         "The Golden Palace offers terrible English coffee for a high cost in the City Centre."
+      ]
+   },
+   {
+      "id": 1177,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], priceRange[cheap], customer rating[5 out of 5], area[city centre], familyFriendly[yes]",
+      "text": [
+         "Fitzbillies is a Chinese food serving, cheap coffee shop in the city centre which is family friendly and rated 5 out of 5 by customers."
+      ]
+   },
+   {
+      "id": 3778,
+      "input_string": "name[The Wrestlers], customer rating[average], familyFriendly[yes]",
+      "text": [
+         "The Wrestlers has an average customer rating and is also children friendly."
+      ]
+   },
+   {
+      "id": 3031,
+      "input_string": "name[The Mill], eatType[coffee shop], food[English], area[riverside], near[The Sorrento]",
+      "text": [
+         "The Mill is a costly coffee shop offering British-style dishes. It is located on the river near The Sorrento."
+      ]
+   },
+   {
+      "id": 456,
+      "input_string": "name[Browns Cambridge], eatType[coffee shop], food[English], customer rating[5 out of 5], area[city centre], familyFriendly[no], near[Crowne Plaza Hotel]",
+      "text": [
+         "In the city centre, near the Crowne Plaza Hotel, there is a highly rated non-family-friendly coffee shop called Browns Cambridge that serves English food."
+      ]
+   },
+   {
+      "id": 2348,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[Chinese], priceRange[high], customer rating[1 out of 5], area[city centre], familyFriendly[no], near[Burger King]",
+      "text": [
+         "The Eagle is a coffee shop that serves expensive Chinese food.  It has a customer rating of 1 out of 5.  It is in the city centre  near Burger King but it is not children friendly."
+      ]
+   },
+   {
+      "id": 1475,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[English], priceRange[high], customer rating[1 out of 5], area[riverside], familyFriendly[yes]",
+      "text": [
+         "Fitzbillies is a kid friendly Café but it is expensive and has a low customer rating. They are by the river and serve English food."
+      ]
+   },
+   {
+      "id": 2023,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[Chinese], customer rating[low], familyFriendly[no], near[The Portland Arms]",
+      "text": [
+         "The Cricketers is a coffee shop near The Portland Arms that sells Chinese food. It has a low customer rating and is not family friendly."
+      ]
+   },
+   {
+      "id": 3836,
+      "input_string": "name[The Wrestlers], customer rating[high]",
+      "text": [
+         "The movie The Wrestlers received a high Yes rating from a movie website"
+      ]
+   },
+   {
+      "id": 1775,
+      "input_string": "name[The Cambridge Blue], eatType[coffee shop], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Burger King]",
+      "text": [
+         "The Cambridge Blue is a 1 out of 5 rated coffee shop. It is family friendly and located near the riverside by Burger King."
+      ]
+   },
+   {
+      "id": 1191,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], customer rating[5 out of 5], familyFriendly[yes]",
+      "text": [
+         "A low-cost, family friendly coffee shop called Fitzbillies offers Chinese food.  They have a high customer rating of 5 out of 5."
+      ]
+   },
+   {
+      "id": 2931,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], food[English], area[riverside]",
+      "text": [
+         "The Golden Palace coffee shop in a riverside location serves medium priced English food"
+      ]
+   },
+   {
+      "id": 1315,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[Chinese], priceRange[moderate], customer rating[1 out of 5], area[riverside], familyFriendly[no]",
+      "text": [
+         "Fitzbillies is a moderately priced coffee shop in the riverside area which also offers Chinese food. It has a customer rating of 1 out of 5. It is not kid friendly."
+      ]
+   },
+   {
+      "id": 2430,
+      "input_string": "name[The Eagle], eatType[coffee shop], food[Chinese], priceRange[moderate], customer rating[1 out of 5], area[riverside], near[Burger King]",
+      "text": [
+         "The Eagle is a coffee shop providing Chinese food in the moderate price range. It is located in the riverside. It is near Burger King. Its customer rating is 1 out of 5."
+      ]
+   },
+   {
+      "id": 2108,
+      "input_string": "name[The Eagle], customer rating[1 out of 5], area[riverside], familyFriendly[yes], near[Café Brazil]",
+      "text": [
+         "The Eagle has a low rating but is child friendly, located near Café Brazil in the riverside."
+      ]
+   },
+   {
+      "id": 241,
+      "input_string": "name[Aromi], eatType[coffee shop], food[English], customer rating[5 out of 5], area[city centre], familyFriendly[yes]",
+      "text": [
+         "Aromi coffee shop serves English food in a family-friendly atmosphere near the city center and has a customer rating of 5 out of 5."
+      ]
+   },
+   {
+      "id": 1577,
+      "input_string": "name[Fitzbillies], eatType[coffee shop], food[English], customer rating[3 out of 5], area[riverside]",
+      "text": [
+         "Adults rated the English coffee shop, Fitzbillies, in Riverside as 3 out of 5 points."
+      ]
+   },
+   {
+      "id": 947,
+      "input_string": "name[Cotto], eatType[coffee shop], food[Chinese], priceRange[cheap], customer rating[average], area[city centre], near[The Portland Arms]",
+      "text": [
+         "Cotto coffee shop offers Chinese food at low price range with a rating of average in city centre, near The Portland Arms."
+      ]
+   },
+   {
+      "id": 2004,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[Chinese], customer rating[average], near[The Portland Arms]",
+      "text": [
+         "The Cricketers is a coffee shop providing Chinese food It is near The Portland Arms. Its customer rating is average."
+      ]
+   },
+   {
+      "id": 4080,
+      "input_string": "name[The Wrestlers], eatType[coffee shop], food[English], priceRange[moderate], area[riverside], familyFriendly[yes], near[Raja Indian Cuisine]",
+      "text": [
+         "The Wrestlers is a coffee shop that serves English style food.  It is moderately priced and kid friendly.  It is located on the riverside near Raja Indian Cuisine."
+      ]
+   },
+   {
+      "id": 4194,
+      "input_string": "name[Wildwood], eatType[coffee shop], food[Chinese], priceRange[cheap], customer rating[average], near[Ranch]",
+      "text": [
+         "Near the Ranch there is a cheap coffee shop that serves Chinese food named Wildwood and has an average rating."
+      ]
+   },
+   {
+      "id": 3151,
+      "input_string": "name[The Phoenix], customer rating[high], area[riverside]",
+      "text": [
+         "Near the riverside is the highly-rated establishment, The Phoenix."
+      ]
+   },
+   {
+      "id": 4103,
+      "input_string": "name[Travellers Rest Beefeater], customer rating[1 out of 5], area[riverside], near[Raja Indian Cuisine]",
+      "text": [
+         "On the riverside near Raja Indian Cuisine, is Travellers Rest Beefeater with a customer rating of 1 out of 5."
+      ]
+   },
+   {
+      "id": 3802,
+      "input_string": "name[The Wrestlers], customer rating[average], familyFriendly[yes], near[The Sorrento]",
+      "text": [
+         "The Wrestlers are family friendly average rated and live near The Sorrento family."
+      ]
+   },
+   {
+      "id": 4297,
+      "input_string": "name[Wildwood], eatType[coffee shop], food[English], priceRange[moderate], customer rating[3 out of 5], near[Ranch]",
+      "text": [
+         "Wildwood is a coffee shop with moderately priced English food near Ranch that has  a 3 out of 5 customer rating"
+      ]
+   },
+   {
+      "id": 1977,
+      "input_string": "name[The Cricketers], eatType[coffee shop], food[Chinese], customer rating[3 out of 5], familyFriendly[yes], near[The Portland Arms]",
+      "text": [
+         "Near The Portland Arms is 3 out of 5 customer rated, kid friendly Chinese coffee shop named The Cricketers."
+      ]
+   },
+   {
+      "id": 2899,
+      "input_string": "name[The Golden Palace], eatType[coffee shop], customer rating[low], area[riverside]",
+      "text": [
+         "The Golden Palace is a one-star, low-cost coffee shop near the river that serves breakfast near the river."
+      ]
+   },
+   {
+      "id": 3131,
+      "input_string": "name[The Phoenix], area[city centre]",
+      "text": [
+         "Customers rate The Phoenix, in the city centre, as average."
+      ]
+   }
+]

@@ -1,0 +1,31 @@
+[
+   {
+      "id": 5312,
+      "text": [
+         "Aaron Deer comes from Indianapolis,Indiana and plays psychedelia music.",
+         "Aaron Deer is from Indianapolis, Indiana. He performs in the genre of Psychedelia."
+      ],
+      "input_string": "[Head Entity] Aaron Deer [Relation] genre [Tail Entity] Psychedelia [Relation] origin [Tail Entity] Indianapolis [Relation] origin [Tail Entity] Indiana",
+      "input_triple_str": "(Aaron Deer | genre | Psychedelia)(Aaron Deer | origin | Indianapolis)(Aaron Deer | origin | Indiana)"
+   },
+   {
+      "id": 1385,
+      "text": [
+         "The state of Georgia is in the U.S.",
+         "Georgia is in the country of United States.",
+         "The state of Georgia is located within the United States."
+      ],
+      "input_string": "[Head Entity] Georgia (U.S. state) [Relation] country [Tail Entity] United States",
+      "input_triple_str": "(Georgia (U.S. state) | country | United States)"
+   },
+   {
+      "id": 4368,
+      "text": [
+         "The Alfa Romeo 164, which is assembled in Milan, is a related means of transportation to Saab 9000 , in that they are both cars.",
+         "The Alfa Romeo 164, assembled in Milan, is a similar means of transport to the Saab 9000.",
+         "As they are both cars, the Saab 9000 and the Alfa Romeo 164 are related means of transport. The latter has an assembly line in Milan."
+      ],
+      "input_string": "[Head Entity] Alfa Romeo 164 [Relation] assembly [Tail Entity] Milan [Relation] related mean of transportation [Tail Entity] Saab 9000",
+      "input_triple_str": "(Alfa Romeo 164 | assembly | Milan)(Alfa Romeo 164 | related mean of transportation | Saab 9000)"
+   }
+]

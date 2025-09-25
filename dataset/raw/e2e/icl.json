@@ -1,0 +1,23 @@
+[
+    {
+        "id": 14484,
+        "input_string": "name[The Plough], eatType[pub], food[Japanese], priceRange[more than £30], familyFriendly[no], near[Café Rouge]",
+        "text": [
+            "The Plough is a Japanese pub near Café Rouge that is not family-friendly and has a price range of more than 30 pounds."
+        ]
+    },
+    {
+        "id": 4757,
+        "input_string": "name[Cotto], eatType[coffee shop], food[Indian], priceRange[moderate], customer rating[1 out of 5], area[city centre], near[The Portland Arms]",
+        "text": [
+        "Cotto coffee shop provides Indian food at a moderate price range. Its customer rating of 1 out of 5. Locate are city centre area near to The Portland Arms"
+        ]
+    },
+    {
+        "id": 16449,
+        "input_string": "name[The Punter], food[Chinese], priceRange[high]",
+        "text": [
+            "You can get expensive Chinese food at The Punter."
+        ]
+    }
+]

@@ -1,0 +1,3100 @@
+[
+    {
+       "id": 360,
+       "kbs": {
+          "0": [
+             "A.D. Isidro Metapán",
+             "A.D. Isidro Metapán",
+             [
+                [
+                   "fullname",
+                   "\"Asociación Deportiva\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "A.D. Isidro Metapan's full name is \"Asociación Deportiva\".",
+          "A.D. Isidro Metapán's full name is Asociación Deportiva.",
+          "The fullname of A.D. Isidro Metapan is Asociacion Deportiva."
+       ],
+       "input_string": "[Head Entity] A.D. Isidro Metapán [Relation] fullname [Tail Entity] \"Asociación Deportiva\"",
+       "input_triple_str": "(A.D. Isidro Metapán | fullname | \"Asociación Deportiva\")"
+    },
+    {
+       "id": 630,
+       "kbs": {
+          "0": [
+             "1089 Tama",
+             "1089 Tama",
+             [
+                [
+                   "epoch",
+                   "2005-11-26"
+                ],
+                [
+                   "former name",
+                   "\"A919 HA; 1927 WB;\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The epoch date of 1089 Tama, formerly known as A919 HA; 1927WB , is 26 November 2005.",
+          "1089 Tama, with the epoch date of November 26th 2005, was formerly called \"A919 HA; 1927 WB;\".",
+          "1089 Tama was formally known as A919 HA; 1927 WB and its epoch is 2005-11-26."
+       ],
+       "input_string": "[Head Entity] 1089 Tama [Relation] epoch [Tail Entity] 2005-11-26 [Relation] former name [Tail Entity] \"A919 HA; 1927 WB;\"",
+       "input_triple_str": "(1089 Tama | epoch | 2005-11-26)(1089 Tama | former name | \"A919 HA; 1927 WB;\")"
+    },
+    {
+       "id": 1430,
+       "kbs": {
+          "0": [
+             "Aarhus Airport",
+             "Aarhus Airport",
+             [
+                [
+                   "runway length",
+                   "2776.0"
+                ],
+                [
+                   "city served",
+                   "\"Aarhus, Denmark\""
+                ],
+                [
+                   "operating organisation",
+                   "\"Aarhus Lufthavn A/S\""
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "25.0"
+                ],
+                [
+                   "runway name",
+                   "\"10R/28L\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aarhus Lufthavn A/S is the operating organisation of Aarhus Airport which is located 25 metres above sea level. The runway name, which is 2776.0 in length, is 10R/28L.",
+          "Aarhus Airport in Denmark is operated by Aarhus Lufthavn A/S. The airport lies 25 metres above sea level and has a runway named 10R/28L which is 2776.0 metres long.",
+          "The Aarhus, operated by Aarhus Lufthavn A/S, is the airport of Aarhus, Denmark. It is 25.0 metres above sea level. The runway, named 10R/28L, is 2776.0 metres long."
+       ],
+       "input_string": "[Head Entity] Aarhus Airport [Relation] runway length [Tail Entity] 2776.0 [Relation] city served [Tail Entity] \"Aarhus, Denmark\" [Relation] operating organisation [Tail Entity] \"Aarhus Lufthavn A/S\" [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 25.0 [Relation] runway name [Tail Entity] \"10R/28L\"",
+       "input_triple_str": "(Aarhus Airport | runway length | 2776.0)(Aarhus Airport | city served | \"Aarhus, Denmark\")(Aarhus Airport | operating organisation | \"Aarhus Lufthavn A/S\")(Aarhus Airport | elevationAboveTheSeaLevel (in metres) | 25.0)(Aarhus Airport | runway name | \"10R/28L\")"
+    },
+    {
+       "id": 1521,
+       "kbs": {
+          "0": [
+             "1097 Vicia",
+             "1097 Vicia",
+             [
+                [
+                   "epoch",
+                   "2006-12-31"
+                ],
+                [
+                   "escape velocity",
+                   "0.0112 (kilometrePerSeconds)"
+                ],
+                [
+                   "former name",
+                   "\"1928 PC\""
+                ],
+                [
+                   "orbital period",
+                   "135589000.0"
+                ],
+                [
+                   "periapsis",
+                   "279142000000.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1097 Vicia, which has the epoch date of 13 January 2016, was formerly known as 1928 PC. and has an escape velocity of 0.0122 km per sec. It's orbital period is 135589000.0 and the periapsis measurement is 279142000000.0.",
+          "The epoch of 1097 Vicia, formerly known as 1928 PC, is on 13 January 2016. The escape velocity of 1097 Vicia is 0.0112 km/sec, its orbital period is 135589000.0, and its periapsis is 279142000000.",
+          "1097 Vicia-formerly known as \"1928 PC\"- has an orbital period of 135589000.0 and an escape velocity of 0.0112 km per sec.It has a periapsis of 279142000000.0 and its epoch date was on 2006.12.31."
+       ],
+       "input_string": "[Head Entity] 1097 Vicia [Relation] epoch [Tail Entity] 2006-12-31 [Relation] escape velocity [Tail Entity] 0.0112 (kilometrePerSeconds) [Relation] former name [Tail Entity] \"1928 PC\" [Relation] orbital period [Tail Entity] 135589000.0 [Relation] periapsis [Tail Entity] 279142000000.0",
+       "input_triple_str": "(1097 Vicia | epoch | 2006-12-31)(1097 Vicia | escape velocity | 0.0112 (kilometrePerSeconds))(1097 Vicia | former name | \"1928 PC\")(1097 Vicia | orbital period | 135589000.0)(1097 Vicia | periapsis | 279142000000.0)"
+    },
+    {
+       "id": 1051,
+       "kbs": {
+          "0": [
+             "Monocacy National Battlefield",
+             "Monocacy National Battlefield",
+             [
+                [
+                   "location",
+                   "Frederick County, Maryland"
+                ],
+                [
+                   "nearest city",
+                   "Frederick, Maryland"
+                ]
+             ]
+          ],
+          "1": [
+             "14th New Jersey Volunteer Infantry Monument",
+             "14th New Jersey Volunteer Infantry Monument",
+             [
+                [
+                   "district",
+                   "Monocacy National Battlefield"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Frederick Maryland is the nearest city to the Monocacy National Battlefields. This district is the location of the 14th New Jersey Volunteer Infantry Monument.",
+          "The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city."
+       ],
+       "input_string": "[Head Entity] Monocacy National Battlefield [Relation] location [Tail Entity] Frederick County, Maryland [Relation] nearest city [Tail Entity] Frederick, Maryland[Head Entity] 14th New Jersey Volunteer Infantry Monument [Relation] district [Tail Entity] Monocacy National Battlefield",
+       "input_triple_str": "(Monocacy National Battlefield | location | Frederick County, Maryland)(Monocacy National Battlefield | nearest city | Frederick, Maryland)(14th New Jersey Volunteer Infantry Monument | district | Monocacy National Battlefield)"
+    },
+    {
+       "id": 1334,
+       "kbs": {
+          "0": [
+             "Alvis Speed 25",
+             "Alvis Speed 25",
+             [
+                [
+                   "manufacturer",
+                   "Alvis Car and Engineering Company"
+                ],
+                [
+                   "engine",
+                   "\"Petrol\""
+                ]
+             ]
+          ],
+          "1": [
+             "Alvis Car and Engineering Company",
+             "Alvis Car and Engineering Company",
+             [
+                [
+                   "foundation place",
+                   "Coventry"
+                ],
+                [
+                   "successor",
+                   "Rover Company"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Alvis Car and Engineering Company was founded in Coventry and was succeeded by the Rover Company. The Alvis Speed 25 has a petrol engine and was manufactured by the Alvis Car and Engineering Company.",
+          "The Alvis Speed 25, which has a petrol engine, was manufactured by the Alvis Car and Engineering Company. The company was founded in Coventry and succeeded by the Rover Co..",
+          "Alvis Speed 25, with its petrol engine, was made by the Alvis Car and Engineering Company found in Coventry. The Rover Co. succeeded that car company."
+       ],
+       "input_string": "[Head Entity] Alvis Speed 25 [Relation] manufacturer [Tail Entity] Alvis Car and Engineering Company [Relation] engine [Tail Entity] \"Petrol\"[Head Entity] Alvis Car and Engineering Company [Relation] foundation place [Tail Entity] Coventry [Relation] successor [Tail Entity] Rover Company",
+       "input_triple_str": "(Alvis Speed 25 | manufacturer | Alvis Car and Engineering Company)(Alvis Speed 25 | engine | \"Petrol\")(Alvis Car and Engineering Company | foundation place | Coventry)(Alvis Car and Engineering Company | successor | Rover Company)"
+    },
+    {
+       "id": 1064,
+       "kbs": {
+          "0": [
+             "1. FC Magdeburg",
+             "1. FC Magdeburg",
+             [
+                [
+                   "manager",
+                   "Jens Härtel"
+                ]
+             ]
+          ],
+          "1": [
+             "Jens Härtel",
+             "Jens Härtel",
+             [
+                [
+                   "club",
+                   "Berliner AK 07"
+                ],
+                [
+                   "club",
+                   "FC Sachsen Leipzig"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Jens Härtel (Berliner AK 07) played for FC Sachsen Leipzig, has been the manager of 1 FC Magdeburg.",
+          "The manager of FC Magdeburg is Jens Härtel who has represented the club FC Sachsen Leipzig and played for Berliner AK 07.",
+          "The manager of 1 FC Magdeburg is Jens Härtel, whose club is Berliner AK 07, and he has also represented FC Sachsen Leipzig."
+       ],
+       "input_string": "[Head Entity] 1. FC Magdeburg [Relation] manager [Tail Entity] Jens Härtel[Head Entity] Jens Härtel [Relation] club [Tail Entity] Berliner AK 07 [Relation] club [Tail Entity] FC Sachsen Leipzig",
+       "input_triple_str": "(1. FC Magdeburg | manager | Jens Härtel)(Jens Härtel | club | Berliner AK 07)(Jens Härtel | club | FC Sachsen Leipzig)"
+    },
+    {
+       "id": 1300,
+       "kbs": {
+          "0": [
+             "1101 Clematis",
+             "1101 Clematis",
+             [
+                [
+                   "epoch",
+                   "2006-12-31"
+                ],
+                [
+                   "orbital period",
+                   "183309000.0"
+                ],
+                [
+                   "periapsis",
+                   "445895000000.0"
+                ],
+                [
+                   "apoapsis",
+                   "520906000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The epoch of 1101 Clematis is December 31st, 2006. The orbital period of 1101 Clematis is 183,309,000, its periapsis of 445,895,000,000 and it has an apoapsis of 520,906,000 kilometres.",
+          "1101 Clematis, has a periapsis of 445895000000.0 and an apoapsis of 520906000.0 Kilometers. Its epoch is 31 December 2006 and it has an orbital period of 183309000.0.",
+          "The epoch of 1101 Clematis is December 31st, 2006. It has an orbital period of 183309000, its periapsis is 445895000000 and the apoapsis is 520906000 kilometres."
+       ],
+       "input_string": "[Head Entity] 1101 Clematis [Relation] epoch [Tail Entity] 2006-12-31 [Relation] orbital period [Tail Entity] 183309000.0 [Relation] periapsis [Tail Entity] 445895000000.0 [Relation] apoapsis [Tail Entity] 520906000.0 (kilometres)",
+       "input_triple_str": "(1101 Clematis | epoch | 2006-12-31)(1101 Clematis | orbital period | 183309000.0)(1101 Clematis | periapsis | 445895000000.0)(1101 Clematis | apoapsis | 520906000.0 (kilometres))"
+    },
+    {
+       "id": 1261,
+       "kbs": {
+          "0": [
+             "(66063) 1998 RO1",
+             "(66063) 1998 RO1",
+             [
+                [
+                   "discoverer",
+                   "Lincoln Near-Earth Asteroid Research"
+                ],
+                [
+                   "epoch",
+                   "2013-11-04"
+                ],
+                [
+                   "orbital period",
+                   "360.29 (days)"
+                ],
+                [
+                   "periapsis",
+                   "41498400000.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Lincoln Near-Earth Asteroid Research centre discovered the asteroid (66063) 1998 RO1 on its epoch date of 2013-11-04. That celestial body has an orbital period of 360.29 days and a periapsis of 41498400000.",
+          "The Lincoln Near-Earth Asteroid Reserch centre discovered the asteroid, (66063) 1998 RO1, which has an orbital period of 360.29 days. With an epoch on 13th of January 2016, (66063) 1998 RO1, has a perisapsis of 41498400000.0 Gm."
+       ],
+       "input_string": "[Head Entity] (66063) 1998 RO1 [Relation] discoverer [Tail Entity] Lincoln Near-Earth Asteroid Research [Relation] epoch [Tail Entity] 2013-11-04 [Relation] orbital period [Tail Entity] 360.29 (days) [Relation] periapsis [Tail Entity] 41498400000.0",
+       "input_triple_str": "((66063) 1998 RO1 | discoverer | Lincoln Near-Earth Asteroid Research)((66063) 1998 RO1 | epoch | 2013-11-04)((66063) 1998 RO1 | orbital period | 360.29 (days))((66063) 1998 RO1 | periapsis | 41498400000.0)"
+    },
+    {
+       "id": 1160,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location",
+                   "Wilson Township, Alpena County, Michigan"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "210"
+                ],
+                [
+                   "runway length",
+                   "2744.0"
+                ]
+             ]
+          ],
+          "1": [
+             "Wilson Township, Alpena County, Michigan",
+             "Wilson Township, Alpena County, Michigan",
+             [
+                [
+                   "country",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan, United States. The airport is 210 metres above sea level and is 2744 metres in length.",
+          "Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan, USA. It is 210 metres above sea level and has a runway length of 2744.0.",
+          "Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan, United States. The runway length is 2744.0 and it is 210 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location [Tail Entity] Wilson Township, Alpena County, Michigan [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 210 [Relation] runway length [Tail Entity] 2744.0[Head Entity] Wilson Township, Alpena County, Michigan [Relation] country [Tail Entity] United States",
+       "input_triple_str": "(Alpena County Regional Airport | location | Wilson Township, Alpena County, Michigan)(Alpena County Regional Airport | elevationAboveTheSeaLevel (in metres) | 210)(Alpena County Regional Airport | runway length | 2744.0)(Wilson Township, Alpena County, Michigan | country | United States)"
+    },
+    {
+       "id": 1427,
+       "kbs": {
+          "0": [
+             "Aarhus Airport",
+             "Aarhus Airport",
+             [
+                [
+                   "city served",
+                   "\"Aarhus, Denmark\""
+                ],
+                [
+                   "operating organisation",
+                   "\"Aarhus Lufthavn A/S\""
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "25.0"
+                ],
+                [
+                   "runway name",
+                   "\"10R/28L\""
+                ],
+                [
+                   "runway length",
+                   "2702.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aarhus Lufthavn A/S is the operating organisation of Aarhus Airport located at 25 metres above sea level in Aarhus, Denmark. The airport runway, named 10R/38L has a length of 2702.0.",
+          "Aarhus Airport is operated by Aarhus Lufthavn A/S and serves the city of Aaarhus.The airport is situated 25 meters above sea level and its 2702.0 long runway is called 10R/28L."
+       ],
+       "input_string": "[Head Entity] Aarhus Airport [Relation] city served [Tail Entity] \"Aarhus, Denmark\" [Relation] operating organisation [Tail Entity] \"Aarhus Lufthavn A/S\" [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 25.0 [Relation] runway name [Tail Entity] \"10R/28L\" [Relation] runway length [Tail Entity] 2702.0",
+       "input_triple_str": "(Aarhus Airport | city served | \"Aarhus, Denmark\")(Aarhus Airport | operating organisation | \"Aarhus Lufthavn A/S\")(Aarhus Airport | elevationAboveTheSeaLevel (in metres) | 25.0)(Aarhus Airport | runway name | \"10R/28L\")(Aarhus Airport | runway length | 2702.0)"
+    },
+    {
+       "id": 760,
+       "kbs": {
+          "0": [
+             "A Glastonbury Romance",
+             "A Glastonbury Romance",
+             [
+                [
+                   "preceded by",
+                   "Wolf Solent"
+                ]
+             ]
+          ],
+          "1": [
+             "Wolf Solent",
+             "Wolf Solent",
+             [
+                [
+                   "author",
+                   "John Cowper Powys"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "John Cowper Powys is the author of Wolf Solent which is followed by A Glastonbury Romance.",
+          "A Glastonbury Romance was preceded By Wolf Solent written by John Cowper Powys."
+       ],
+       "input_string": "[Head Entity] A Glastonbury Romance [Relation] preceded by [Tail Entity] Wolf Solent[Head Entity] Wolf Solent [Relation] author [Tail Entity] John Cowper Powys",
+       "input_triple_str": "(A Glastonbury Romance | preceded by | Wolf Solent)(Wolf Solent | author | John Cowper Powys)"
+    },
+    {
+       "id": 1060,
+       "kbs": {
+          "0": [
+             "1. FC Magdeburg",
+             "1. FC Magdeburg",
+             [
+                [
+                   "manager",
+                   "Jens Härtel"
+                ]
+             ]
+          ],
+          "1": [
+             "Jens Härtel",
+             "Jens Härtel",
+             [
+                [
+                   "club",
+                   "1. FC Lokomotive Leipzig"
+                ],
+                [
+                   "club",
+                   "RB Leipzig"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The first club Jens Härtel played for was FC Lokomotive Leipzig. He also played for RB Leipzig and was the manager of 1 FC Magdeburg.",
+          "Jens Härtel has been the manager of 1 FC Magdeburg, playing for 1. FC Lokomotive Leipzig, and previously for RB Leipzig.",
+          "Jens Härtel is in the RB Leipzig club, started with FC Lokomotive Leipzig and has managed 1 FC Magdeburg."
+       ],
+       "input_string": "[Head Entity] 1. FC Magdeburg [Relation] manager [Tail Entity] Jens Härtel[Head Entity] Jens Härtel [Relation] club [Tail Entity] 1. FC Lokomotive Leipzig [Relation] club [Tail Entity] RB Leipzig",
+       "input_triple_str": "(1. FC Magdeburg | manager | Jens Härtel)(Jens Härtel | club | 1. FC Lokomotive Leipzig)(Jens Härtel | club | RB Leipzig)"
+    },
+    {
+       "id": 283,
+       "kbs": {
+          "0": [
+             "110 Lydia",
+             "110 Lydia",
+             [
+                [
+                   "average speed",
+                   "17.99 (kilometrePerSeconds)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "110 Lydia travels at an average speed of 17.99 kilometres per second.",
+          "The average speed of 110 Lydia is 17.99 km/sec.",
+          "110 Lydia travels at an average speed of 17.99 kmps."
+       ],
+       "input_string": "[Head Entity] 110 Lydia [Relation] average speed [Tail Entity] 17.99 (kilometrePerSeconds)",
+       "input_triple_str": "(110 Lydia | average speed | 17.99 (kilometrePerSeconds))"
+    },
+    {
+       "id": 1156,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location",
+                   "Maple Ridge Township, Alpena County, Michigan"
+                ],
+                [
+                   "runway length",
+                   "2744.0"
+                ],
+                [
+                   "city served",
+                   "Alpena, Michigan"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "210"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena, Michigan is served by Alpena County Regional Airport which is located in Maple Ridge Township, Alpena County, Michigan at 210 metres above sea level and with a runway length of 2744.0.",
+          "Alpena County Regional Airport is found in Maple Ridge Township and serves the city of Alpena, Michigan. Its runway is 2744 m long and is 210 m above sea level."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location [Tail Entity] Maple Ridge Township, Alpena County, Michigan [Relation] runway length [Tail Entity] 2744.0 [Relation] city served [Tail Entity] Alpena, Michigan [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 210",
+       "input_triple_str": "(Alpena County Regional Airport | location | Maple Ridge Township, Alpena County, Michigan)(Alpena County Regional Airport | runway length | 2744.0)(Alpena County Regional Airport | city served | Alpena, Michigan)(Alpena County Regional Airport | elevationAboveTheSeaLevel (in metres) | 210)"
+    },
+    {
+       "id": 58,
+       "kbs": {
+          "0": [
+             "Ashgabat International Airport",
+             "Ashgabat International Airport",
+             [
+                [
+                   "3rd runway LengthFeet",
+                   "2953"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Ashgabat International Airport's 3rd runway length in ft is 2953.",
+          "The length of the 3rd runway at Ashgabat International Airport is 2953 feet."
+       ],
+       "input_string": "[Head Entity] Ashgabat International Airport [Relation] 3rd runway LengthFeet [Tail Entity] 2953",
+       "input_triple_str": "(Ashgabat International Airport | 3rd runway LengthFeet | 2953)"
+    },
+    {
+       "id": 1182,
+       "kbs": {
+          "0": [
+             "Ashgabat International Airport",
+             "Ashgabat International Airport",
+             [
+                [
+                   "operating organisation",
+                   "Turkmenistan Airlines"
+                ]
+             ]
+          ],
+          "1": [
+             "Turkmenistan Airlines",
+             "Turkmenistan Airlines",
+             [
+                [
+                   "headquarter",
+                   "Turkmenistan"
+                ],
+                [
+                   "hub airport",
+                   "Turkmenbashi International Airport"
+                ],
+                [
+                   "headquarter",
+                   "Ashgabat"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Turkmenistan Airlines have their HQ in Ashgabat, Turkmenistan and their hub airport at Turkmenbashi International airport. They are the operating organisation for Ashgabat International airport.",
+          "The operating organization for Ashgabat International Airport is called Turkmenistan Airlines who have headquarters in Ashgabat, Turkmenistan. Their hub airport is Turkmenbashi International Airport.",
+          "The headquarters of Turkmenistan Airlines are located in Ashgabat International Airport in Turkmenistan."
+       ],
+       "input_string": "[Head Entity] Ashgabat International Airport [Relation] operating organisation [Tail Entity] Turkmenistan Airlines[Head Entity] Turkmenistan Airlines [Relation] headquarter [Tail Entity] Turkmenistan [Relation] hub airport [Tail Entity] Turkmenbashi International Airport [Relation] headquarter [Tail Entity] Ashgabat",
+       "input_triple_str": "(Ashgabat International Airport | operating organisation | Turkmenistan Airlines)(Turkmenistan Airlines | headquarter | Turkmenistan)(Turkmenistan Airlines | hub airport | Turkmenbashi International Airport)(Turkmenistan Airlines | headquarter | Ashgabat)"
+    },
+    {
+       "id": 16,
+       "kbs": {
+          "0": [
+             "Alpena, Michigan",
+             "Alpena, Michigan",
+             [
+                [
+                   "country",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena Michigan is a country in United States.",
+          "Alpena, Michigan is in the U.S.",
+          "Alpena, Michigan is located in the United States."
+       ],
+       "input_string": "[Head Entity] Alpena, Michigan [Relation] country [Tail Entity] United States",
+       "input_triple_str": "(Alpena, Michigan | country | United States)"
+    },
+    {
+       "id": 1362,
+       "kbs": {
+          "0": [
+             "1. FC Magdeburg",
+             "1. FC Magdeburg",
+             [
+                [
+                   "manager",
+                   "Jens Härtel"
+                ]
+             ]
+          ],
+          "1": [
+             "Jens Härtel",
+             "Jens Härtel",
+             [
+                [
+                   "club",
+                   "Berliner AK 07"
+                ],
+                [
+                   "club",
+                   "1. FC Union Berlin"
+                ],
+                [
+                   "club",
+                   "FC Sachsen Leipzig"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Jens Hartel played for FC Sachsen Leipzig but is now manager of FC Magdeburg. His own club is Berliner AK 07 and he is also part of 1 FC Union Berlin.",
+          "Jens Hartel's club is Berliner AK 07 and he is part of FC Union Berlin. He used to play for FC Sachsen Leipzig and has also been manager of 1 FC Magdeburg.",
+          "Jens Hartel has represented the club FC Sachsen Leipzig and his club is Berliner AK07. He is currently part of the club 1.FC Union Berlin and manages FC Magdeburg."
+       ],
+       "input_string": "[Head Entity] 1. FC Magdeburg [Relation] manager [Tail Entity] Jens Härtel[Head Entity] Jens Härtel [Relation] club [Tail Entity] Berliner AK 07 [Relation] club [Tail Entity] 1. FC Union Berlin [Relation] club [Tail Entity] FC Sachsen Leipzig",
+       "input_triple_str": "(1. FC Magdeburg | manager | Jens Härtel)(Jens Härtel | club | Berliner AK 07)(Jens Härtel | club | 1. FC Union Berlin)(Jens Härtel | club | FC Sachsen Leipzig)"
+    },
+    {
+       "id": 837,
+       "kbs": {
+          "0": [
+             "Aaron Bertram",
+             "Aaron Bertram",
+             [
+                [
+                   "associated band/associated musical artist",
+                   "Suburban Legends"
+                ],
+                [
+                   "associated band/associated musical artist",
+                   "Kids Imagine Nation"
+                ]
+             ]
+          ],
+          "1": [
+             "Suburban Legends",
+             "Suburban Legends",
+             [
+                [
+                   "genre",
+                   "Ska"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aaron Bertram played for the Suburban Legends and the Kids Imagine Nation bank. Suburban Legends genre is Ska.",
+          "Aaron Bertram is a member of Kids Imagine Nation and Ska band, Suburban Legends.",
+          "Aaron Bertram is an artist with Kids Imagine Nation band and Suburban Legends band (which has Ska as its genre)."
+       ],
+       "input_string": "[Head Entity] Aaron Bertram [Relation] associated band/associated musical artist [Tail Entity] Suburban Legends [Relation] associated band/associated musical artist [Tail Entity] Kids Imagine Nation[Head Entity] Suburban Legends [Relation] genre [Tail Entity] Ska",
+       "input_triple_str": "(Aaron Bertram | associated band/associated musical artist | Suburban Legends)(Aaron Bertram | associated band/associated musical artist | Kids Imagine Nation)(Suburban Legends | genre | Ska)"
+    },
+    {
+       "id": 764,
+       "kbs": {
+          "0": [
+             "Above the Veil",
+             "Above the Veil",
+             [
+                [
+                   "followed by",
+                   "Into Battle (novel)"
+                ],
+                [
+                   "preceded by",
+                   "Aenir"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Above the Veil was preceded by Aenir and followed by Into Battle.",
+          "The novel \"Into Battle\" followed \"Above the Veil\" which is the sequel to Aenir.",
+          "Aenir is followed by Above the Veil and the novel Into Battle."
+       ],
+       "input_string": "[Head Entity] Above the Veil [Relation] followed by [Tail Entity] Into Battle (novel) [Relation] preceded by [Tail Entity] Aenir",
+       "input_triple_str": "(Above the Veil | followed by | Into Battle (novel))(Above the Veil | preceded by | Aenir)"
+    },
+    {
+       "id": 981,
+       "kbs": {
+          "0": [
+             "109 Felicitas",
+             "109 Felicitas",
+             [
+                [
+                   "escape velocity",
+                   "0.0473 (kilometrePerSeconds)"
+                ],
+                [
+                   "mass",
+                   "7.5 (kilograms)"
+                ],
+                [
+                   "apoapsis",
+                   "523329000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "109 Felicitas, which has an escape velocity of 0.0473 km per sec also has a mass of 7.5 kgs and an apoapsis of 523329000 kms.",
+          "With an escape velocity of 0.0473 km per sec, 109 Felicitas, has a mass of 7.5 kilograms, and an apoapsis of 523329000.0 kilometres.",
+          "The 109 Felicitas with a mass of 7.5 kg, has an apoapsis of 523329000.0 km and an escape velocity of 0.0473 km per sec."
+       ],
+       "input_string": "[Head Entity] 109 Felicitas [Relation] escape velocity [Tail Entity] 0.0473 (kilometrePerSeconds) [Relation] mass [Tail Entity] 7.5 (kilograms) [Relation] apoapsis [Tail Entity] 523329000.0 (kilometres)",
+       "input_triple_str": "(109 Felicitas | escape velocity | 0.0473 (kilometrePerSeconds))(109 Felicitas | mass | 7.5 (kilograms))(109 Felicitas | apoapsis | 523329000.0 (kilometres))"
+    },
+    {
+       "id": 646,
+       "kbs": {
+          "0": [
+             "1099 Figneria",
+             "1099 Figneria",
+             [
+                [
+                   "mass",
+                   "2.7 (kilograms)"
+                ],
+                [
+                   "apoapsis",
+                   "605718000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The mass of 1099 Figneria is 2.7 kg and its apoapsis is 605718000.0 kilometres.",
+          "1099 Figneria has a mass of 2.7kg and an apoapsis of 605718000.0 kilometres.",
+          "1099 Figneria has a mass of 2.7 kilograms and its apoapsis is 605718000.0 kms."
+       ],
+       "input_string": "[Head Entity] 1099 Figneria [Relation] mass [Tail Entity] 2.7 (kilograms) [Relation] apoapsis [Tail Entity] 605718000.0 (kilometres)",
+       "input_triple_str": "(1099 Figneria | mass | 2.7 (kilograms))(1099 Figneria | apoapsis | 605718000.0 (kilometres))"
+    },
+    {
+       "id": 1253,
+       "kbs": {
+          "0": [
+             "11264 Claudiomaccone",
+             "11264 Claudiomaccone",
+             [
+                [
+                   "discoverer",
+                   "Nikolai Chernykh"
+                ],
+                [
+                   "epoch",
+                   "2005-11-26"
+                ],
+                [
+                   "orbital period",
+                   "1513.722 (days)"
+                ],
+                [
+                   "periapsis",
+                   "296521000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Discovered Nikolai Chernykh, 11264 Claudiomaccone, has the epoch date of 26 November 2005. It has a periapsis of 296521000.0 kilometres and the epoch date of 26 November 2005.",
+          "11264 Claudiomaccone, discovered by Nikolai Chenykh, has an orbital period of 1513.722 days, periapsis of 296521000, and its epoch was on the 26th of November, 2005.",
+          "11264 Claudiomaccone, who was discovered by Nikolai Chernykh, has an orbital period of 1513.722 days, periapsis of 296521000 kilometers, and an epoch of the 26th of November, 2005."
+       ],
+       "input_string": "[Head Entity] 11264 Claudiomaccone [Relation] discoverer [Tail Entity] Nikolai Chernykh [Relation] epoch [Tail Entity] 2005-11-26 [Relation] orbital period [Tail Entity] 1513.722 (days) [Relation] periapsis [Tail Entity] 296521000.0 (kilometres)",
+       "input_triple_str": "(11264 Claudiomaccone | discoverer | Nikolai Chernykh)(11264 Claudiomaccone | epoch | 2005-11-26)(11264 Claudiomaccone | orbital period | 1513.722 (days))(11264 Claudiomaccone | periapsis | 296521000.0 (kilometres))"
+    },
+    {
+       "id": 657,
+       "kbs": {
+          "0": [
+             "10 Hygiea",
+             "10 Hygiea",
+             [
+                [
+                   "epoch",
+                   "2015-06-27"
+                ],
+                [
+                   "orbital period",
+                   "5.57 (days)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The asteroid 10 Hygiea has an orbital period of 5.57 days and has the epoch date 27th June 2015.",
+          "The asteroid called 10 Hygiea had an epoch date of 27th June 2015 and its orbital period is 5.57 days."
+       ],
+       "input_string": "[Head Entity] 10 Hygiea [Relation] epoch [Tail Entity] 2015-06-27 [Relation] orbital period [Tail Entity] 5.57 (days)",
+       "input_triple_str": "(10 Hygiea | epoch | 2015-06-27)(10 Hygiea | orbital period | 5.57 (days))"
+    },
+    {
+       "id": 1398,
+       "kbs": {
+          "0": [
+             "Acta Palaeontologica Polonica",
+             "Acta Palaeontologica Polonica",
+             [
+                [
+                   "ISSN number",
+                   "\"1732-2421\""
+                ],
+                [
+                   "LCCN number",
+                   "60040714"
+                ],
+                [
+                   "abbreviation",
+                   "\"Acta Palaeontol. Pol.\""
+                ],
+                [
+                   "publisher",
+                   "\"Institute of Paleobiology, Polish Academy of Sciences\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Acta Palaeontologica Polonica (abbr. Acta Palaeontol. Pol) is published by the Institute of Paleobiology, Polish Academy of Sciences. It's ISSN and LCCN numbers are 1732-2421 and 60040714, respectively.",
+          "Acta Palaeontologica Polonica was published by the Institute of Paleobiology, Polish Academy of Sciences and is abbreviated to Acta Palaeontol. Pol. The LCCN number is 60040714 and the ISSN number is 1732-2421.",
+          "The Acta Palaeontologica Polonica (abbr. Acta Palaeontol. Pol, ISSN 1732-2421, LCCN 60040714) was published by the Institute of Paleobiology, Polish Academy of Sciences."
+       ],
+       "input_string": "[Head Entity] Acta Palaeontologica Polonica [Relation] ISSN number [Tail Entity] \"1732-2421\" [Relation] LCCN number [Tail Entity] 60040714 [Relation] abbreviation [Tail Entity] \"Acta Palaeontol. Pol.\" [Relation] publisher [Tail Entity] \"Institute of Paleobiology, Polish Academy of Sciences\"",
+       "input_triple_str": "(Acta Palaeontologica Polonica | ISSN number | \"1732-2421\")(Acta Palaeontologica Polonica | LCCN number | 60040714)(Acta Palaeontologica Polonica | abbreviation | \"Acta Palaeontol. Pol.\")(Acta Palaeontologica Polonica | publisher | \"Institute of Paleobiology, Polish Academy of Sciences\")"
+    },
+    {
+       "id": 1358,
+       "kbs": {
+          "0": [
+             "1. FC Magdeburg",
+             "1. FC Magdeburg",
+             [
+                [
+                   "manager",
+                   "Jens Härtel"
+                ]
+             ]
+          ],
+          "1": [
+             "Jens Härtel",
+             "Jens Härtel",
+             [
+                [
+                   "club",
+                   "1. FC Lokomotive Leipzig"
+                ],
+                [
+                   "club",
+                   "RB Leipzig"
+                ],
+                [
+                   "club",
+                   "SV Germania Schöneiche"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Jens Hartel is in the RB Leipzig club and plays for both SV Germania Schoneiche and 1 FC Lokomotive Leipzig. He has also been the manager of 1FC Magdeburg.",
+          "Jens Härtel started his career playing for FC Lokomotive Leipzig. Since then he has been the manager of 1 FC Magdeburg and is currently in the RB Leipzig club and playing for SV Germania Schoneiche."
+       ],
+       "input_string": "[Head Entity] 1. FC Magdeburg [Relation] manager [Tail Entity] Jens Härtel[Head Entity] Jens Härtel [Relation] club [Tail Entity] 1. FC Lokomotive Leipzig [Relation] club [Tail Entity] RB Leipzig [Relation] club [Tail Entity] SV Germania Schöneiche",
+       "input_triple_str": "(1. FC Magdeburg | manager | Jens Härtel)(Jens Härtel | club | 1. FC Lokomotive Leipzig)(Jens Härtel | club | RB Leipzig)(Jens Härtel | club | SV Germania Schöneiche)"
+    },
+    {
+       "id": 605,
+       "kbs": {
+          "0": [
+             "1099 Figneria",
+             "1099 Figneria",
+             [
+                [
+                   "apoapsis",
+                   "605718000.0 (kilometres)"
+                ],
+                [
+                   "average speed",
+                   "16.37 (kilometrePerSeconds)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1099 Figneria, travels at an average speed of 16.37 kilometres per second. and has an apoapsis of 605718000 kilometres.",
+          "1099 Figneria has an apoapsis of 605718000.0 kilometres and an average speed of 16.37 km per sec.",
+          "1099 Figneria, travelling at an average speed of 16.37 kmps has an apoapsis of 605718000.0 kms."
+       ],
+       "input_string": "[Head Entity] 1099 Figneria [Relation] apoapsis [Tail Entity] 605718000.0 (kilometres) [Relation] average speed [Tail Entity] 16.37 (kilometrePerSeconds)",
+       "input_triple_str": "(1099 Figneria | apoapsis | 605718000.0 (kilometres))(1099 Figneria | average speed | 16.37 (kilometrePerSeconds))"
+    },
+    {
+       "id": 932,
+       "kbs": {
+          "0": [
+             "(410777) 2009 FD",
+             "(410777) 2009 FD",
+             [
+                [
+                   "discoverer",
+                   "Spacewatch"
+                ],
+                [
+                   "periapsis",
+                   "88234300000.0"
+                ],
+                [
+                   "apoapsis",
+                   "259776702.47055 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Discovered by Spacewatch, (410777) 2009 FD, has an apoapsis of 259776702.47055 kilometers, and an periapsis of, 88234300000.0.",
+          "(410777) 2009 FD, with the periapsis of 88234300000.0 and an apoapsis of 259776702.47055 km, was discovered by Spacewatch."
+       ],
+       "input_string": "[Head Entity] (410777) 2009 FD [Relation] discoverer [Tail Entity] Spacewatch [Relation] periapsis [Tail Entity] 88234300000.0 [Relation] apoapsis [Tail Entity] 259776702.47055 (kilometres)",
+       "input_triple_str": "((410777) 2009 FD | discoverer | Spacewatch)((410777) 2009 FD | periapsis | 88234300000.0)((410777) 2009 FD | apoapsis | 259776702.47055 (kilometres))"
+    },
+    {
+       "id": 101,
+       "kbs": {
+          "0": [
+             "Ahmad Kadhim Assad",
+             "Ahmad Kadhim Assad",
+             [
+                [
+                   "club",
+                   "Al-Jaish SC (Syria)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Ahmad Kadhim Assad plays for Al-Jaish SC in Syria.",
+          "Ahmad Kadhim Assad plays for the Syrian club Al Jaish SC.",
+          "Ahmad Kadhim Assad's club is Al-Jaish SC (Syria)."
+       ],
+       "input_string": "[Head Entity] Ahmad Kadhim Assad [Relation] club [Tail Entity] Al-Jaish SC (Syria)",
+       "input_triple_str": "(Ahmad Kadhim Assad | club | Al-Jaish SC (Syria))"
+    },
+    {
+       "id": 1256,
+       "kbs": {
+          "0": [
+             "(410777) 2009 FD",
+             "(410777) 2009 FD",
+             [
+                [
+                   "discoverer",
+                   "Spacewatch"
+                ],
+                [
+                   "mass",
+                   "8.3 (kilograms)"
+                ],
+                [
+                   "orbital period",
+                   "39447000.0"
+                ],
+                [
+                   "periapsis",
+                   "88234300000.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "410777) 2009 FD was discovered by Spacewatch and has a mass of 8.3 kgs. It's orbital period is 39447000.0 and its periapsis is 88234300000.0.",
+          "Spacewatch discovered The celestial body known as (410777) 2009 FD, which has an orbital period of 39447000. It also has a periapsis of 88234300000.0 and it has a mass of 8.3 kilograms.",
+          "410777 2009 FD was discovered by Spacewatch. It has mass of 8.3 kilograms, an orbital period of 39,447,000 and a periapsis of 88,234,300,000."
+       ],
+       "input_string": "[Head Entity] (410777) 2009 FD [Relation] discoverer [Tail Entity] Spacewatch [Relation] mass [Tail Entity] 8.3 (kilograms) [Relation] orbital period [Tail Entity] 39447000.0 [Relation] periapsis [Tail Entity] 88234300000.0",
+       "input_triple_str": "((410777) 2009 FD | discoverer | Spacewatch)((410777) 2009 FD | mass | 8.3 (kilograms))((410777) 2009 FD | orbital period | 39447000.0)((410777) 2009 FD | periapsis | 88234300000.0)"
+    },
+    {
+       "id": 568,
+       "kbs": {
+          "0": [
+             "RoPS",
+             "RoPS",
+             [
+                [
+                   "league",
+                   "Veikkausliiga"
+                ]
+             ]
+          ],
+          "1": [
+             "Akeem Priestley",
+             "Akeem Priestley",
+             [
+                [
+                   "club",
+                   "RoPS"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Akeem Priestley’s club is RoPS which plays in the Veikkausliiga.",
+          "Akeem Priestley plays for the club RoPS in the Veikkausliiga league.",
+          "Akeem Priestley played for club RoPS in the Veikkausliiga."
+       ],
+       "input_string": "[Head Entity] RoPS [Relation] league [Tail Entity] Veikkausliiga[Head Entity] Akeem Priestley [Relation] club [Tail Entity] RoPS",
+       "input_triple_str": "(RoPS | league | Veikkausliiga)(Akeem Priestley | club | RoPS)"
+    },
+    {
+       "id": 791,
+       "kbs": {
+          "0": [
+             "John Cowper Powys",
+             "John Cowper Powys",
+             [
+                [
+                   "notable work",
+                   "Wolf Solent"
+                ]
+             ]
+          ],
+          "1": [
+             "A Glastonbury Romance",
+             "A Glastonbury Romance",
+             [
+                [
+                   "author",
+                   "John Cowper Powys"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Wolf Solent and A Glastonbury Romance were both novels written by John Cowper Powys.",
+          "Wolf Solent is a notable work of author John Cowper Powys who also wrote A Glastonbury Romance."
+       ],
+       "input_string": "[Head Entity] John Cowper Powys [Relation] notable work [Tail Entity] Wolf Solent[Head Entity] A Glastonbury Romance [Relation] author [Tail Entity] John Cowper Powys",
+       "input_triple_str": "(John Cowper Powys | notable work | Wolf Solent)(A Glastonbury Romance | author | John Cowper Powys)"
+    },
+    {
+       "id": 1196,
+       "kbs": {
+          "0": [
+             "Akeem Adams",
+             "Akeem Adams",
+             [
+                [
+                   "club",
+                   "Ferencvárosi TC"
+                ],
+                [
+                   "club",
+                   "Central F.C."
+                ]
+             ]
+          ],
+          "1": [
+             "Ferencvárosi TC",
+             "Ferencvárosi TC",
+             [
+                [
+                   "manager",
+                   "Thomas Doll"
+                ],
+                [
+                   "chairman",
+                   "Gábor Kubatov"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Akeem Adams plays for Central FC and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.",
+          "Akeem Adams plays for Ferencvarosi TC and his club is Central FC. Ferencvarosi TC has Gabor Kubatov as a chairman and Thomas Doll as a manager.",
+          "Akeem Adams, whose club is Central F.C.,Ferencvarosi TC, which is managed by, Thomas Doll. Gábor Kubatov is the chairman of Ferencvárosi TC."
+       ],
+       "input_string": "[Head Entity] Akeem Adams [Relation] club [Tail Entity] Ferencvárosi TC [Relation] club [Tail Entity] Central F.C.[Head Entity] Ferencvárosi TC [Relation] manager [Tail Entity] Thomas Doll [Relation] chairman [Tail Entity] Gábor Kubatov",
+       "input_triple_str": "(Akeem Adams | club | Ferencvárosi TC)(Akeem Adams | club | Central F.C.)(Ferencvárosi TC | manager | Thomas Doll)(Ferencvárosi TC | chairman | Gábor Kubatov)"
+    },
+    {
+       "id": 245,
+       "kbs": {
+          "0": [
+             "1097 Vicia",
+             "1097 Vicia",
+             [
+                [
+                   "escape velocity",
+                   "0.0112 (kilometrePerSeconds)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1097 Vicia has an escape velocity of 0.0112 kilometres per second.",
+          "The escape velocity of 1097 Vicia is 0.0112 km per sec."
+       ],
+       "input_string": "[Head Entity] 1097 Vicia [Relation] escape velocity [Tail Entity] 0.0112 (kilometrePerSeconds)",
+       "input_triple_str": "(1097 Vicia | escape velocity | 0.0112 (kilometrePerSeconds))"
+    },
+    {
+       "id": 612,
+       "kbs": {
+          "0": [
+             "11264 Claudiomaccone",
+             "11264 Claudiomaccone",
+             [
+                [
+                   "epoch",
+                   "2005-11-26"
+                ],
+                [
+                   "periapsis",
+                   "296521000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "11264 Claudiomaccone has the epoch date of 26 November 2005 and a periapsis of 296521000.0 kilometres.",
+          "11264 Claudiomaccone has an epoch date of 26 November 2005 and a periapsis of 296521000.0.",
+          "11264 Claudiomaccone has the epoch date of 26 November 2005 and its periapsis is 296521000.0 kilometres."
+       ],
+       "input_string": "[Head Entity] 11264 Claudiomaccone [Relation] epoch [Tail Entity] 2005-11-26 [Relation] periapsis [Tail Entity] 296521000.0 (kilometres)",
+       "input_triple_str": "(11264 Claudiomaccone | epoch | 2005-11-26)(11264 Claudiomaccone | periapsis | 296521000.0 (kilometres))"
+    },
+    {
+       "id": 558,
+       "kbs": {
+          "0": [
+             "Alex Tyus",
+             "Alex Tyus",
+             [
+                [
+                   "club",
+                   "Pallacanestro Cantù"
+                ],
+                [
+                   "birth date",
+                   "1988-01-08"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alex Tyus was born on the 8th January 1988 and plays for the club Pallacanestro Cantu.",
+          "Born on January 8th 1988, Alex Tyus plays for the club Pallacanestro Cantu.",
+          "Alex Tyus was born on the 8th January 1988 and his club is Pallacanestro Cantu."
+       ],
+       "input_string": "[Head Entity] Alex Tyus [Relation] club [Tail Entity] Pallacanestro Cantù [Relation] birth date [Tail Entity] 1988-01-08",
+       "input_triple_str": "(Alex Tyus | club | Pallacanestro Cantù)(Alex Tyus | birth date | 1988-01-08)"
+    },
+    {
+       "id": 1117,
+       "kbs": {
+          "0": [
+             "Aenir",
+             "Aenir",
+             [
+                [
+                   "OCLC number",
+                   "45644811"
+                ],
+                [
+                   "author",
+                   "Garth Nix"
+                ],
+                [
+                   "media type",
+                   "\"Print\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aenir, written by Garth Nix, was produced in print and has the OCLC number 45644811.",
+          "Aenir was written by Garth Nix and produced in print. It has an OCLC number of 45644811.",
+          "Aenir, OCLC number 45644811, by author Garth Nix is available in print."
+       ],
+       "input_string": "[Head Entity] Aenir [Relation] OCLC number [Tail Entity] 45644811 [Relation] author [Tail Entity] Garth Nix [Relation] media type [Tail Entity] \"Print\"",
+       "input_triple_str": "(Aenir | OCLC number | 45644811)(Aenir | author | Garth Nix)(Aenir | media type | \"Print\")"
+    },
+    {
+       "id": 822,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "location",
+                   "Ícolo e Bengo"
+                ],
+                [
+                   "runway name",
+                   "\"05L/23R\""
+                ]
+             ]
+          ],
+          "1": [
+             "Ícolo e Bengo",
+             "Ícolo e Bengo",
+             [
+                [
+                   "country",
+                   "Angola"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "05L/23R is the name of the runway at Angola International airport in Icolo e Bengo, Angola.",
+          "Located in Ícolo e Bengo, Angola, Angola International Airport has a runway name 05L/23R.",
+          "Angola International Airport is in Icolo e Bengo, Angola. Its runway is names 05L/23R."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] location [Tail Entity] Ícolo e Bengo [Relation] runway name [Tail Entity] \"05L/23R\"[Head Entity] Ícolo e Bengo [Relation] country [Tail Entity] Angola",
+       "input_triple_str": "(Angola International Airport | location | Ícolo e Bengo)(Angola International Airport | runway name | \"05L/23R\")(Ícolo e Bengo | country | Angola)"
+    },
+    {
+       "id": 1026,
+       "kbs": {
+          "0": [
+             "Alhambra",
+             "Alhambra",
+             [
+                [
+                   "power type",
+                   "Humphrys, Tennant and Dykes"
+                ],
+                [
+                   "length",
+                   "63800.0 (millimetres)"
+                ]
+             ]
+          ],
+          "1": [
+             "Humphrys, Tennant and Dykes",
+             "Humphrys, Tennant and Dykes",
+             [
+                [
+                   "location",
+                   "London"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Alhambra is 6.38 metres long and has a Humphrys, Tennant and Dykes (of London) power type.",
+          "The Alhambra, which is 63800.0 mm long, is powered by the London based, Humphrys, Tennant and Dykes engine."
+       ],
+       "input_string": "[Head Entity] Alhambra [Relation] power type [Tail Entity] Humphrys, Tennant and Dykes [Relation] length [Tail Entity] 63800.0 (millimetres)[Head Entity] Humphrys, Tennant and Dykes [Relation] location [Tail Entity] London",
+       "input_triple_str": "(Alhambra | power type | Humphrys, Tennant and Dykes)(Alhambra | length | 63800.0 (millimetres))(Humphrys, Tennant and Dykes | location | London)"
+    },
+    {
+       "id": 820,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "location",
+                   "Ícolo e Bengo"
+                ],
+                [
+                   "runway length",
+                   "3800.0"
+                ]
+             ]
+          ],
+          "1": [
+             "Ícolo e Bengo",
+             "Ícolo e Bengo",
+             [
+                [
+                   "country",
+                   "Angola"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "With a runway length of 3800 metres, Angola International Airport is located at Ícolo e Bengo, in Angola.",
+          "Angola International airport is located in Icolo e Bengo, Angola and its runway length is 3800.",
+          "Angola International Airport is located in Ícolo e Bengo, Angola and has a runway length of 3800.0."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] location [Tail Entity] Ícolo e Bengo [Relation] runway length [Tail Entity] 3800.0[Head Entity] Ícolo e Bengo [Relation] country [Tail Entity] Angola",
+       "input_triple_str": "(Angola International Airport | location | Ícolo e Bengo)(Angola International Airport | runway length | 3800.0)(Ícolo e Bengo | country | Angola)"
+    },
+    {
+       "id": 484,
+       "kbs": {
+          "0": [
+             "Amsterdam Airport Schiphol",
+             "Amsterdam Airport Schiphol",
+             [
+                [
+                   "city served",
+                   "Amsterdam"
+                ],
+                [
+                   "runway length",
+                   "3500.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The runway length of Amsterdam Airport Schiphol, which serves the city of Amsterdam, is 3500.0."
+       ],
+       "input_string": "[Head Entity] Amsterdam Airport Schiphol [Relation] city served [Tail Entity] Amsterdam [Relation] runway length [Tail Entity] 3500.0",
+       "input_triple_str": "(Amsterdam Airport Schiphol | city served | Amsterdam)(Amsterdam Airport Schiphol | runway length | 3500.0)"
+    },
+    {
+       "id": 1205,
+       "kbs": {
+          "0": [
+             "Jacksonville Dolphins",
+             "Jacksonville Dolphins",
+             [
+                [
+                   "city",
+                   "Jacksonville, Florida"
+                ]
+             ]
+          ],
+          "1": [
+             "Orange County Blues FC",
+             "Orange County Blues FC",
+             [
+                [
+                   "manager",
+                   "Oliver Wyss"
+                ]
+             ]
+          ],
+          "2": [
+             "Akeem Priestley",
+             "Akeem Priestley",
+             [
+                [
+                   "club",
+                   "Orange County Blues FC"
+                ],
+                [
+                   "club",
+                   "Jacksonville Dolphins"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Akeem Priestley plays for Orange County Blues FC (managed by Oliver Wyss) and is in the Jackson Dolphins club. The Jacksonville Dolphins play in Jacksonville, Florida.",
+          "Akeen Priestley plays for the Jacksonville Dolphins in Jacksonville, Florida and also for the Orange County Blues whose manager is Oliver Wyss.",
+          "Akeem Priestley, who plays for the Jackson Dolphins which are based in the city of Jacksonville in Florida, is also connected to the Orange County Blues FC who are managed by Oliver Wyss."
+       ],
+       "input_string": "[Head Entity] Jacksonville Dolphins [Relation] city [Tail Entity] Jacksonville, Florida[Head Entity] Orange County Blues FC [Relation] manager [Tail Entity] Oliver Wyss[Head Entity] Akeem Priestley [Relation] club [Tail Entity] Orange County Blues FC [Relation] club [Tail Entity] Jacksonville Dolphins",
+       "input_triple_str": "(Jacksonville Dolphins | city | Jacksonville, Florida)(Orange County Blues FC | manager | Oliver Wyss)(Akeem Priestley | club | Orange County Blues FC)(Akeem Priestley | club | Jacksonville Dolphins)"
+    },
+    {
+       "id": 847,
+       "kbs": {
+          "0": [
+             "Akeem Adams",
+             "Akeem Adams",
+             [
+                [
+                   "club",
+                   "Ferencvárosi TC"
+                ],
+                [
+                   "club",
+                   "United Petrotrin F.C."
+                ]
+             ]
+          ],
+          "1": [
+             "United Petrotrin F.C.",
+             "United Petrotrin F.C.",
+             [
+                [
+                   "ground",
+                   "Palo Seco Velodrome"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Akeem Adam's club is Ferencvarosi TC and he also played for United Petrotrin FC whose ground is Palo Seco Velodrome.",
+          "Akeem Adams has played for Ferencvarosi TC. and for United Petrotrin F.C., whose ground is the Palo Seco Velodrome.",
+          "Akeem Adams club is Ferencvarosi TC. He played for United Petrotrin F.C. which is playing in the Velodrome in Palo Seco."
+       ],
+       "input_string": "[Head Entity] Akeem Adams [Relation] club [Tail Entity] Ferencvárosi TC [Relation] club [Tail Entity] United Petrotrin F.C.[Head Entity] United Petrotrin F.C. [Relation] ground [Tail Entity] Palo Seco Velodrome",
+       "input_triple_str": "(Akeem Adams | club | Ferencvárosi TC)(Akeem Adams | club | United Petrotrin F.C.)(United Petrotrin F.C. | ground | Palo Seco Velodrome)"
+    },
+    {
+       "id": 191,
+       "kbs": {
+          "0": [
+             "Julia Morgan",
+             "Julia Morgan",
+             [
+                [
+                   "significant building",
+                   "Chinatown, San Francisco"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Julie Morgan designed significant buildings in Chinatown, San Francisco.",
+          "Julia Morgan is the architect behind Chinatown in San Francisco."
+       ],
+       "input_string": "[Head Entity] Julia Morgan [Relation] significant building [Tail Entity] Chinatown, San Francisco",
+       "input_triple_str": "(Julia Morgan | significant building | Chinatown, San Francisco)"
+    },
+    {
+       "id": 528,
+       "kbs": {
+          "0": [
+             "Ahmad Kadhim Assad",
+             "Ahmad Kadhim Assad",
+             [
+                [
+                   "club",
+                   "Steel Azin F.C."
+                ],
+                [
+                   "club",
+                   "Al Shorta SC"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Ahmad Kadhim Assad clubs are Steel Azin FC and Al Shorta SC.",
+          "Ahmad Kadhim Assad played for both Steel Azin F.C. and Al Shorta SC."
+       ],
+       "input_string": "[Head Entity] Ahmad Kadhim Assad [Relation] club [Tail Entity] Steel Azin F.C. [Relation] club [Tail Entity] Al Shorta SC",
+       "input_triple_str": "(Ahmad Kadhim Assad | club | Steel Azin F.C.)(Ahmad Kadhim Assad | club | Al Shorta SC)"
+    },
+    {
+       "id": 566,
+       "kbs": {
+          "0": [
+             "FC Torpedo Moscow",
+             "FC Torpedo Moscow",
+             [
+                [
+                   "season",
+                   "2014–15 Russian Premier League"
+                ]
+             ]
+          ],
+          "1": [
+             "Aleksandr Chumakov",
+             "Aleksandr Chumakov",
+             [
+                [
+                   "club",
+                   "FC Torpedo Moscow"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014–15 season in the Russian Premier League.",
+          "The club Aleksandr Chumakov plays for is FC Torpedo Moscow who played in the 2014-15 Russian Premier league.",
+          "Aleksandr Chumakov played for the club FC Torpedo Moscow, which was part of the Russian Premier League in the 2014-15 season."
+       ],
+       "input_string": "[Head Entity] FC Torpedo Moscow [Relation] season [Tail Entity] 2014–15 Russian Premier League[Head Entity] Aleksandr Chumakov [Relation] club [Tail Entity] FC Torpedo Moscow",
+       "input_triple_str": "(FC Torpedo Moscow | season | 2014–15 Russian Premier League)(Aleksandr Chumakov | club | FC Torpedo Moscow)"
+    },
+    {
+       "id": 434,
+       "kbs": {
+          "0": [
+             "American Journal of Mathematics",
+             "American Journal of Mathematics",
+             [
+                [
+                   "abbreviation",
+                   "\"Am. J. Math.\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The American Journal of Mathematics is also known by the abbreviated title of Am. J. Math.",
+          "Am. J. Math is the abbreviation for the American Journal of Mathematics.",
+          "The American Journal of Mathematics is abbreivated to Am. J. Math."
+       ],
+       "input_string": "[Head Entity] American Journal of Mathematics [Relation] abbreviation [Tail Entity] \"Am. J. Math.\"",
+       "input_triple_str": "(American Journal of Mathematics | abbreviation | \"Am. J. Math.\")"
+    },
+    {
+       "id": 686,
+       "kbs": {
+          "0": [
+             "Alhambra",
+             "Alhambra",
+             [
+                [
+                   "power type",
+                   "Humphrys, Tennant and Dykes"
+                ]
+             ]
+          ],
+          "1": [
+             "Humphrys, Tennant and Dykes",
+             "Humphrys, Tennant and Dykes",
+             [
+                [
+                   "location",
+                   "Deptford"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Humphrys, Tennant and Dykes are located in Deptford and power the Alhambra.",
+          "Humphrys, Tennant & Dykes is in Deptford and the Alhambra is powered by one of their engines.",
+          "The Alhambra is powered by a Humphrys, Tennant and Dykes engine, they are located in Deptford."
+       ],
+       "input_string": "[Head Entity] Alhambra [Relation] power type [Tail Entity] Humphrys, Tennant and Dykes[Head Entity] Humphrys, Tennant and Dykes [Relation] location [Tail Entity] Deptford",
+       "input_triple_str": "(Alhambra | power type | Humphrys, Tennant and Dykes)(Humphrys, Tennant and Dykes | location | Deptford)"
+    },
+    {
+       "id": 476,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location identifier",
+                   "\"APN\""
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "210"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The location identifier of Alpena County Regional airport is APN and is 210m a.s.l.",
+          "Ipena County Regional Airport (IPN) is 210 metres above sea level.",
+          "The Alpena County Regional Airport's location id is \"APN\", and it is elevated 210 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location identifier [Tail Entity] \"APN\" [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 210",
+       "input_triple_str": "(Alpena County Regional Airport | location identifier | \"APN\")(Alpena County Regional Airport | elevationAboveTheSeaLevel (in metres) | 210)"
+    },
+    {
+       "id": 1436,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location",
+                   "Wilson Township, Alpena County, Michigan"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "210"
+                ],
+                [
+                   "runway length",
+                   "2744.0"
+                ],
+                [
+                   "city served",
+                   "Alpena, Michigan"
+                ]
+             ]
+          ],
+          "1": [
+             "Alpena, Michigan",
+             "Alpena, Michigan",
+             [
+                [
+                   "country",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan (United States). It has a runway length of 2744 meters and an elevation of 210 metres above sea level.",
+          "Alpena County Regional airport is located at 210 metres above sea level in Wilson Township, Alpena County, Michigan. It serves the city of Alpena in the United States and is 2744 meters long.",
+          "Alpena County Regional Airport, which serves the city of Alpena, is located in Wilson Township, Alpena County, Michigan in the U.S.A. It's runway is 2,744 metres long and the facility is 210 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location [Tail Entity] Wilson Township, Alpena County, Michigan [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 210 [Relation] runway length [Tail Entity] 2744.0 [Relation] city served [Tail Entity] Alpena, Michigan[Head Entity] Alpena, Michigan [Relation] country [Tail Entity] United States",
+       "input_triple_str": "(Alpena County Regional Airport | location | Wilson Township, Alpena County, Michigan)(Alpena County Regional Airport | elevationAboveTheSeaLevel (in metres) | 210)(Alpena County Regional Airport | runway length | 2744.0)(Alpena County Regional Airport | city served | Alpena, Michigan)(Alpena, Michigan | country | United States)"
+    },
+    {
+       "id": 1181,
+       "kbs": {
+          "0": [
+             "Ashgabat International Airport",
+             "Ashgabat International Airport",
+             [
+                [
+                   "operating organisation",
+                   "Turkmenistan Airlines"
+                ]
+             ]
+          ],
+          "1": [
+             "Turkmenistan Airlines",
+             "Turkmenistan Airlines",
+             [
+                [
+                   "headquarter",
+                   "Turkmenistan"
+                ],
+                [
+                   "hub airport",
+                   "Turkmenabat Airport"
+                ],
+                [
+                   "headquarter",
+                   "Ashgabat"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Ashgabat International Airport is operated by Turkmenistan Airlines, the headquarters of which are in Ashgabat, in Turkmenistan. The hub airport for Turkmenistan Airlines is Turkmenabat Airport.",
+          "The operating organization for Ashgabat International Airport is called Turkmenistan Airlines and is in Turkmenistan. The hub airport for Turkmenistan Airlines is Turkmenabat Airport which is in Ashgabat.",
+          "The headquarters of Turkmenistan Airlines are located in Ashgabat, Turkmenistan. They are the operating organization for Ashgabat International Airport and have a hub at Turkmenabat airport."
+       ],
+       "input_string": "[Head Entity] Ashgabat International Airport [Relation] operating organisation [Tail Entity] Turkmenistan Airlines[Head Entity] Turkmenistan Airlines [Relation] headquarter [Tail Entity] Turkmenistan [Relation] hub airport [Tail Entity] Turkmenabat Airport [Relation] headquarter [Tail Entity] Ashgabat",
+       "input_triple_str": "(Ashgabat International Airport | operating organisation | Turkmenistan Airlines)(Turkmenistan Airlines | headquarter | Turkmenistan)(Turkmenistan Airlines | hub airport | Turkmenabat Airport)(Turkmenistan Airlines | headquarter | Ashgabat)"
+    },
+    {
+       "id": 38,
+       "kbs": {
+          "0": [
+             "Amsterdam Airport Schiphol",
+             "Amsterdam Airport Schiphol",
+             [
+                [
+                   "runway length",
+                   "3300.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The runway length of Amsterdam airport Schiphol is 3300.0.",
+          "The Amsterdam Airport Schiphol's runway length is 3300.",
+          "The runway length of Amsterdam Airport Schiphol is 3300.0."
+       ],
+       "input_string": "[Head Entity] Amsterdam Airport Schiphol [Relation] runway length [Tail Entity] 3300.0",
+       "input_triple_str": "(Amsterdam Airport Schiphol | runway length | 3300.0)"
+    },
+    {
+       "id": 778,
+       "kbs": {
+          "0": [
+             "Aenir",
+             "Aenir",
+             [
+                [
+                   "country",
+                   "Australians"
+                ]
+             ]
+          ],
+          "1": [
+             "Above the Veil",
+             "Above the Veil",
+             [
+                [
+                   "preceded by",
+                   "Aenir"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Above the Veil was preceded By Aenir, both Australian novels.",
+          "Above the Veil is the sequel to Aenir which was written by Australians.",
+          "Above the Veil and it's sequel Aeinir are examples of Austrlian literature."
+       ],
+       "input_string": "[Head Entity] Aenir [Relation] country [Tail Entity] Australians[Head Entity] Above the Veil [Relation] preceded by [Tail Entity] Aenir",
+       "input_triple_str": "(Aenir | country | Australians)(Above the Veil | preceded by | Aenir)"
+    },
+    {
+       "id": 1324,
+       "kbs": {
+          "0": [
+             "Abarth 1000 GT Coupé",
+             "Abarth 1000 GT Coupé",
+             [
+                [
+                   "designer",
+                   "Gruppo Bertone"
+                ],
+                [
+                   "manufacturer",
+                   "Abarth"
+                ]
+             ]
+          ],
+          "1": [
+             "Gruppo Bertone",
+             "Gruppo Bertone",
+             [
+                [
+                   "foundation place",
+                   "Turin"
+                ],
+                [
+                   "founded by",
+                   "Giovanni Bertone"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Designed by Gruppo Bertone in Turin, the Abarth 1000 GT Coupe was founded by Giovanni Bertone. Abarth are the makers of the Abarth 1000 GT Coupé.",
+          "The Abarth 1000 GT Coupé, designed by Turin area, Gruppo Bertone (founder: Giovanni Bertone), is manufactured by Abarth.",
+          "Giovannie Bertone founded the Gruppo Bertone in Turin. They were the designer of the Abarth 1000GT Coupe manufactured by Abarth."
+       ],
+       "input_string": "[Head Entity] Abarth 1000 GT Coupé [Relation] designer [Tail Entity] Gruppo Bertone [Relation] manufacturer [Tail Entity] Abarth[Head Entity] Gruppo Bertone [Relation] foundation place [Tail Entity] Turin [Relation] founded by [Tail Entity] Giovanni Bertone",
+       "input_triple_str": "(Abarth 1000 GT Coupé | designer | Gruppo Bertone)(Abarth 1000 GT Coupé | manufacturer | Abarth)(Gruppo Bertone | foundation place | Turin)(Gruppo Bertone | founded by | Giovanni Bertone)"
+    },
+    {
+       "id": 225,
+       "kbs": {
+          "0": [
+             "(66063) 1998 RO1",
+             "(66063) 1998 RO1",
+             [
+                [
+                   "epoch",
+                   "2013-11-04"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "66063 1998 RO1 has an epoch date of 4 November 2013.",
+          "(66063) 1998 RO1 has an epoch date of 2013-11-04.",
+          "The epoch of (66063) 1998 RO1 is on the 13th of January 2016."
+       ],
+       "input_string": "[Head Entity] (66063) 1998 RO1 [Relation] epoch [Tail Entity] 2013-11-04",
+       "input_triple_str": "((66063) 1998 RO1 | epoch | 2013-11-04)"
+    },
+    {
+       "id": 819,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "location",
+                   "Ícolo e Bengo"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "159"
+                ]
+             ]
+          ],
+          "1": [
+             "Ícolo e Bengo",
+             "Ícolo e Bengo",
+             [
+                [
+                   "country",
+                   "Angola"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "At 159 meters above sea level, Angola International airport is located in Icolo e Bengo, in Angola.",
+          "Angola International Airport is in Icolo e Bengo, Angola and is 159 metres above sea level.",
+          "Angola International Airport is located in Ícolo e Bengo, Angola and is 159 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] location [Tail Entity] Ícolo e Bengo [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 159[Head Entity] Ícolo e Bengo [Relation] country [Tail Entity] Angola",
+       "input_triple_str": "(Angola International Airport | location | Ícolo e Bengo)(Angola International Airport | elevationAboveTheSeaLevel (in metres) | 159)(Ícolo e Bengo | country | Angola)"
+    },
+    {
+       "id": 1293,
+       "kbs": {
+          "0": [
+             "10 Hygiea",
+             "10 Hygiea",
+             [
+                [
+                   "epoch",
+                   "2015-06-27"
+                ],
+                [
+                   "surface area",
+                   "837080.744 (squareKilometres)"
+                ],
+                [
+                   "escape velocity",
+                   "0.21 (kilometrePerSeconds)"
+                ],
+                [
+                   "apoapsis",
+                   "523951582.33968 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The asteroid called 10 Hygiea, has an apoapsis of 523951582.33968 kilometres and an escape velocity of 0.21 km per sec. Its surface area is 837080.744 square kilometres, and it has an epoch date of June 27th 2015.",
+          "The celestial body known as 10 Hygiea is an asteroid with the epoch date 27 June 2015. It has a surface area of 837080.744 square km, an apoapsis of 523951582.33968 kilometres and an escape velocity of 0.21 km per sec.",
+          "The asteroid called 10 Hygiea has an epoch date of 27th June 2015 and a surface area of 837080.744 square km. It has an escape velocity of 0.21 km per sec and an apoapsis of 523951582.33968 (kilometres)."
+       ],
+       "input_string": "[Head Entity] 10 Hygiea [Relation] epoch [Tail Entity] 2015-06-27 [Relation] surface area [Tail Entity] 837080.744 (squareKilometres) [Relation] escape velocity [Tail Entity] 0.21 (kilometrePerSeconds) [Relation] apoapsis [Tail Entity] 523951582.33968 (kilometres)",
+       "input_triple_str": "(10 Hygiea | epoch | 2015-06-27)(10 Hygiea | surface area | 837080.744 (squareKilometres))(10 Hygiea | escape velocity | 0.21 (kilometrePerSeconds))(10 Hygiea | apoapsis | 523951582.33968 (kilometres))"
+    },
+    {
+       "id": 1210,
+       "kbs": {
+          "0": [
+             "11 Diagonal Street",
+             "11 Diagonal Street",
+             [
+                [
+                   "location",
+                   "South Africa"
+                ]
+             ]
+          ],
+          "1": [
+             "South Africa",
+             "South Africa",
+             [
+                [
+                   "ethnic group",
+                   "Asian South Africans"
+                ],
+                [
+                   "capital",
+                   "Cape Town"
+                ],
+                [
+                   "ethnic group",
+                   "Coloured"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "11 Diagonal Street is in South Africa, the capital of which is Cape Town. Two of the ethnic groups within South Africa are coloured people and Asian South Africans."
+       ],
+       "input_string": "[Head Entity] 11 Diagonal Street [Relation] location [Tail Entity] South Africa[Head Entity] South Africa [Relation] ethnic group [Tail Entity] Asian South Africans [Relation] capital [Tail Entity] Cape Town [Relation] ethnic group [Tail Entity] Coloured",
+       "input_triple_str": "(11 Diagonal Street | location | South Africa)(South Africa | ethnic group | Asian South Africans)(South Africa | capital | Cape Town)(South Africa | ethnic group | Coloured)"
+    },
+    {
+       "id": 199,
+       "kbs": {
+          "0": [
+             "South Africa",
+             "South Africa",
+             [
+                [
+                   "leader name",
+                   "Jacob Zuma"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "South Africa's leader is called Jacob Zuma.",
+          "The leader of South Africa is Jacob Zuma.",
+          "Jacob Zuma is a leader in South Africa."
+       ],
+       "input_string": "[Head Entity] South Africa [Relation] leader name [Tail Entity] Jacob Zuma",
+       "input_triple_str": "(South Africa | leader name | Jacob Zuma)"
+    },
+    {
+       "id": 1550,
+       "kbs": {
+          "0": [
+             "Alvis Speed 25",
+             "Alvis Speed 25",
+             [
+                [
+                   "class",
+                   "Full-size car"
+                ],
+                [
+                   "model start year",
+                   "1937"
+                ],
+                [
+                   "wheelbase",
+                   "127.0 (inches)"
+                ],
+                [
+                   "engine",
+                   "31.48 tax horsepower"
+                ],
+                [
+                   "transmission",
+                   "\"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Alvis Speed 25 was first manufactured in 1937, and is classed as a Full-size car. It has a wheelbase of 127 inches, and an engine capable of producing 31.48 tax horsepower. The transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and a spiral bevel fully floating back axle.",
+          "The full size class Alvis Speed 25, manufactured in 1937, has a 127\" wheelbase ans a 31.42 tax horsepower engine. It has a \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\" transmission."
+       ],
+       "input_string": "[Head Entity] Alvis Speed 25 [Relation] class [Tail Entity] Full-size car [Relation] model start year [Tail Entity] 1937 [Relation] wheelbase [Tail Entity] 127.0 (inches) [Relation] engine [Tail Entity] 31.48 tax horsepower [Relation] transmission [Tail Entity] \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"",
+       "input_triple_str": "(Alvis Speed 25 | class | Full-size car)(Alvis Speed 25 | model start year | 1937)(Alvis Speed 25 | wheelbase | 127.0 (inches))(Alvis Speed 25 | engine | 31.48 tax horsepower)(Alvis Speed 25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\")"
+    },
+    {
+       "id": 1589,
+       "kbs": {
+          "0": [
+             "Monocacy National Battlefield",
+             "Monocacy National Battlefield",
+             [
+                [
+                   "location",
+                   "Frederick County, Maryland"
+                ],
+                [
+                   "nearest city",
+                   "Frederick, Maryland"
+                ]
+             ]
+          ],
+          "1": [
+             "14th New Jersey Volunteer Infantry Monument",
+             "14th New Jersey Volunteer Infantry Monument",
+             [
+                [
+                   "established",
+                   "\"1907-07-11\""
+                ],
+                [
+                   "category",
+                   "Historic districts in the United States"
+                ],
+                [
+                   "district",
+                   "Monocacy National Battlefield"
+                ],
+                [
+                   "owning organisation",
+                   "National Park Service"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield near Frederick, Maryland. The monument was established 1907-07-11 and belongs to the category of Historic districts in the United States. The monument has been provided by the National Park Service.",
+          "The 14th New Jersey Volunteer Infantry Monument was established on July 11, 1907, in the Monocacy National Battlefield, in Frederick County, Maryland. The monument is categorized as a United States historic district and is under the responsibility of the National Park Service. The closest city to the battlefield is Frederick, Maryland.",
+          "The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) belongs to the category of Historic districts in the United States and is located on Monocacy National Battlefield. The nearest city is Frederick, Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service."
+       ],
+       "input_string": "[Head Entity] Monocacy National Battlefield [Relation] location [Tail Entity] Frederick County, Maryland [Relation] nearest city [Tail Entity] Frederick, Maryland[Head Entity] 14th New Jersey Volunteer Infantry Monument [Relation] established [Tail Entity] \"1907-07-11\" [Relation] category [Tail Entity] Historic districts in the United States [Relation] district [Tail Entity] Monocacy National Battlefield [Relation] owning organisation [Tail Entity] National Park Service",
+       "input_triple_str": "(Monocacy National Battlefield | location | Frederick County, Maryland)(Monocacy National Battlefield | nearest city | Frederick, Maryland)(14th New Jersey Volunteer Infantry Monument | established | \"1907-07-11\")(14th New Jersey Volunteer Infantry Monument | category | Historic districts in the United States)(14th New Jersey Volunteer Infantry Monument | district | Monocacy National Battlefield)(14th New Jersey Volunteer Infantry Monument | owning organisation | National Park Service)"
+    },
+    {
+       "id": 1028,
+       "kbs": {
+          "0": [
+             "Alhambra",
+             "Alhambra",
+             [
+                [
+                   "ship beam",
+                   "8.3 m"
+                ],
+                [
+                   "length",
+                   "63800.0 (millimetres)"
+                ],
+                [
+                   "top speed",
+                   "18.52"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The Alhambra, with a top speed of 18.52, is 63800.0 mm long and has an 8.3 m ship beam.",
+          "The Alhambra is 638m long and has a ship beam of 8.3m and a top speed of 18.52."
+       ],
+       "input_string": "[Head Entity] Alhambra [Relation] ship beam [Tail Entity] 8.3 m [Relation] length [Tail Entity] 63800.0 (millimetres) [Relation] top speed [Tail Entity] 18.52",
+       "input_triple_str": "(Alhambra | ship beam | 8.3 m)(Alhambra | length | 63800.0 (millimetres))(Alhambra | top speed | 18.52)"
+    },
+    {
+       "id": 385,
+       "kbs": {
+          "0": [
+             "Peter Stöger",
+             "Peter Stöger",
+             [
+                [
+                   "club",
+                   "SK Rapid Wien"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Peter Stöger was at the club SK Rapid Wien.",
+          "PeterStöger plays for SK Rapid Wien club.",
+          "Peter Stoger plays for SK Rapid Wien."
+       ],
+       "input_string": "[Head Entity] Peter Stöger [Relation] club [Tail Entity] SK Rapid Wien",
+       "input_triple_str": "(Peter Stöger | club | SK Rapid Wien)"
+    },
+    {
+       "id": 1177,
+       "kbs": {
+          "0": [
+             "Ashgabat International Airport",
+             "Ashgabat International Airport",
+             [
+                [
+                   "operating organisation",
+                   "Turkmenistan Airlines"
+                ],
+                [
+                   "location",
+                   "Ashgabat"
+                ],
+                [
+                   "runway length",
+                   "2989.0"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "211"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Ashgabat International Airport located in Ashgabat has a runway of length 2989.0 meters. The airport is operated by Turkmenistan Airlines and has an elevation of 211 metres above sea level.",
+          "Turkmenistan airlines are the operating organisation for Ashgabat International Airport which is 211 metres above sea level and has a runway length of 2989.0 metres.",
+          "The operating organization for Ashgabat International Airport in Ashgabat is Turkmenistan Airlines. The runway length is 2989.0 and the airport is 211 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Ashgabat International Airport [Relation] operating organisation [Tail Entity] Turkmenistan Airlines [Relation] location [Tail Entity] Ashgabat [Relation] runway length [Tail Entity] 2989.0 [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 211",
+       "input_triple_str": "(Ashgabat International Airport | operating organisation | Turkmenistan Airlines)(Ashgabat International Airport | location | Ashgabat)(Ashgabat International Airport | runway length | 2989.0)(Ashgabat International Airport | elevationAboveTheSeaLevel (in metres) | 211)"
+    },
+    {
+       "id": 1559,
+       "kbs": {
+          "0": [
+             "Alvis Speed 25",
+             "Alvis Speed 25",
+             [
+                [
+                   "model start year",
+                   "1937"
+                ],
+                [
+                   "transmission",
+                   "\"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\""
+                ],
+                [
+                   "wheelbase",
+                   "127.0 (inches)"
+                ],
+                [
+                   "class",
+                   "\"Full-size luxury car\""
+                ],
+                [
+                   "engine",
+                   "31.48 tax horsepower"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1937 is when production started of the Alvis Speed 25 which is a full-size luxury vehicle. This vehicle has a wheelbase of 127 inches and a 31.48 tax hp engine. The Alvis Speed 25 has an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\".",
+          "The Alvis Speed 25 is a full-size luxury vehicle which entered production in 1937. It features a 127 inch wheelbase, as well as an engine capable of producing 31.48 tax horsepower. Its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.",
+          "The Alvis Speed 25, first manufactured in 1937, has an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\". It is a full-size luxury vehicle with a 31.48 tax hp engine and has wheelbases measuring 127 inches."
+       ],
+       "input_string": "[Head Entity] Alvis Speed 25 [Relation] model start year [Tail Entity] 1937 [Relation] transmission [Tail Entity] \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\" [Relation] wheelbase [Tail Entity] 127.0 (inches) [Relation] class [Tail Entity] \"Full-size luxury car\" [Relation] engine [Tail Entity] 31.48 tax horsepower",
+       "input_triple_str": "(Alvis Speed 25 | model start year | 1937)(Alvis Speed 25 | transmission | \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\")(Alvis Speed 25 | wheelbase | 127.0 (inches))(Alvis Speed 25 | class | \"Full-size luxury car\")(Alvis Speed 25 | engine | 31.48 tax horsepower)"
+    },
+    {
+       "id": 999,
+       "kbs": {
+          "0": [
+             "110 Lydia",
+             "110 Lydia",
+             [
+                [
+                   "epoch",
+                   "2006-12-31"
+                ],
+                [
+                   "mass",
+                   "6.7 (kilograms)"
+                ],
+                [
+                   "periapsis",
+                   "377016000000.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "110 Lydia's epoch is 31st December 2006, it has a mass of 6.7kg and a periapsis of 377016000000.0.",
+          "110 Lydia has a mass of 6.7 kg, a periapsis of 377016000000.0, and has an epoch date of December 31st, 2006.",
+          "110 Lydia has an epoch date of December 31st 2006. Its mass is 6.7 kg and has a periapsis measurement of 377016000000.0."
+       ],
+       "input_string": "[Head Entity] 110 Lydia [Relation] epoch [Tail Entity] 2006-12-31 [Relation] mass [Tail Entity] 6.7 (kilograms) [Relation] periapsis [Tail Entity] 377016000000.0",
+       "input_triple_str": "(110 Lydia | epoch | 2006-12-31)(110 Lydia | mass | 6.7 (kilograms))(110 Lydia | periapsis | 377016000000.0)"
+    },
+    {
+       "id": 524,
+       "kbs": {
+          "0": [
+             "Ahmad Kadhim Assad",
+             "Ahmad Kadhim Assad",
+             [
+                [
+                   "club",
+                   "Esteghlal Ahvaz F.C."
+                ]
+             ]
+          ],
+          "1": [
+             "Esteghlal Ahvaz F.C.",
+             "Esteghlal Ahvaz F.C.",
+             [
+                [
+                   "manager",
+                   "Adnan Hamad"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Ahmad Kadhim Assad's club is Esteghlal Ahvaz FC which is managed by Adnan Hamad.",
+          "Ahmad Kadhim Assad played for the Esteghlal Ahvaz F C whose manager is Adnan Hamad.",
+          "Ahmad Kadhim Assad plays for the Esteghlal Ahvaz F.C. which is managed by Adnan Hamad."
+       ],
+       "input_string": "[Head Entity] Ahmad Kadhim Assad [Relation] club [Tail Entity] Esteghlal Ahvaz F.C.[Head Entity] Esteghlal Ahvaz F.C. [Relation] manager [Tail Entity] Adnan Hamad",
+       "input_triple_str": "(Ahmad Kadhim Assad | club | Esteghlal Ahvaz F.C.)(Esteghlal Ahvaz F.C. | manager | Adnan Hamad)"
+    },
+    {
+       "id": 765,
+       "kbs": {
+          "0": [
+             "Above the Veil",
+             "Above the Veil",
+             [
+                [
+                   "language",
+                   "English language"
+                ]
+             ]
+          ],
+          "1": [
+             "Aenir",
+             "Aenir",
+             [
+                [
+                   "followed by",
+                   "Above the Veil"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Above the Veil followed the book Aenir and is written in English.",
+          "The book Aenir was followed up by Above the Veil, which is written in English.",
+          "The novel Aenir was followed by Above the Veil written in English."
+       ],
+       "input_string": "[Head Entity] Above the Veil [Relation] language [Tail Entity] English language[Head Entity] Aenir [Relation] followed by [Tail Entity] Above the Veil",
+       "input_triple_str": "(Above the Veil | language | English language)(Aenir | followed by | Above the Veil)"
+    },
+    {
+       "id": 194,
+       "kbs": {
+          "0": [
+             "Pacific Grove, California",
+             "Pacific Grove, California",
+             [
+                [
+                   "country",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Pacific Grove, California is in the United States.",
+          "Pacific Grove, California is located in the United States."
+       ],
+       "input_string": "[Head Entity] Pacific Grove, California [Relation] country [Tail Entity] United States",
+       "input_triple_str": "(Pacific Grove, California | country | United States)"
+    },
+    {
+       "id": 810,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location",
+                   "Wilson Township, Alpena County, Michigan"
+                ],
+                [
+                   "runway length",
+                   "2744.0"
+                ]
+             ]
+          ],
+          "1": [
+             "Wilson Township, Alpena County, Michigan",
+             "Wilson Township, Alpena County, Michigan",
+             [
+                [
+                   "country",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The location of Alpena County Regional Airport is Wilson Township, Alpena County, Michigan, USA, and has a runway length of 2744.",
+          "Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan, United States and is 2744 metres long.",
+          "Alpena County Regional Airport is located at Wilson Township, Alpena County, Michigan, United States. It is 2744 meters long."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location [Tail Entity] Wilson Township, Alpena County, Michigan [Relation] runway length [Tail Entity] 2744.0[Head Entity] Wilson Township, Alpena County, Michigan [Relation] country [Tail Entity] United States",
+       "input_triple_str": "(Alpena County Regional Airport | location | Wilson Township, Alpena County, Michigan)(Alpena County Regional Airport | runway length | 2744.0)(Wilson Township, Alpena County, Michigan | country | United States)"
+    },
+    {
+       "id": 1582,
+       "kbs": {
+          "0": [
+             "John Cowper Powys",
+             "John Cowper Powys",
+             [
+                [
+                   "birth place",
+                   "Shirley, Derbyshire"
+                ]
+             ]
+          ],
+          "1": [
+             "Weymouth Sands",
+             "Weymouth Sands",
+             [
+                [
+                   "followed by",
+                   "Maiden Castle (novel)"
+                ]
+             ]
+          ],
+          "2": [
+             "A Glastonbury Romance",
+             "A Glastonbury Romance",
+             [
+                [
+                   "followed by",
+                   "Weymouth Sands"
+                ],
+                [
+                   "preceded by",
+                   "Wolf Solent"
+                ]
+             ]
+          ],
+          "3": [
+             "Wolf Solent",
+             "Wolf Solent",
+             [
+                [
+                   "author",
+                   "John Cowper Powys"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "John Cowper Powys was born in Shirley Derbyshire and wrote \"Wolf Solent\". The book is followed by A Glastonbury Romance, Weymouth Sands and Maiden Castle.",
+          "Shirley, Derbyshire is the birthplace of John Cowper Powys who wrote \"Wolf Solent\". This book is followed by the novel \"A Glastonbury Romance\", \"Weymouth Sands\" and \"Maiden Castle\".",
+          "A Glastonbury Romance was followed by Weymouth Sands, which is sequeled to Maiden Castle, and was preceded By Wolf Solent, which author is John Cowper Powys, who was born in Shirley, Derbyshire."
+       ],
+       "input_string": "[Head Entity] John Cowper Powys [Relation] birth place [Tail Entity] Shirley, Derbyshire[Head Entity] Weymouth Sands [Relation] followed by [Tail Entity] Maiden Castle (novel)[Head Entity] A Glastonbury Romance [Relation] followed by [Tail Entity] Weymouth Sands [Relation] preceded by [Tail Entity] Wolf Solent[Head Entity] Wolf Solent [Relation] author [Tail Entity] John Cowper Powys",
+       "input_triple_str": "(John Cowper Powys | birth place | Shirley, Derbyshire)(Weymouth Sands | followed by | Maiden Castle (novel))(A Glastonbury Romance | followed by | Weymouth Sands)(A Glastonbury Romance | preceded by | Wolf Solent)(Wolf Solent | author | John Cowper Powys)"
+    },
+    {
+       "id": 52,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "location",
+                   "Ícolo e Bengo"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Angola International Airport is located at Ícolo e Bengo.",
+          "Angola International airport is located in Icolo e Bengo.",
+          "Angola International Airport is located in Ícolo e Bengo."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] location [Tail Entity] Ícolo e Bengo",
+       "input_triple_str": "(Angola International Airport | location | Ícolo e Bengo)"
+    },
+    {
+       "id": 137,
+       "kbs": {
+          "0": [
+             "Alex Tyus",
+             "Alex Tyus",
+             [
+                [
+                   "club",
+                   "Anadolu Efes S.K."
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alex Tyus plays for Anadolu Efes S.K.",
+          "Alex Tyus played for the club Anadolu Efes S.K."
+       ],
+       "input_string": "[Head Entity] Alex Tyus [Relation] club [Tail Entity] Anadolu Efes S.K.",
+       "input_triple_str": "(Alex Tyus | club | Anadolu Efes S.K.)"
+    },
+    {
+       "id": 1153,
+       "kbs": {
+          "0": [
+             "Aarhus Airport",
+             "Aarhus Airport",
+             [
+                [
+                   "runway length",
+                   "2777.0"
+                ],
+                [
+                   "operating organisation",
+                   "\"Aarhus Lufthavn A/S\""
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "25.0"
+                ],
+                [
+                   "runway name",
+                   "\"10L/28R\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aarhus airport has a runway length of 2777.0 and is 25 metres above sea level. It is operated by Aarhus Lufthavn A/S and the runway name is 10L/28R.",
+          "Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which is 25 metres above sea level. The runway length is 2777.0 metres and the runway name is 10L/28R.",
+          "Aarhus Airport which is also known as 10L/28R is operated by Aarhus Lufthavn A/S and is 25.0 metres above sea level. It has a runway length of 2777.0."
+       ],
+       "input_string": "[Head Entity] Aarhus Airport [Relation] runway length [Tail Entity] 2777.0 [Relation] operating organisation [Tail Entity] \"Aarhus Lufthavn A/S\" [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 25.0 [Relation] runway name [Tail Entity] \"10L/28R\"",
+       "input_triple_str": "(Aarhus Airport | runway length | 2777.0)(Aarhus Airport | operating organisation | \"Aarhus Lufthavn A/S\")(Aarhus Airport | elevationAboveTheSeaLevel (in metres) | 25.0)(Aarhus Airport | runway name | \"10L/28R\")"
+    },
+    {
+       "id": 53,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "runway length",
+                   "3800.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The runway length of Angola International Airport is 3,800.",
+          "The runway at Angola International airport is 3800 long.",
+          "The runway length of Angola International Airport is 3800.0."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] runway length [Tail Entity] 3800.0",
+       "input_triple_str": "(Angola International Airport | runway length | 3800.0)"
+    },
+    {
+       "id": 623,
+       "kbs": {
+          "0": [
+             "(66063) 1998 RO1",
+             "(66063) 1998 RO1",
+             [
+                [
+                   "epoch",
+                   "2013-11-04"
+                ],
+                [
+                   "periapsis",
+                   "41498400000.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1998 RO1 has an epoch date of 4 November 2013 and a periapsis of 41498400000.",
+          "(66063) 1998 RO1, which has a periapsis measuring 41498400000.0, has the epoch date 13th January 2016."
+       ],
+       "input_string": "[Head Entity] (66063) 1998 RO1 [Relation] epoch [Tail Entity] 2013-11-04 [Relation] periapsis [Tail Entity] 41498400000.0",
+       "input_triple_str": "((66063) 1998 RO1 | epoch | 2013-11-04)((66063) 1998 RO1 | periapsis | 41498400000.0)"
+    },
+    {
+       "id": 591,
+       "kbs": {
+          "0": [
+             "Asilomar Conference Grounds",
+             "Asilomar Conference Grounds",
+             [
+                [
+                   "location",
+                   "\"Asilomar Blvd., Pacific Grove, California\""
+                ],
+                [
+                   "year of construction",
+                   "1913"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.",
+          "The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA."
+       ],
+       "input_string": "[Head Entity] Asilomar Conference Grounds [Relation] location [Tail Entity] \"Asilomar Blvd., Pacific Grove, California\" [Relation] year of construction [Tail Entity] 1913",
+       "input_triple_str": "(Asilomar Conference Grounds | location | \"Asilomar Blvd., Pacific Grove, California\")(Asilomar Conference Grounds | year of construction | 1913)"
+    },
+    {
+       "id": 1170,
+       "kbs": {
+          "0": [
+             "Angola International Airport",
+             "Angola International Airport",
+             [
+                [
+                   "location",
+                   "Ícolo e Bengo"
+                ],
+                [
+                   "runway length",
+                   "4000.0"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "159"
+                ],
+                [
+                   "runway name",
+                   "\"South Runway\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Angola International Airport is 159 metres above the sea level and is located in Ícolo e Bengo. It has a runway called South Runway and has a runway length of 4000ft.",
+          "The Angola International Airport is located at Ícolo e Bengo and is 159 m above sea level. The runway's name is South Runway and it is 4000 feet long.",
+          "Angola International airport, located in Icolo e Bengo, is 159 metres above sea level, has a runway named \"South Runway\", which is 4000.0 in length."
+       ],
+       "input_string": "[Head Entity] Angola International Airport [Relation] location [Tail Entity] Ícolo e Bengo [Relation] runway length [Tail Entity] 4000.0 [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 159 [Relation] runway name [Tail Entity] \"South Runway\"",
+       "input_triple_str": "(Angola International Airport | location | Ícolo e Bengo)(Angola International Airport | runway length | 4000.0)(Angola International Airport | elevationAboveTheSeaLevel (in metres) | 159)(Angola International Airport | runway name | \"South Runway\")"
+    },
+    {
+       "id": 985,
+       "kbs": {
+          "0": [
+             "10 Hygiea",
+             "10 Hygiea",
+             [
+                [
+                   "epoch",
+                   "2015-06-27"
+                ],
+                [
+                   "former name",
+                   "\"A900 GA\""
+                ],
+                [
+                   "orbital period",
+                   "5.57 (days)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "10 Hygiea was formerly known as \"A900 GA\" and has an epoch date of 27 June 2015 and an orbital period of 5.57 days.",
+          "The asteroid Hygiea 10, once known as A900 GA, has an epoch date of 27th June 2015 and has an orbital period of 5.57 days.",
+          "10 Hygiea was formerly known as A900GA. It has the epoch date of 27 June 2015 and an orbital period of 5.57 days."
+       ],
+       "input_string": "[Head Entity] 10 Hygiea [Relation] epoch [Tail Entity] 2015-06-27 [Relation] former name [Tail Entity] \"A900 GA\" [Relation] orbital period [Tail Entity] 5.57 (days)",
+       "input_triple_str": "(10 Hygiea | epoch | 2015-06-27)(10 Hygiea | former name | \"A900 GA\")(10 Hygiea | orbital period | 5.57 (days))"
+    },
+    {
+       "id": 1499,
+       "kbs": {
+          "0": [
+             "Ethiopia",
+             "Ethiopia",
+             [
+                [
+                   "leader name",
+                   "Mulatu Teshome"
+                ],
+                [
+                   "leader name",
+                   "Hailemariam Desalegn"
+                ]
+             ]
+          ],
+          "1": [
+             "Addis Ababa",
+             "Addis Ababa",
+             [
+                [
+                   "is part of",
+                   "Addis Ababa Stadium"
+                ],
+                [
+                   "country",
+                   "Ethiopia"
+                ]
+             ]
+          ],
+          "2": [
+             "Addis Ababa City Hall",
+             "Addis Ababa City Hall",
+             [
+                [
+                   "location",
+                   "Addis Ababa"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Hailemariam Desalegn and Mulatu Teshome are leaders within Ethiopia. The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa.",
+          "Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The country is led by Malatu Teshome and Hailemariam Desalegn,.",
+          "Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Malatu Teshome and Hailemariam Desalegn are leaders in the country."
+       ],
+       "input_string": "[Head Entity] Ethiopia [Relation] leader name [Tail Entity] Mulatu Teshome [Relation] leader name [Tail Entity] Hailemariam Desalegn[Head Entity] Addis Ababa [Relation] is part of [Tail Entity] Addis Ababa Stadium [Relation] country [Tail Entity] Ethiopia[Head Entity] Addis Ababa City Hall [Relation] location [Tail Entity] Addis Ababa",
+       "input_triple_str": "(Ethiopia | leader name | Mulatu Teshome)(Ethiopia | leader name | Hailemariam Desalegn)(Addis Ababa | is part of | Addis Ababa Stadium)(Addis Ababa | country | Ethiopia)(Addis Ababa City Hall | location | Addis Ababa)"
+    },
+    {
+       "id": 278,
+       "kbs": {
+          "0": [
+             "1101 Clematis",
+             "1101 Clematis",
+             [
+                [
+                   "former name",
+                   "\"1928 SJ\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1928 SJ was the former name of 1101 Clematis.",
+          "\"1928 SJ\" is the former name of 1101 Clematis.",
+          "The former name of 1101 Clematis is \"1928 SJ\"."
+       ],
+       "input_string": "[Head Entity] 1101 Clematis [Relation] former name [Tail Entity] \"1928 SJ\"",
+       "input_triple_str": "(1101 Clematis | former name | \"1928 SJ\")"
+    },
+    {
+       "id": 785,
+       "kbs": {
+          "0": [
+             "American Journal of Mathematics",
+             "American Journal of Mathematics",
+             [
+                [
+                   "first publication year",
+                   "1878"
+                ],
+                [
+                   "abbreviation",
+                   "\"Am. J. Math.\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Am. J. Math is the abbreviation for the American Journal of Mathematics which was first published in 1878.",
+          "The American Journal of Mathematics, abbreivated to Am. J. Math., was first published in 1878.",
+          "The American Journal of Mathematics was first published in 1878 and is also known by the abbreviated title of Am. J. Math."
+       ],
+       "input_string": "[Head Entity] American Journal of Mathematics [Relation] first publication year [Tail Entity] 1878 [Relation] abbreviation [Tail Entity] \"Am. J. Math.\"",
+       "input_triple_str": "(American Journal of Mathematics | first publication year | 1878)(American Journal of Mathematics | abbreviation | \"Am. J. Math.\")"
+    },
+    {
+       "id": 1277,
+       "kbs": {
+          "0": [
+             "1097 Vicia",
+             "1097 Vicia",
+             [
+                [
+                   "epoch",
+                   "2006-12-31"
+                ],
+                [
+                   "orbital period",
+                   "135589000.0"
+                ],
+                [
+                   "periapsis",
+                   "279142000000.0"
+                ],
+                [
+                   "apoapsis",
+                   "511592000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1097 Vicia's orbital period is 135589000, periapsis of 279142000000 kilometers , apoapsis of 511592000 kilometers, and a epoch on the 31st of December, 2006.",
+          "1097 Vicia has a periapsis of 279142000000.0 and an orbital period of, 135589000.0. With an apoapsis of 511592000.0 kilometres. 1097 Vica, has an orbital period of 135589000.0.",
+          "1097 Vicia has a periapsis of 279142000000, and an orbital period of 135589000.0. The epoch of 1097 Vicia is on 13 January 2016, and it has an apoapsis of, 511592000.0 km."
+       ],
+       "input_string": "[Head Entity] 1097 Vicia [Relation] epoch [Tail Entity] 2006-12-31 [Relation] orbital period [Tail Entity] 135589000.0 [Relation] periapsis [Tail Entity] 279142000000.0 [Relation] apoapsis [Tail Entity] 511592000.0 (kilometres)",
+       "input_triple_str": "(1097 Vicia | epoch | 2006-12-31)(1097 Vicia | orbital period | 135589000.0)(1097 Vicia | periapsis | 279142000000.0)(1097 Vicia | apoapsis | 511592000.0 (kilometres))"
+    },
+    {
+       "id": 182,
+       "kbs": {
+          "0": [
+             "Asilomar Conference Grounds",
+             "Asilomar Conference Grounds",
+             [
+                [
+                   "architectural style",
+                   "Arts and Crafts movement"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.",
+          "The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.",
+          "The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement."
+       ],
+       "input_string": "[Head Entity] Asilomar Conference Grounds [Relation] architectural style [Tail Entity] Arts and Crafts movement",
+       "input_triple_str": "(Asilomar Conference Grounds | architectural style | Arts and Crafts movement)"
+    },
+    {
+       "id": 86,
+       "kbs": {
+          "0": [
+             "Suburban Legends",
+             "Suburban Legends",
+             [
+                [
+                   "genre",
+                   "Pop music"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Suburban Legend's genre is pop music.",
+          "Suburban Legend performs pop music.",
+          "The Suburban Legends is a pop music band."
+       ],
+       "input_string": "[Head Entity] Suburban Legends [Relation] genre [Tail Entity] Pop music",
+       "input_triple_str": "(Suburban Legends | genre | Pop music)"
+    },
+    {
+       "id": 15,
+       "kbs": {
+          "0": [
+             "Aarhus Airport",
+             "Aarhus Airport",
+             [
+                [
+                   "runway name",
+                   "\"10R/28L\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The runway name at Aarhus Airport is \"10R/28L\".",
+          "10R/28L is the runway name at Aarhus airport,.",
+          "The runway name of Aarhus Airport is 10R/28L."
+       ],
+       "input_string": "[Head Entity] Aarhus Airport [Relation] runway name [Tail Entity] \"10R/28L\"",
+       "input_triple_str": "(Aarhus Airport | runway name | \"10R/28L\")"
+    },
+    {
+       "id": 25,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "runway length",
+                   "2744.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena County Regional Airport's runway length is 2744.0.",
+          "The Alpena County Regional Airport is 2744 meters long.",
+          "The runway length of Alpena County Regional Airport is 2744.0."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] runway length [Tail Entity] 2744.0",
+       "input_triple_str": "(Alpena County Regional Airport | runway length | 2744.0)"
+    },
+    {
+       "id": 511,
+       "kbs": {
+          "0": [
+             "Ska punk",
+             "Ska punk",
+             [
+                [
+                   "stylistic origin",
+                   "Ska"
+                ]
+             ]
+          ],
+          "1": [
+             "Aaron Bertram",
+             "Aaron Bertram",
+             [
+                [
+                   "genre",
+                   "Ska punk"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aaron Bertram plays Ska punk, derived from ska music.",
+          "Aaron Bertram's musical genre is Ska punk which has its origins in Ska.",
+          "Aaron Bertram performs ska punk music which originated from ska music."
+       ],
+       "input_string": "[Head Entity] Ska punk [Relation] stylistic origin [Tail Entity] Ska[Head Entity] Aaron Bertram [Relation] genre [Tail Entity] Ska punk",
+       "input_triple_str": "(Ska punk | stylistic origin | Ska)(Aaron Bertram | genre | Ska punk)"
+    },
+    {
+       "id": 887,
+       "kbs": {
+          "0": [
+             "Alex Tyus",
+             "Alex Tyus",
+             [
+                [
+                   "league",
+                   "Turkish Basketball Super League"
+                ],
+                [
+                   "club",
+                   "Maccabi Ashdod B.C."
+                ]
+             ]
+          ],
+          "1": [
+             "Maccabi Ashdod B.C.",
+             "Maccabi Ashdod B.C.",
+             [
+                [
+                   "coach",
+                   "Zvi Sherf"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The league Alex Tyus plays in is the Turkish Basketball Super League. His club is Maccabi Ashdod BC which is coached by, Zvi Sherf.",
+          "Alex Tyus plays for Maccabi Ashdod B.C who are coached by Zvi Sherf and are part of the Turkish Basketball Super League."
+       ],
+       "input_string": "[Head Entity] Alex Tyus [Relation] league [Tail Entity] Turkish Basketball Super League [Relation] club [Tail Entity] Maccabi Ashdod B.C.[Head Entity] Maccabi Ashdod B.C. [Relation] coach [Tail Entity] Zvi Sherf",
+       "input_triple_str": "(Alex Tyus | league | Turkish Basketball Super League)(Alex Tyus | club | Maccabi Ashdod B.C.)(Maccabi Ashdod B.C. | coach | Zvi Sherf)"
+    },
+    {
+       "id": 1409,
+       "kbs": {
+          "0": [
+             "American Journal of Mathematics",
+             "American Journal of Mathematics",
+             [
+                [
+                   "academic discipline",
+                   "Mathematics"
+                ],
+                [
+                   "first publication year",
+                   "1878"
+                ],
+                [
+                   "abbreviation",
+                   "\"Am. J. Math.\""
+                ],
+                [
+                   "ISSN number",
+                   "\"1080-6377\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The academic discipline of the American Journal of Mathematics is Mathematics, published in 1878.",
+          "The American Journal of Mathematics, abbreivated to Am. J. Math, studies mathematics. It was first published in 1878 and has an ISSN number of 1080-6377.",
+          "The American Journal of Mathematics was first published in 1878 and has the ISSN number 1080-6377. It falls under the academic discipline of Math and the abbreviated title is Am. J. Math.."
+       ],
+       "input_string": "[Head Entity] American Journal of Mathematics [Relation] academic discipline [Tail Entity] Mathematics [Relation] first publication year [Tail Entity] 1878 [Relation] abbreviation [Tail Entity] \"Am. J. Math.\" [Relation] ISSN number [Tail Entity] \"1080-6377\"",
+       "input_triple_str": "(American Journal of Mathematics | academic discipline | Mathematics)(American Journal of Mathematics | first publication year | 1878)(American Journal of Mathematics | abbreviation | \"Am. J. Math.\")(American Journal of Mathematics | ISSN number | \"1080-6377\")"
+    },
+    {
+       "id": 1310,
+       "kbs": {
+          "0": [
+             "11264 Claudiomaccone",
+             "11264 Claudiomaccone",
+             [
+                [
+                   "epoch",
+                   "2005-11-26"
+                ],
+                [
+                   "orbital period",
+                   "1513.722 (days)"
+                ],
+                [
+                   "periapsis",
+                   "296521000.0 (kilometres)"
+                ],
+                [
+                   "apoapsis",
+                   "475426000.0 (kilometres)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "11264 Claudiomaccone has an epoch date of November 26th 2005 and an orbital period of 1513.722 days. It has a periapsis of 296521000.0 kilometres and an apoapsis of 475426000.0 (kilometres).",
+          "11264 Claudiomaccone, with an epoch date of November 26th 2005, has an orbital period of 1513.722 days. The apoapsis for 11264 Claudiomaccone is 475426000.0 km and its periapsis measures 296521000.0 km.",
+          "11264 Claudiomaccone has an epoch date of November 26th 2005 and an orbital period of 1513.722 days. Its periapsis is 296521000.0 kilometres and its apoapsis is 475426000.0 (kilometres)."
+       ],
+       "input_string": "[Head Entity] 11264 Claudiomaccone [Relation] epoch [Tail Entity] 2005-11-26 [Relation] orbital period [Tail Entity] 1513.722 (days) [Relation] periapsis [Tail Entity] 296521000.0 (kilometres) [Relation] apoapsis [Tail Entity] 475426000.0 (kilometres)",
+       "input_triple_str": "(11264 Claudiomaccone | epoch | 2005-11-26)(11264 Claudiomaccone | orbital period | 1513.722 (days))(11264 Claudiomaccone | periapsis | 296521000.0 (kilometres))(11264 Claudiomaccone | apoapsis | 475426000.0 (kilometres))"
+    },
+    {
+       "id": 1342,
+       "kbs": {
+          "0": [
+             "14th New Jersey Volunteer Infantry Monument",
+             "14th New Jersey Volunteer Infantry Monument",
+             [
+                [
+                   "country",
+                   "\"United States\""
+                ],
+                [
+                   "category",
+                   "Historic districts in the United States"
+                ],
+                [
+                   "district",
+                   "Monocacy National Battlefield"
+                ],
+                [
+                   "established",
+                   "\"1907-07-11\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.",
+          "The 14th New Jersey Volunteer Infantry monument is located in the United States within the Monocacy National Battlefield. It was established on 11 July 1907 and is categorised as a historic district.",
+          "The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) is located on the Monocacy National Battlefield in the United States, where it is categorised as a historic district."
+       ],
+       "input_string": "[Head Entity] 14th New Jersey Volunteer Infantry Monument [Relation] country [Tail Entity] \"United States\" [Relation] category [Tail Entity] Historic districts in the United States [Relation] district [Tail Entity] Monocacy National Battlefield [Relation] established [Tail Entity] \"1907-07-11\"",
+       "input_triple_str": "(14th New Jersey Volunteer Infantry Monument | country | \"United States\")(14th New Jersey Volunteer Infantry Monument | category | Historic districts in the United States)(14th New Jersey Volunteer Infantry Monument | district | Monocacy National Battlefield)(14th New Jersey Volunteer Infantry Monument | established | \"1907-07-11\")"
+    },
+    {
+       "id": 271,
+       "kbs": {
+          "0": [
+             "10 Hygiea",
+             "10 Hygiea",
+             [
+                [
+                   "rotation period",
+                   "198803.0"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "10 Hygiea has a rotation period of 198803.0.",
+          "The rotation period of 10 Hygiea is 198803.0."
+       ],
+       "input_string": "[Head Entity] 10 Hygiea [Relation] rotation period [Tail Entity] 198803.0",
+       "input_triple_str": "(10 Hygiea | rotation period | 198803.0)"
+    },
+    {
+       "id": 6,
+       "kbs": {
+          "0": [
+             "Maple Ridge Township, Alpena County, Michigan",
+             "Maple Ridge Township, Alpena County, Michigan",
+             [
+                [
+                   "is part of",
+                   "United States"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Maple Ridge Township in Alpena County, Michigan is part of the United States.",
+          "Maple Ridge Township, Alpena County, Michigan is part of the United States."
+       ],
+       "input_string": "[Head Entity] Maple Ridge Township, Alpena County, Michigan [Relation] is part of [Tail Entity] United States",
+       "input_triple_str": "(Maple Ridge Township, Alpena County, Michigan | is part of | United States)"
+    },
+    {
+       "id": 250,
+       "kbs": {
+          "0": [
+             "1097 Vicia",
+             "1097 Vicia",
+             [
+                [
+                   "temperature",
+                   "171.0 (kelvins)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "1097 Vicia has a temperature of 171.0 kelvins.",
+          "The temperature of 1097 Vicia is 171.0 (kelvins).",
+          "The celestial body known as 1097 Vicia has a temperature of 171 kelvins."
+       ],
+       "input_string": "[Head Entity] 1097 Vicia [Relation] temperature [Tail Entity] 171.0 (kelvins)",
+       "input_triple_str": "(1097 Vicia | temperature | 171.0 (kelvins))"
+    },
+    {
+       "id": 1434,
+       "kbs": {
+          "0": [
+             "Alpena County Regional Airport",
+             "Alpena County Regional Airport",
+             [
+                [
+                   "location",
+                   "Maple Ridge Township, Alpena County, Michigan"
+                ],
+                [
+                   "runway length",
+                   "1533.0"
+                ],
+                [
+                   "city served",
+                   "Alpena, Michigan"
+                ],
+                [
+                   "elevationAboveTheSeaLevel (in metres)",
+                   "210"
+                ],
+                [
+                   "runway name",
+                   "\"1/19\""
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Alpena County Regional Airport is located 210 metres above sea level at Maple Ridge Township, Alpena County, Michigan and serves the city of Alpena. The runway name is 1/19 and it has a length of 1533.0.",
+          "Alpena County Regional Airport serves the city of Alpena and is located in Maple Ridge Township, Alpena County, Michigan. It is 210 metres above sea level and has a runway name of 1/19 with a length of 1533.0.",
+          "Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan and serves Alpena, Michigan. Its runway length is 1,533 and is named is 1/19/. The airport is 210 metres above sea level."
+       ],
+       "input_string": "[Head Entity] Alpena County Regional Airport [Relation] location [Tail Entity] Maple Ridge Township, Alpena County, Michigan [Relation] runway length [Tail Entity] 1533.0 [Relation] city served [Tail Entity] Alpena, Michigan [Relation] elevationAboveTheSeaLevel (in metres) [Tail Entity] 210 [Relation] runway name [Tail Entity] \"1/19\"",
+       "input_triple_str": "(Alpena County Regional Airport | location | Maple Ridge Township, Alpena County, Michigan)(Alpena County Regional Airport | runway length | 1533.0)(Alpena County Regional Airport | city served | Alpena, Michigan)(Alpena County Regional Airport | elevationAboveTheSeaLevel (in metres) | 210)(Alpena County Regional Airport | runway name | \"1/19\")"
+    },
+    {
+       "id": 218,
+       "kbs": {
+          "0": [
+             "(410777) 2009 FD",
+             "(410777) 2009 FD",
+             [
+                [
+                   "maximum temperature",
+                   "362.0 (kelvins)"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "The maximum temperature of 410777 2009 FD is 362.0 kelvins.",
+          "(410777) 2009 FD has a maximum temperature of 362.0 kelvins.",
+          "The celestial body known as (410777) 2009 FD has a maximum temperature of 362 kelvins."
+       ],
+       "input_string": "[Head Entity] (410777) 2009 FD [Relation] maximum temperature [Tail Entity] 362.0 (kelvins)",
+       "input_triple_str": "((410777) 2009 FD | maximum temperature | 362.0 (kelvins))"
+    },
+    {
+       "id": 1118,
+       "kbs": {
+          "0": [
+             "Aenir",
+             "Aenir",
+             [
+                [
+                   "OCLC number",
+                   "45644811"
+                ],
+                [
+                   "author",
+                   "Garth Nix"
+                ],
+                [
+                   "media type",
+                   "Paperback"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Aenir written by Garth Nix is available in paperback with the OCLC number 45644811.",
+          "The book Aenir, by Garth Nix, is available in paperback and has the OCLC number 45644811."
+       ],
+       "input_string": "[Head Entity] Aenir [Relation] OCLC number [Tail Entity] 45644811 [Relation] author [Tail Entity] Garth Nix [Relation] media type [Tail Entity] Paperback",
+       "input_triple_str": "(Aenir | OCLC number | 45644811)(Aenir | author | Garth Nix)(Aenir | media type | Paperback)"
+    },
+    {
+       "id": 1092,
+       "kbs": {
+          "0": [
+             "AIP Advances",
+             "AIP Advances",
+             [
+                [
+                   "editor",
+                   "A.T. Charlie Johnson"
+                ],
+                [
+                   "publisher",
+                   "American Institute of Physics"
+                ]
+             ]
+          ],
+          "1": [
+             "A.T. Charlie Johnson",
+             "A.T. Charlie Johnson",
+             [
+                [
+                   "alma mater",
+                   "Harvard University"
+                ]
+             ]
+          ]
+       },
+       "text": [
+          "Harvard University is the alma mater of A T Charlie Johnson, who is the editor of AIP Advances, published by American Institute of Physics.",
+          "AIP Advances was edited by A.T. Charlie Johnson and published by American Institute of Physics. A.T. Charlie Johnson graduated from Harvard.",
+          "AIP Advances publisher is American Institute of Physics and his editor is A T Charlie Johnson , his almaMater is Harvard University ."
+       ],
+       "input_string": "[Head Entity] AIP Advances [Relation] editor [Tail Entity] A.T. Charlie Johnson [Relation] publisher [Tail Entity] American Institute of Physics[Head Entity] A.T. Charlie Johnson [Relation] alma mater [Tail Entity] Harvard University",
+       "input_triple_str": "(AIP Advances | editor | A.T. Charlie Johnson)(AIP Advances | publisher | American Institute of Physics)(A.T. Charlie Johnson | alma mater | Harvard University)"
+    }
+ ]
