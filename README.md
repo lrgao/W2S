@@ -42,9 +42,7 @@ bash train_sft_e2e.sh
 In Stage 2, the model is incrementally refined based on the Stage-1 model.
 
 ```shell
-bash train_dpo_webnlg.sh
-bash train_dpo_cnndm.sh
-bash train_dpo_e2e.sh
+bash train.sh
 ```
 
 ### Inference
