@@ -1,6 +1,4 @@
 #!/bin/bash
-source ~/.bashrc
-conda activate base
 
 llm_name="qwen2-7b"  # ("qwen2-7b" "llama3-8b" "glm4-9b")
 # Stage 1: SFT
