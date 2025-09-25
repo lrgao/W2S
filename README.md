@@ -54,20 +54,4 @@ bash gen_prompt.sh
 
 In the scripts, `--output_dir` denotes the directory of model checkpoint used for inference. The generated results are also saved in this directory.
 
-## Evaluation
-
-For a fair comparison with existing works, we use the evaluation scripts of [KGPT](https://github.com/wenhuchen/KGPT) for WebNLG.
-
-```shell
-cd eval_webnlg
-python measure_score.py ${reference_path} ${model_output_path}
-```
-
-As for WebQuestions and PathQuestions, we use the scripts of [BiGGNN](https://github.com/hugochan/Graph2Seq-for-KGQG) for evaluation.
-
-```shell
-cd eval_for_wqpq
-python eval.py --src ${source_path} --tgt ${reference_path} --out ${model_output_path}
-```
-
 During evaluation, `model_output_path` can be set to the generated file when running our inference codes. `source_path` can be set to `test.source` / `src-test.txt` in our pre-processed datasets. `reference_path` can be set to `test.target` / `tgt-test.txt` in our pre-processed datasets. Refer to the original repositories for more details.
