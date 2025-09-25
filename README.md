@@ -20,7 +20,10 @@ Our experiments contain three downstream datasets, i.e., [WebNLG](https://gitlab
 
 ### Weak-to-Strong Dataset Construction
 
-
+```shell
+cd dataset
+bash build_w2s.sh
+```
 
 ### Weak-to-Strong Prompt Correction
 
