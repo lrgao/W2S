@@ -53,6 +53,4 @@ We also provide the inference scripts to directly acquire the generation results
 bash gen_prompt.sh
 ```
 
-In the scripts, `--output_dir` denotes the directory of model checkpoint used for inference. The generated results are also saved in this directory.
-
-During evaluation, `model_output_path` can be set to the generated file when running our inference codes. `source_path` can be set to `test.source` / `src-test.txt` in our pre-processed datasets. `reference_path` can be set to `test.target` / `tgt-test.txt` in our pre-processed datasets. Refer to the original repositories for more details.
+In the scripts, `--output_dir` denotes the directory of model checkpoint used for inference. The generated prompts are also saved in this directory.
