@@ -14,7 +14,7 @@ CUDA_VISIBLE_DEVICES=0 python build_w2s.py \
     --input_file raw/${dataset}/icl.json \
     --output_dir w2s/${dataset}
 
-2. Evaluate the 50–100 generated prompts
+# 2. Evaluate the 50–100 generated prompts
 CUDA_VISIBLE_DEVICES=0 python build_w2s.py \
     --model $MODEL \
     --mode "gen_text" \
