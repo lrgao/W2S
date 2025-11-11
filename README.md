@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Datasets
 
 Our experiments contain three downstream datasets, i.e., [WebNLG](https://gitlab.com/shimorina/webnlg-dataset/), [CNN/Daily Mail](https://aclanthology.org/K16-1028.pdf), and [Clean E2E NLG](https://aclanthology.org/W19-8652.pdf). 
-The processed data can be obtained from here: (https://drive.google.com/file/d/1gv55lTgeE1gdYCl8pTmEvvedid2HeESL/view?usp=drive_link
+The processed data can be obtained from [here](https://drive.google.com/file/d/1gv55lTgeE1gdYCl8pTmEvvedid2HeESL/view?usp=drive_link
 ).
 
 ### Weak-to-Strong Dataset Construction
