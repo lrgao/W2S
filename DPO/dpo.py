@@ -42,6 +42,8 @@ def main(cfg : DictConfig):
     parser = transformers.HfArgumentParser(DPOConfig)
     trainer_args_dict = OmegaConf.to_container(cfg.trainer)
     training_args = parser.parse_dict(trainer_args_dict)[0]
+
+    training_args.output_dir = training_args.output_dir+'-'+cfg.dataset+'-'+cfg.llm_name
     
     set_seed(training_args.seed)
     
