@@ -1,24 +1,21 @@
-#!/bin/bash
-source ~/.bashrc
-conda activate base
-
-llm_name="qwen2-7b"  # ("qwen2-7b" "llama3-8b" "glm4-9b")
+llm_name="Qwen2-7B-Instruct"  # ("Qwen2-7B-Instruct" "Meta-Llama-3-8B-Instruct" "THUDM-glm-4-9b-chat")
+dataset="webnlg"
 # Stage 1: SFT
 CUDA_VISIBLE_DEVICES=0,1,2,3 python cli_gt.py \
         --do_train \
         --model_name t5 \
-        --output_dir out/SFT-webnlg-${llm_name} \
-        --train_file dataset/webnlg/${llm_name}/train_sft.json \
-        --predict_file dataset/webnlg/${llm_name}/dev_sft.json \
-        --icl_file ./dataset/webnlg/${llm_name}/icl.json \
+        --output_dir out/SFT-${dataset}-${llm_name} \
+        --train_file dataset/w2s/${llm_name}/${dataset}/traindata/sft.json \
+        --predict_file dataset/w2s/${llm_name}/${dataset}/devdata/sft.json \
+        --icl_file dataset/raw/${dataset}/icl.json \
         --model_path t5-base \
         --tokenizer_path t5-base \
-        --dataset webnlg \
+        --dataset ${dataset} \
         --train_batch_size 4 \
         --predict_batch_size 2 \
         --gradient_accumulation_steps 8 \
-        --max_input_length 2500 \
-        --max_output_length 350 \
+        --max_input_length 140 \
+        --max_output_length 120 \
         --append_another_bos \
         --learning_rate 2e-5 \
         --num_train_epochs 40 \
