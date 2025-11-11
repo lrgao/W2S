@@ -23,8 +23,11 @@ The processed data can be obtained from [here](https://drive.google.com/file/d/1
 ### Weak-to-Strong Dataset Construction
 
 ```shell
-cd dataset
-bash build_w2s.sh
+# Get training data
+bash dataset/build_w2s.sh
+
+# Get dev set data
+bash dataset/build_w2s_dev.sh
 ```
 
 ### Weak-to-Strong Prompt Correction
